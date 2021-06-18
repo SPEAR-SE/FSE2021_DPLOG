@@ -1,0 +1,1001 @@
+Id,Classification,title,Tags,Score,ViewCount,AnswerCount,CommentCount,CreationDate,LastActivityDate
+45153477,Configuration,Cross join runtime error: Use the CROSS JOIN syntax to allow cartesian products between these relations,<scala><apache-spark><apache-spark-sql>,4,4430,2,4,2017-07-17 20:52,2017-07-18 15:42
+49151722,Data Sources,How to write file to cassandra from spark,<scala><hadoop><apache-spark><cassandra><apache-spark-sql>,1,1993,1,0,2018-03-07 12:15,2018-03-07 12:47
+28942376,Data processing,What nodes are used in aggregation and reduction for reduce?,<apache-spark>,3,473,1,0,2015-03-09 12:47,2016-12-29 09:20
+36728627,Data processing,How to correlate all combination of arrays in an RDD?,<hadoop><apache-spark><pyspark>,1,47,1,1,2016-04-19 20:19,2016-04-20 07:20
+42886734,Data processing,What is difference between calling someRDD.collect.foreach(println) vs someRDD.foreach(println),<scala><apache-spark>,1,724,1,0,2017-03-19 12:44,2017-03-19 13:11
+47597970,Performance and Logging,How to join two JDBC tables and avoid Exchange?,<apache-spark><apache-spark-sql>,3,413,1,7,2017-12-01 16:55,2017-12-05 22:42
+41972210,Data Sources,Spark TypeError: LongType can not accept object u'Value' in type <type 'unicode'>,<python><apache-spark><spark-dataframe><parquet>,1,1898,1,0,2017-02-01 05:00,2017-02-01 10:12
+54012658,Spark API Usage,Why does streaming query with socket source and multiple sinks not work?,<apache-spark><spark-structured-streaming>,1,101,1,0,2019-01-02 20:21,2019-01-03 17:54
+38118582,Configuration,Spark (Java) to Elasticsearch,<java><maven><elasticsearch><apache-spark><elasticsearch-hadoop>,1,1105,1,0,2016-06-30 09:08,2016-06-30 12:39
+57610268,Data processing,Scala: copying a dataframe column into array and preserving the original order,<scala><apache-spark>,2,30,1,4,2019-08-22 13:16,2019-08-22 15:50
+50363487,Data processing,"leftOuterJoin JavaPairRDD<Integer, Integer> and JavaPairRDD<Integer, Map<Integer, Integer>>",<java><apache-spark>,2,236,1,0,2018-05-16 06:05,2018-05-16 06:45
+28803989,Data Sources,Creating Hive table - how to derive column names from CSV source?,<mysql><csv><hadoop><hive><apache-spark>,1,1851,2,0,2015-03-02 06:40,2015-03-02 15:48
+48869922,Data processing,How to efficiently check if a list of words is contained in a Spark Dataframe?,<python><apache-spark><dataframe><pyspark>,3,2747,2,1,2018-02-19 16:07,2018-08-16 19:26
+50468056,Data processing,Get the last value using spark window function,<apache-spark><apache-spark-sql>,3,1930,1,0,2018-05-22 12:43,2018-05-22 13:36
+34353995,Performance and Logging,Spark custom log4j integration for Scala application,<scala><maven><apache-spark><log4j><hortonworks-data-platform>,1,858,2,0,2015-12-18 10:55,2016-02-09 04:21
+32079372,Data processing,Finding total number of lines in hdfs distributed file using command line,<unix><hadoop><apache-spark><hdfs>,1,10582,6,1,2015-08-18 17:52,2017-07-02 05:08
+37228577,Data processing,spark reduceByKey() not shuffling for the final sum,<java><apache-spark>,1,233,1,6,2016-05-14 15:36,2016-05-14 21:39
+38957363,Data processing,Why is there no `reduceByValue` in Spark collections?,<scala><apache-spark>,1,579,1,6,2016-08-15 14:45,2016-08-15 17:51
+38304541,Data processing,Index out of range while converting from rdd to dataframe,<apache-spark><pyspark-sql>,1,1025,2,0,2016-07-11 10:22,2016-07-11 13:52
+47543747,Data processing,How to convert a dataframe of array of doubles to Vectors?,<scala><apache-spark>,1,926,1,1,2017-11-29 01:46,2017-11-29 02:11
+23191363,Data processing,spark join operation based on two columns,<scala><apache-spark>,1,8889,3,0,2014-04-21 05:28,2016-06-17 21:51
+36706512,Configuration,How do you automate pyspark jobs on emr using boto3 (or otherwise)?,<python><amazon-s3><apache-spark><pyspark><amazon-emr>,10,8881,3,1,2016-04-19 00:33,2018-09-16 18:57
+26832980,Configuration,calling spark-ec2 from within an EC2 instance: ssh connection to host refused,<ssh><amazon-ec2><apache-spark>,6,1752,1,0,2014-11-09 20:31,2014-11-10 03:06
+40666954,Data processing,Combining/joining rows of IDs in spark,<scala><apache-spark><functional-programming>,4,316,4,1,2016-11-17 23:33,2016-11-19 08:56
+51328497,Configuration,Retrieve data from Azure HDInsight with PySpark,<azure><apache-spark><pyspark><azure-sql-database><azure-dsvm>,1,414,1,0,2018-07-13 15:32,2018-07-24 13:30
+36350040,Spark API Usage,Flume+Spark - Storing DStream in HDFS,<apache-spark><spark-streaming><flume>,2,331,1,0,2016-04-01 07:05,2016-04-01 07:33
+38664972,Spark API Usage,"Why is ""Unable to find encoder for type stored in a Dataset"" when creating a dataset of custom case class?",<scala><apache-spark><apache-spark-dataset><apache-spark-encoders>,53,47540,3,0,2016-07-29 18:04,2019-02-08 22:17
+35990846,Data Sources,SPARK read.json throwing java.io.IOException: Too many bytes before newline,<json><apache-spark><pyspark><spark-dataframe><bigdata>,3,1569,2,3,2016-03-14 14:54,2019-04-08 14:57
+41177401,Configuration,Sparkling Water: out of memory when converting spark dataframe to H2o dataframe,<apache-spark><spark-dataframe><h2o><sparkling-water>,1,279,1,0,2016-12-16 04:43,2016-12-20 19:28
+39224197,Data processing,Scala : Map and Flatmap on RDD,<scala><apache-spark>,2,459,1,11,2016-08-30 09:49,2016-08-31 14:22
+39145246,Configuration,Spark 2.0 Cassandra Scala Shell Error: java.lang.NoClassDefFoundError: scala/collection/GenTraversableOnce$class,<apache-spark><cassandra><spark-cassandra-connector>,1,3640,2,4,2016-08-25 12:23,2016-08-27 11:58
+42776610,Data processing,From Pandas groupBy to PySpark groupBy,<pandas><apache-spark><pyspark>,4,2389,1,0,2017-03-14 02:08,2017-03-14 05:31
+56091155,Data processing,Grouping in Apache Spark dataframe,<apache-spark><apache-spark-sql>,1,64,1,0,2019-05-11 14:17,2019-05-11 17:27
+36056895,Spark API Usage,reduce() vs. fold() in Apache Spark,<scala><apache-spark><rdd><reduce><fold>,5,5933,1,8,2016-03-17 09:48,2016-12-23 18:18
+29997735,Other,Spark SQL Stackoverflow,<apache-spark><apache-spark-sql>,11,2687,1,6,2015-05-02 02:31,2015-05-06 06:36
+44135610,Data processing,Spark Scala Split dataframe into equal number of rows,<scala><apache-spark><dataframe>,7,4920,3,5,2017-05-23 12:59,2019-10-01 19:35
+39502572,Data processing,SPARK-5063 RDD transformations and actions can only be invoked by the driver,<scala><apache-spark><dataframe><rdd>,1,3287,1,1,2016-09-15 03:12,2018-10-27 09:10
+43817493,Data Sources,Reading Nested JSON via Spark SQL - [AnalysisException] cannot resolve Column,<json><scala><apache-spark><apache-spark-sql>,3,3024,2,0,2017-05-06 06:32,2019-01-11 11:50
+38726653,Data Sources,HiveContext is not reading schema of an Orcfile,<scala><apache-spark><hive><orc><hortonworks-sandbox>,3,1658,2,7,2016-08-02 17:12,2018-12-27 13:25
+31280355,Other,spark test on local machine,<scala><unit-testing><apache-spark>,3,1082,2,0,2015-07-07 22:20,2016-02-18 10:29
+45091429,Data processing,how to find a line in a text with specific term in spark scala,<scala><apache-spark-MLlib><lda>,1,3426,2,0,2017-07-13 21:45,2018-12-14 12:35
+44168379,Data processing,How to check for intersection of two DataFrame columns in Spark,<apache-spark><pyspark><sparkr>,3,9151,1,1,2017-05-24 21:00,2018-09-27 12:51
+39302912,Spark API Usage,Not Serialization exception when reading Kafka records with Spark Streaming,<apache-spark><apache-kafka><spark-streaming>,5,2319,1,0,2016-09-03 03:18,2016-10-31 23:23
+48362994,Data Sources,how to use nextval() in a postgres jdbc driver for pyspark?,<sql><postgresql><apache-spark><jdbc><pyspark>,2,538,1,0,2018-01-21 02:02,2018-01-21 10:44
+44187987,Configuration,Not able to write Data in Parquet File using Spark Structured Streaming,<scala><apache-spark><spark-structured-streaming>,3,2428,2,0,2017-05-25 19:02,2018-10-27 12:50
+56203473,Data processing,How to remove quotes from front and end of the string Scala,<regex><string><scala><apache-spark><trim>,2,156,3,5,2019-05-18 22:56,2019-05-19 14:46
+42219747,Configuration,Spark cassandra connector doesn't work in Standalone Spark cluster,<scala><apache-spark><cassandra><spark-cassandra-connector>,3,495,1,0,2017-02-14 06:56,2017-02-17 23:56
+55570316,Data processing,Does Scala intelligently terminate calculating OR expressions for fold operations?,<scala><apache-spark><collections><monads>,2,45,2,1,2019-04-08 09:33,2019-04-08 14:27
+49442206,Other,Apache Spark: Issues with Extracting Values from Row,<scala><apache-spark><apache-spark-sql><spark-dataframe><apache-spark-dataset>,1,998,1,0,2018-03-23 04:06,2018-03-23 05:03
+31212962,Data processing,How to add line number into each line?,<scala><text><apache-spark>,3,5827,2,1,2015-07-03 19:10,2015-07-03 20:01
+43288924,Data processing,Spark SQL rlike to find all strings with trailing numbers,<sql><regex><apache-spark><apache-spark-sql><pyspark-sql>,1,1123,1,0,2017-04-08 00:34,2019-01-11 13:04
+52588559,Configuration,Spark Cannot assign requested address: Service Driver failed after 16 retries,<java><apache-spark>,2,794,1,0,2018-10-01 09:53,2018-10-12 13:44
+57626587,Configuration,Spark drive K8S cluster from IntelliJ IDEA without building JARs,<apache-spark><kubernetes>,3,43,1,0,2019-08-23 12:43,2019-08-23 15:01
+51440162,Data processing,Adding name of file when using sparklyr::spark_read_json,<r><apache-spark><dplyr><sparklyr>,2,98,1,0,2018-07-20 10:08,2018-07-21 00:05
+34529393,Data processing,How do I group Cassandra rows in Scala,<scala><apache-spark><cassandra><apache-spark-sql>,1,301,1,0,2015-12-30 12:16,2015-12-30 13:09
+57386739,Data Sources,How to read files written by Spark with pandas?,<python><pandas><apache-spark><parquet>,1,67,2,1,2019-08-07 03:55,2019-08-08 11:25
+37113997,Spark API Usage,Spark 1.5 MLlib LDA - getting topic distribusions for new documents,<scala><apache-spark><apache-spark-MLlib><lda>,2,625,1,0,2016-05-09 10:55,2016-06-02 14:14
+37058016,Data processing,Spark Scala: DateDiff of two columns by hour or minute,<scala><apache-spark>,13,17822,2,0,2016-05-05 18:45,2017-03-13 13:20
+28743313,Spark API Usage,Extract kmeans cluster information using Apache Spark,<scala><apache-spark>,2,2012,2,1,2015-02-26 13:07,2015-09-15 19:49
+47052969,Data processing,Joining two data frames and storing in new data frame,<apache-spark><pyspark><apache-spark-sql><spark-dataframe><pyspark-sql>,1,130,1,2,2017-11-01 10:39,2017-11-01 16:17
+49294843,Data processing,How to set naming strategy using Spark DataFrames and Cassandra,<scala><apache-spark><cassandra><spark-dataframe>,1,189,1,0,2018-03-15 08:44,2018-03-15 15:01
+33221713,Performance and Logging,Is groupByKey ever preferred over reduceByKey,<apache-spark><rdd>,14,11744,3,3,2015-10-19 18:49,2018-09-02 21:13
+32727964,Performance and Logging,Spark: Generate Map Word to List of Similar Words - Need Better Performance,<python><dictionary><apache-spark><pyspark>,1,254,1,3,2015-09-22 22:23,2015-09-25 20:26
+46152202,Configuration,"Spark doesn't read/write information from s3 (ResponseCode=400, ResponseMessage=Bad Request)",<java><hadoop><apache-spark><amazon-s3>,3,758,1,0,2017-09-11 09:21,2017-09-15 07:29
+41785737,Data processing,How convert JavaRDD<Row> to JavaRDD<List<String>>?,<java><list><apache-spark>,1,1747,1,0,2017-01-21 23:35,2017-01-22 00:13
+57408388,Other,Where to find errors when writing to BigQuery from Dataproc?,<apache-spark><google-cloud-platform><google-bigquery><google-cloud-dataproc>,1,61,1,2,2019-08-08 08:33,2019-08-10 00:20
+35146665,Spark API Usage,Is there a variable to identify each batch data in spark streaming?,<apache-spark><spark-streaming>,3,1816,1,0,2016-02-02 06:37,2016-02-02 09:34
+45835524,Spark API Usage,How to vectorize json data for KMeans?,<apache-spark><scikit-learn><pyspark><k-means>,2,546,1,3,2017-08-23 09:16,2017-08-23 20:10
+37624090,Data processing,Pyspark Inferring Timezone by location,<apache-spark><pyspark><timezone>,3,135,3,0,2018-05-10 07:03,2018-07-27 09:28
+31278110,Data processing,How do I register a function to sqlContext UDF in scala?,<scala><apache-spark><apache-spark-sql>,5,5620,1,0,2015-07-07 19:54,2015-07-07 21:42
+30703678,Data Sources,how to create a keyspace in cassandra?,<java><eclipse><cassandra><apache-spark>,2,3193,3,0,2015-06-08 07:46,2018-06-26 04:20
+39962792,Data processing,Adding StringType column to existing Spark DataFrame and then applying default values,<scala><apache-spark><dataframe><apache-spark-sql>,5,10026,1,0,2016-10-10 16:33,2019-01-06 13:15
+44270341,Configuration,Spark Execution Error: Python in worker has different Version,<apache-spark><pyspark><anaconda>,1,1522,1,5,2017-05-30 19:23,2017-06-06 20:38
+29750325,Data processing,RDD filter in scala spark,<scala><apache-spark>,8,20531,1,2,2015-04-20 14:13,2018-10-04 11:32
+44178191,Data processing,How to add new field to struct column?,<scala><apache-spark><apache-spark-sql>,6,3934,2,0,2017-05-25 10:27,2018-12-12 06:11
+52035345,Data processing,confused with spark groupBy,<apache-spark>,1,114,1,4,2018-08-27 08:27,2018-08-27 09:11
+38981425,Spark API Usage,Issue with VectorUDT when using Spark ML,<scala><apache-spark><spark-dataframe><apache-spark-ml>,7,3873,1,0,2016-08-16 17:53,2016-08-22 16:07
+30416142,Data processing,How to find five first maximum indices of each column in a matrix?,<scala><matrix><apache-spark>,2,721,1,3,2015-05-23 18:22,2015-05-24 15:14
+51036010,Data processing,Convert Array into dataframe with columns and index in Scala,<scala><apache-spark-sql>,2,7492,2,3,2018-06-26 06:14,2018-06-27 07:16
+38403062,Data Sources,PySpark createExternalTable() from SQLContext,<apache-spark><pyspark><pyspark-sql>,1,1040,1,2,2016-07-15 18:38,2016-07-15 19:58
+38761994,Data Sources,How to insert TimeUUID and TimeStamp with Spark Cassandra connector?,<java><apache-spark><cassandra>,2,1154,1,0,2016-08-04 08:16,2016-08-04 09:08
+45092445,Spark API Usage,How to display a streaming DataFrame (as show fails with AnalysisException)?,<apache-spark><pyspark><apache-kafka><spark-structured-streaming>,3,3625,1,0,2017-07-13 23:34,2018-10-27 13:02
+36545579,Data Sources,Spark : How to use mapPartition and create/close connection per partition,<scala><apache-spark><rdd>,8,6124,2,0,2016-04-11 10:04,2017-01-17 11:00
+40181617,Data processing,"Getting int() argument must be a string or a number, not 'Column'- Apache Spark",<python><apache-spark><pyspark>,3,657,1,0,2016-10-21 16:37,2016-10-21 16:49
+56527559,Spark API Usage,Spark job fails while filtering kafka messages,<scala><apache-spark><apache-kafka>,3,53,1,0,2019-06-10 13:38,2019-06-10 15:57
+42837047,Data processing,"How to join a DataFrame with itself, and aggregate",<scala><apache-spark><apache-spark-sql>,2,1431,1,0,2017-03-16 14:34,2019-01-11 13:06
+38618460,Configuration,"how to properly build spark 2.0 from source, to include pyspark?",<apache-spark><pyspark>,3,1902,1,0,2016-07-27 16:23,2016-07-27 16:47
+50330514,Data processing,.withColumn is not giving original columns of the dataframe but only the newly added column,<apache-spark><apache-spark-sql>,1,60,1,2,2018-05-14 12:36,2018-05-14 13:04
+55628005,Performance and Logging,Write the results of the Google Api to a data lake with Databricks,<python><apache-spark><azure-data-lake><databricks><google-api-python-client>,1,187,1,0,2019-04-11 08:30,2019-04-11 15:46
+55666759,Data processing,Modified countByKey in spark,<scala><apache-spark><apache-spark-sql>,2,155,3,0,2019-04-13 14:50,2019-04-13 21:30
+45607805,Performance and Logging,Spark: break partition iterator for better memory management?,<scala><apache-spark>,3,344,1,2,2017-08-10 08:02,2017-08-10 10:06
+33293365,Data processing,Convert String to Double in Scala / Spark?,<scala><apache-spark><apache-spark-MLlib>,1,9145,2,0,2015-10-23 01:16,2018-11-19 23:15
+52906253,Data processing,Pyspark Convert Column of Lists to Nested Structure Column,<python><apache-spark><pyspark><apache-spark-sql><user-defined-functions>,1,754,1,0,2018-10-20 13:36,2018-10-20 18:53
+49538717,Data processing,number of unique values sparklyr,<r><apache-spark><dplyr><apache-spark-sql><sparklyr>,2,2134,1,10,2018-03-28 15:39,2018-04-19 21:19
+43349932,Data processing,How to flatten long dataset to wide format (pivot) with no join?,<apache-spark><pyspark><pyspark-sql>,1,134,1,1,2017-04-11 15:15,2018-11-15 13:51
+45105695,Data processing,Subtracting DataFrames by a single ID column - duplicate columns behave differently,<apache-spark><apache-spark-sql>,1,317,2,0,2017-07-14 14:39,2019-05-31 04:56
+53468193,Spark API Usage,Spark SVD is not reproducible,<apache-spark><apache-spark-MLlib><apache-spark-ml><svd><non-deterministic>,1,97,1,2,2018-11-25 13:55,2018-11-27 21:42
+50406950,Data processing,Consuming RESTful API and converting to Dataframe in Apache Spark,<scala><rest><apache-spark><dataframe>,1,1257,1,0,2018-05-18 08:26,2018-05-18 09:50
+24242060,Configuration,How to change memory per node for apache spark worker,<memory><cluster-computing><config><apache-spark>,33,29169,5,1,2014-06-16 10:53,2016-03-10 17:53
+35836526,Spark API Usage,Twitter Streaming Spark : how many filter keywords can i have with a streaming context?,<twitter><apache-spark><spark-streaming>,1,355,2,1,2016-03-07 05:04,2016-03-15 23:54
+31305547,Spark API Usage,Overloaded method value createDirectStream in error Spark Streaming,<scala><apache-spark><spark-streaming>,2,2322,1,0,2015-07-08 23:24,2015-07-09 00:56
+48750303,Data processing,Does spark not check UDF / Column type?,<scala><apache-spark>,2,369,1,0,2018-02-12 15:48,2018-02-12 18:10
+49355077,Data processing,how to convert a timestamp into string (without changing timezone)?,<r><apache-spark><hive><timestamp><sparklyr>,3,459,3,8,2018-03-19 02:41,2018-03-30 01:19
+44057729,Data processing,How to reduce rows to their frequencies?,<apache-spark><pyspark><apache-spark-sql>,1,323,1,0,2017-05-18 21:03,2017-05-19 08:13
+41404041,Data processing,Find median in spark SQL for multiple double datatype columns,<apache-spark><apache-spark-sql><hive-udf>,6,2959,1,0,2016-12-30 23:38,2017-01-02 17:00
+40682101,Spark API Usage,How to access cached data in Spark Streaming application?,<apache-spark><spark-streaming>,5,671,2,0,2016-11-18 16:41,2016-11-19 16:11
+32148208,Data processing,How to compare multiple rows?,<scala><apache-spark><spark-streaming><apache-spark-sql>,5,2890,1,0,2015-08-21 19:46,2017-08-22 08:16
+43614220,Data processing,Sparklyr: how to center a Spark table based on column?,<r><apache-spark><dplyr><sparkr><sparklyr>,1,719,1,0,2017-04-25 14:56,2019-01-26 11:02
+57128082,Configuration,"How to deal with ""OverflowError: size does not fit in an int"" error?",<python><scala><apache-spark><pyspark><apache-spark-sql>,2,64,1,1,2019-07-20 19:51,2019-07-20 21:25
+49959309,Data processing,Spark - create list of words from text file and the word that comes immediately after it,<scala><apache-spark><rdd>,1,342,1,1,2018-04-21 19:06,2018-04-21 19:35
+40938478,Spark API Usage,Get wrong recommendation with ALS.recommendation,<apache-spark><machine-learning><apache-spark-MLlib><recommendation-engine><collaborative-filtering>,5,523,1,0,2016-12-02 18:09,2016-12-06 10:29
+31204805,Spark API Usage,Databricks Apache Spark 1.4: Task not Serialization (Scala),<scala><serialization><apache-spark>,1,970,1,2,2015-07-03 10:40,2015-07-03 11:28
+52150041,Configuration,Cannot use timestamps on index/update requests in ES 6.x and above. Please remove the [es.mapping.timestamp] setting,<apache-spark><elasticsearch><spark-structured-streaming>,1,70,1,0,2018-09-03 12:44,2018-09-04 04:54
+28048586,Data processing,Warning while using RDD in for comprehension,<scala><apache-spark><for-comprehension><rdd>,6,1697,2,0,2015-01-20 15:03,2017-09-25 21:13
+43506662,Data processing,Spark-SQL Joining two dataframes/ datasets with same column name,<java><apache-spark><apache-spark-sql><apache-spark-dataset>,4,3737,2,0,2017-04-19 21:48,2017-04-20 04:33
+43569738,Data processing,Can I recursively apply transformations to a Spark dataframe in scala?,<scala><apache-spark><apache-spark-sql>,1,1487,2,0,2017-04-23 10:04,2018-05-14 18:48
+39395182,Data processing,SparkR gapply - function returns a multi-row R dataframe,<r><apache-spark><sparkr><gapply>,2,799,1,0,2016-09-08 15:42,2018-03-29 10:12
+51597876,Spark API Usage,Spark Kafka Task not Serialization,<apache-spark><apache-kafka>,1,193,2,0,2018-07-30 15:55,2018-08-10 13:13
+57035262,Spark API Usage,checkpointing / persisting / shuffling does not seem to 'short circuit' the lineage of an rdd as detailed in 'learning spark' book,<scala><apache-spark><rdd><data-lineage><spark-checkpoint>,2,42,1,2,2019-07-15 07:41,2019-07-15 11:49
+46296442,Spark API Usage,How to declare an empty dataset in Spark?,<scala><apache-spark><apache-spark-sql>,5,10224,2,4,2017-09-19 09:15,2017-09-19 09:40
+29504762,Data processing,Performing sum on a rdd int array,<apache-spark>,4,10315,2,0,2015-04-08 02:18,2017-02-11 20:17
+52164488,Data Sources,Spark hive udf: no handler for UDAF analysis exception,<scala><apache-spark><hive><pyspark><spark-hive>,1,914,1,4,2018-09-04 10:45,2018-09-04 17:12
+39901732,Data processing,How can I extract multi-line record from a text file with Spark,<scala><apache-spark>,2,271,1,0,2016-10-06 16:58,2019-03-25 02:43
+45489248,Configuration,Running Spark driver program in Docker container - no connection back from executor to the driver?,<docker><apache-spark><mesos><apache-spark-standalone>,4,3710,3,0,2017-08-03 15:57,2019-09-24 21:02
+25643872,Configuration,Parsing json in spark-streaming,<json><scala><apache-spark><spark-streaming>,9,9301,2,2,2014-09-03 12:06,2014-09-03 12:22
+47365396,Data processing,Change a pyspark column based on the value of another column,<pyspark><apache-spark-sql><spark-dataframe><pyspark-sql>,1,4318,2,0,2017-11-18 11:15,2017-11-18 12:24
+56853255,Data processing,columns value in order,<pyspark><apache-spark-sql>,1,64,1,2,2019-07-02 13:10,2019-07-16 17:53
+42815023,Configuration,Getting java.lang.ClassNotFoundException while running Spark Application,<scala><hadoop><apache-spark><classnotfoundexception><phoenix>,1,1615,2,2,2017-03-15 16:06,2018-09-13 21:45
+30162845,Configuration,Spark: java.io.IOException: No space left on device,<apache-spark><rdd>,6,8974,2,4,2015-05-11 08:26,2018-04-15 07:35
+34287069,Data processing,How to reformat the Spark Python Output,<python><apache-spark>,4,597,2,3,2015-12-15 10:43,2016-01-22 14:07
+30244880,Spark API Usage,Apache Spark broadcast variables are not reused,<apache-spark>,3,1569,1,0,2015-05-14 18:40,2015-05-22 18:39
+38145515,Configuration,Unable to import org.apache.spark.streaming.twitter in Spark Scala,<scala><twitter><apache-spark><streaming>,3,3774,2,0,2016-07-01 12:30,2018-07-23 07:21
+41944063,Configuration,Saving parquet file in Spark giving error,<apache-spark><spark-dataframe><kerberos><cloudera-cdh><parquet>,1,715,1,2,2017-01-30 19:36,2017-02-15 16:13
+34670957,Spark API Usage,On Spark's rdd.map(_.swap),<scala><apache-spark>,3,5217,4,0,2016-01-08 06:42,2019-03-05 04:33
+40892459,Data processing,Spark: Transpose DataFrame Without Aggregating,<scala><apache-spark>,8,9941,2,0,2016-11-30 15:44,2019-04-09 17:48
+39777648,Data processing,Inferring Spark DataType from string literals,<scala><apache-spark><types><spark-dataframe><introspection>,8,4073,4,2,2016-09-29 18:36,2019-07-25 09:58
+42506801,Spark API Usage,How to use from_json with Kafka connect 0.10 and Spark Structured Streaming?,<scala><apache-spark><apache-kafka><apache-kafka-connect><spark-structured-streaming>,10,6403,1,0,2017-02-28 10:54,2019-09-17 16:39
+43518342,Configuration,Why does Spark job fail while executing multiple Hive scripts using spark-sql in parallel?,<hql><apache-spark-sql><emr>,1,503,2,0,2017-04-20 11:31,2017-04-20 16:43
+36949406,Spark API Usage,Spark job execution time,<apache-spark><apache-spark-MLlib><apache-spark-1.5>,7,9095,2,0,2016-04-30 00:28,2016-10-14 07:03
+30709729,Spark API Usage,org.apache.spark.SparkException: Task not Serialization - JavaSparkContext,<java><serialization><apache-spark>,5,3500,3,4,2015-06-08 12:54,2017-09-02 18:53
+31680392,Data processing,"Unique Combinations in a list of k,v tuples in Python",<python><list><lambda><apache-spark><tuples>,4,308,6,5,2015-07-28 15:12,2015-07-29 14:41
+44949246,Spark API Usage,Can we able to use mulitple sparksessions to access two different Hive servers,<scala><apache-spark><hive><apache-spark-sql>,5,1751,2,0,2017-07-06 12:43,2017-08-18 13:15
+39853227,Data processing,"Hive - Remove duplicates, keeping newest record - all of it",<hadoop><apache-spark><mapreduce><hive>,2,3231,1,2,2016-10-04 13:09,2016-10-04 20:17
+34616842,Performance and Logging,KMeans|| for sentiment analysis on Spark,<scala><apache-spark><machine-learning><k-means><apache-spark-MLlib>,2,905,2,7,2016-01-05 16:43,2016-04-25 11:22
+35480929,Configuration,Apache Mesos 0.27 fetcher Error: Address already in use:,<apache-spark><mesos><mesosphere>,1,704,2,1,2016-02-18 12:01,2016-02-26 07:51
+36597022,Spark API Usage,Cassandra + Spark for Real time analytics,<apache-spark><cassandra><spark-streaming><spark-dataframe>,5,1376,2,1,2016-04-13 11:29,2016-04-26 16:22
+56493242,Spark API Usage,RDD constructed from parsed case class: serialization fails,<scala><apache-spark><serialization><rdd>,1,21,1,2,2019-06-07 11:12,2019-06-07 15:11
+48880934,Performance and Logging,Performance decrease for huge amount of columns. Pyspark,<python><pandas><apache-spark><machine-learning><pyspark>,10,1646,2,2,2018-02-20 08:39,2018-03-28 08:46
+39950166,Data processing,Remove square brackets [] from Array in scala,<scala><apache-spark-sql><spark-cassandra-connector>,1,4208,3,7,2016-10-10 01:19,2017-08-28 08:22
+33652013,Data processing,How to implement NOT IN for two DataFrames with different structure in Apache Spark,<java><sql><apache-spark><apache-spark-sql>,6,3988,2,0,2015-11-11 13:52,2016-07-12 22:00
+47635510,Configuration,Strange spark ERROR on AWS EMR,<amazon-web-services><apache-spark><pyspark><amazon-emr>,23,4485,2,13,2017-12-04 14:26,2018-04-02 22:38
+43455592,Data Sources,PySpark Value Error,<apache-spark><pyspark><apache-spark-sql>,2,1909,2,4,2017-04-17 16:42,2017-04-26 13:37
+27959831,Performance and Logging,How does Spark read 100K images effeciently?,<image><machine-learning><apache-spark><distributed-computing>,2,1976,1,2,2015-01-15 08:59,2015-01-15 11:29
+32848632,Data processing,Perform Set Difference on RDDs in Spark Python,<python><apache-spark><rdd><set-difference>,3,3262,1,0,2015-09-29 15:57,2015-09-29 19:53
+54332942,Performance and Logging,spark windowing function VS group by performance issue,<apache-spark><apache-spark-sql>,1,1455,1,4,2019-01-23 17:49,2019-01-25 10:16
+43253936,Data processing,Scala-Spark(version1.5.2) Dataframes split error,<scala><apache-spark><spark-dataframe>,4,294,2,5,2017-04-06 11:30,2017-04-14 13:53
+38635905,Data Sources,Reading in multiple files compressed in tar.gz archive into Spark,<scala><apache-spark><gzip><rdd>,7,12829,2,4,2016-07-28 12:06,2017-01-22 12:40
+55257202,Configuration,Typesafe config is not resolved in sbt assembly,<scala><apache-spark><sbt><sbt-assembly>,1,119,1,0,2019-03-20 09:15,2019-03-20 13:39
+24585705,Spark API Usage,How to remove / dispose a broadcast variable from heap in Spark?,<scala><memory-management><apache-spark>,16,13521,2,0,2014-07-05 10:59,2015-12-11 15:10
+40080045,Data Sources,How to work with DataSet in Spark using scala?,<scala><apache-spark><apache-spark-sql><scheduler>,2,1410,2,4,2016-10-17 06:47,2016-10-20 12:10
+34135607,Data processing,"Sum values of JavaRDD (Tuple3<String, String, Double>)",<apache-spark><reduce><rdd>,1,2975,1,4,2015-12-07 14:11,2015-12-07 14:44
+48949387,Configuration,Launch Spark-Submit with restful service in Python,<python><apache-spark><pyspark>,3,308,1,0,2018-02-23 13:52,2018-02-23 19:24
+44914144,Configuration,ERROR SparkContext: Error initializing SparkContext. java.net.BindException: Cannot assign requested address: Service 'sparkDriver' failed,<scala><apache-spark>,10,14450,4,1,2017-07-04 21:22,2019-04-04 21:19
+33883954,Performance and Logging,Keeping data together in spark based on cassandra table partition key,<apache-spark><cassandra><spark-cassandra-connector>,1,1049,1,0,2015-11-24 01:31,2015-12-04 18:38
+38232504,Data processing,"Ungrouping, ""flatten"", a case class that is a composite of other case classes",<scala><apache-spark>,1,507,1,1,2016-07-06 19:44,2016-07-07 17:00
+55650861,Other,Count operation resulting in more rack_local pyspark,<apache-spark><cluster-computing><yarn>,1,77,1,1,2019-04-12 11:42,2019-04-15 03:41
+53541384,Data Sources,Pyspark create DataFrame from rows/data with varying columns,<python><json><apache-spark><pyspark><apache-spark-sql>,2,523,1,3,2018-11-29 14:35,2018-11-29 16:46
+39944598,Data processing,Inserting Dataframe Data into RDD,<scala><apache-spark>,1,238,1,2,2016-10-09 14:18,2016-10-09 15:17
+49499263,Data processing,How to explode an array into multiple columns in Spark,<scala><apache-spark>,7,4431,2,0,2018-03-26 19:33,2018-03-27 02:47
+45293591,Data processing,Remove duplicate in an array[string],<scala><apache-spark><apache-spark-sql><user-defined-functions>,1,435,2,8,2017-07-25 03:49,2017-07-25 20:41
+24651969,Data Sources,Control configure set Apache Spark UTF encoding for writting as saveAsTextFile,<scala><utf-8><apache-spark><utf>,2,3372,1,1,2014-07-09 11:04,2014-07-09 16:56
+38210225,Configuration,Spark configuration: SPARK_MEM vs. SPARK_WORKER_MEMORY,<scala><mapreduce><apache-spark>,3,756,1,0,2013-06-18 14:35,2013-06-18 16:35
+46295879,Data Sources,How to read date in custom format from csv file?,<csv><apache-spark><apache-spark-sql>,3,2002,1,3,2017-09-19 08:47,2018-01-12 11:46
+41171671,Data processing,Save a 2d list into a dataframe scala spark,<scala><apache-spark><dataframe><spark-dataframe>,2,865,1,0,2016-12-15 19:13,2016-12-15 19:37
+31254320,Configuration,Spark assembly file uploaded despite spark.yarn.conf being set,<hadoop><apache-spark><hdfs><yarn>,1,1823,1,0,2015-07-06 19:43,2015-07-07 03:09
+35146482,Spark API Usage,"Spark + Scala transformations, immutability & memory consumption overheads",<scala><hadoop><apache-spark>,4,840,2,3,2016-02-02 06:24,2016-02-06 15:18
+36508685,Spark API Usage,PySpark serializing the 'self' referenced object in map lambdas?,<python><lambda><apache-spark><pyspark><pickle>,2,980,1,0,2016-04-08 20:23,2016-04-08 20:27
+35583702,Spark API Usage,"From TF-IDF to LDA clustering in spark, pyspark",<python><apache-spark><pyspark><tf-idf><lda>,4,2941,2,1,2016-02-23 17:03,2017-05-19 14:08
+55767080,Data processing,"Spark AnalysisException when ""flattening"" DataFrame in Spark SQL",<apache-spark><apache-spark-sql>,5,300,1,2,2019-04-19 19:46,2019-04-24 09:54
+36875190,Spark API Usage,reduceByKey is not a member,<scala><apache-spark><rdd>,3,4558,1,1,2016-04-26 20:33,2016-04-28 19:30
+47641076,Data processing,Spark: normalize each row of a DataFrame,<scala><apache-spark>,2,1155,2,0,2017-12-04 19:59,2018-10-02 21:46
+43759896,Performance and Logging,"Spark: ""Truncated the string representation of a plan since it was too large."" Warning when using manually created aggregation expression",<apache-spark><spark-dataframe>,28,29579,1,0,2017-05-03 12:21,2018-03-28 18:37
+47498798,Other,Distributing downloads in Spark cluster,<apache-spark><pyspark><spark-dataframe>,1,28,1,0,2017-11-26 17:10,2017-11-26 17:31
+48998428,Configuration,Set hbase paramter for spark job,<shell><apache-spark><hbase>,1,73,1,0,2018-02-26 22:54,2018-03-02 06:55
+36307867,Data processing,Scala-Spark Dynamically call groupby and agg with parameter values,<scala><apache-spark><group-by><customization><aggregate>,4,3677,1,0,2016-03-30 11:46,2016-03-30 11:54
+35835876,Data Sources,Server side filtering of spark-cassandra on PySpark,<python><apache-spark><cassandra><pyspark><apache-spark-sql>,1,570,1,0,2016-03-07 03:48,2016-03-07 18:26
+30248221,Data processing,Removing duplicates from rows based on specific columns in an RDD/Spark DataFrame,<apache-spark><apache-spark-sql><pyspark>,49,83588,7,0,2015-05-14 22:03,2018-05-21 14:37
+48173726,Data processing,How to calculate the power of 2 for the column of DataFrame,<scala><apache-spark><apache-spark-sql>,3,1211,1,0,2018-01-09 17:32,2019-01-13 20:42
+51015658,Spark API Usage,wondering why empty inner iterator causes not Serialization exception with mapPartitionsWithIndex,<apache-spark><iterator><partition><Serialization>,1,307,2,3,2018-06-25 02:40,2018-08-06 21:28
+49913420,Data processing,Scala - Spark sql row pattern matching on struct,<scala><apache-spark><struct><pattern-matching><case-class>,2,1695,1,1,2018-04-19 05:34,2018-04-19 06:48
+41952815,Configuration,Cannot recognize the DataFrame for Java on spark in the Intellij platform,<java><apache-spark>,2,3035,2,4,2017-01-31 08:25,2017-01-31 08:39
+38507373,Data processing,Spark SQL UDF returning scala immutable Map with df.WithColumn(),<scala><apache-spark-sql><user-defined-functions><spark-dataframe><udf>,1,1139,1,0,2016-07-21 14:44,2016-07-26 08:05
+24065393,Data processing,What data structure in Scala is Python's nested dictionary or a csv?,<python><scala><csv><dictionary><apache-spark>,3,1106,1,7,2014-06-05 16:24,2014-06-09 14:02
+51016518,Data processing,spark generic case class to structtype,<scala><apache-spark><generics>,2,303,1,0,2018-06-25 04:56,2018-06-25 05:55
+30857337,Data processing,flatMapping in scala/spark,<scala><hashmap><apache-spark><flatmap>,1,998,2,2,2015-06-16 01:07,2015-06-16 15:42
+40405330,Data Sources,How to change the default `overwrite` behaviour on `DataFrame,<jdbc><apache-spark><pyspark>,1,444,1,0,2016-11-03 15:21,2018-06-18 11:49
+40579602,Other,how to avoid spark-submit cache,<apache-spark>,1,455,1,0,2016-11-13 22:38,2016-11-14 05:55
+42429402,Data processing,scala merge two or more string as an array in one json property,<scala><apache-spark>,1,350,1,2,2017-02-24 01:52,2017-02-24 17:26
+46304245,Data processing,"how to get months,years difference between two dates in sparksql",<apache-spark><apache-spark-sql><spark-dataframe>,1,8654,4,3,2017-09-19 15:23,2019-08-22 12:51
+53776212,Configuration,spark.conf.set with SparkR,<azure><apache-spark><sparkr><databricks><azure-databricks>,1,269,1,0,2018-12-14 08:47,2018-12-15 20:18
+34562340,Data processing,scala spark how to get latest day's record,<scala><apache-spark>,4,3395,5,4,2016-01-02 03:35,2017-07-05 16:49
+30381359,Data processing,How to use Spark SQL DataFrame with flatMap?,<scala><apache-spark><apache-spark-sql>,8,23554,2,0,2015-05-21 18:14,2015-05-22 12:12
+35040642,Configuration,How to add spark-csv package to jupyter server on Azure for use with iPython,<azure><apache-spark><pyspark><hdinsight>,3,749,4,0,2016-01-27 14:55,2016-07-21 21:44
+40432292,Data processing,split line in scala keeping first element of line common,<scala><apache-spark><apache-spark-sql><spark-dataframe><scala-collections>,1,335,1,0,2016-11-04 21:58,2016-11-06 17:41
+53833048,Data Sources,How to set CHARACTER SET for writing to MySQL table using JDBC data source?,<scala><apache-spark><apache-spark-sql>,2,318,2,0,2018-12-18 12:29,2018-12-19 09:42
+49133747,Spark API Usage,Select most important variables in terms of their contributions to PCA in Spark,<scala><apache-spark><pca><apache-spark-ml>,1,813,2,0,2018-03-06 14:56,2018-03-07 21:01
+36586719,Data processing,Can not infer schema for type: <type 'unicode'> when converted RDD to DataFrame,<apache-spark><dataframe><pyspark><rdd><spark-dataframe>,2,10077,1,0,2016-04-13 01:00,2016-04-13 01:10
+39004817,Data Sources,How to make Spark slaves use HDFS input files 'local' to them in a Hadoop+Spark cluster?,<scala><hadoop><apache-spark><hdfs><cluster-computing>,1,908,1,1,2016-08-17 19:29,2016-08-23 13:48
+38866803,Data processing,Spark - Datediff for months?,<java><apache-spark>,2,3668,1,0,2016-08-10 07:26,2016-08-10 07:51
+49602965,Data processing,PySpark dataframe to_json() function,<apache-spark><pyspark><apache-spark-sql>,5,2050,1,0,2018-04-01 21:49,2019-01-09 01:42
+36264299,Data processing,How to calculate difference between current and previous row in Spark JavaRDD,<java><apache-spark><rdd>,1,1066,1,2,2016-03-28 14:23,2016-03-28 16:04
+28413423,Spark API Usage,Count number of rows in an RDD,<java><apache-spark>,19,39628,2,0,2015-02-09 15:37,2018-11-02 10:51
+33981487,Data processing,"Filter Spark DataFrame by checking if value is in a list, with other criteria",<scala><apache-spark><apache-spark-sql>,22,41143,2,0,2015-11-29 09:55,2019-01-13 20:37
+44664626,Data processing,How to count the number of values based on another column?,<scala><apache-spark><apache-spark-sql>,1,500,1,0,2017-06-20 23:37,2017-07-06 18:35
+46763569,Configuration,"Why does sbt assembly of a Spark application lead to ""Modules were resolved with conflicting cross-version suffixes""?",<scala><apache-spark><sbt><sbt-assembly>,1,266,1,1,2017-10-16 05:38,2017-10-17 18:09
+36725130,Spark API Usage,Does pyspark tfidf transformation maintain index positions?,<python><hadoop><apache-spark><pyspark>,1,191,1,0,2016-04-19 17:13,2016-04-19 18:16
+35721413,Spark API Usage,Error when broadcasting Joda DateTime in Spark,<scala><apache-spark><jodatime>,3,1158,2,0,2016-03-01 11:15,2016-09-02 10:03
+40302222,Spark API Usage,Multiclass Classification Evaluator field does not exist error - Apache Spark,<scala><apache-spark>,2,478,1,0,2016-10-28 09:35,2016-10-28 11:09
+35084175,Data processing,RDD split and do aggregation on new RDDs,<scala><apache-spark><rdd><reduce>,2,1352,1,1,2016-01-29 12:05,2017-08-20 19:44
+54843019,Data processing,How to split data into series based on conditions in Apache Spark,<scala><apache-spark><dataframe><dataset>,1,61,1,0,2019-02-23 15:15,2019-02-25 18:36
+49391927,Data processing,Get minimum value from an Array in a Spark DataFrame column,<scala><apache-spark>,1,1721,4,0,2018-03-20 18:41,2019-08-06 12:42
+46111743,Spark API Usage,Create a mapped RDD and save it in text,<scala><file><apache-spark><distributed-computing><apache-spark-MLlib>,2,45,1,5,2017-09-08 08:14,2017-09-08 08:58
+33621319,Data processing,Spark / Scala: forward fill with last observation,<scala><apache-spark><apache-spark-sql>,25,7920,1,0,2015-11-10 01:24,2019-01-11 12:31
+46457217,Data processing,Spark Scala - Aggregation and Pivoting Based on Time Period,<sql-server><scala><apache-spark><pivot-table><aggregate>,1,242,3,0,2017-09-27 21:05,2017-10-04 18:31
+32081882,Other,Count on RDD giving different results,<scala><cassandra><apache-spark><spark-cassandra-connector>,3,553,1,7,2015-08-18 20:18,2015-08-26 17:59
+48860003,Data processing,Pyspark: How to return a tuple list of existing non null columns as one of the column values in dataframe,<apache-spark><pyspark><spark-dataframe><pyspark-sql><apache-spark-1.6>,2,655,3,1,2018-02-19 05:30,2018-02-19 08:36
+30435610,Configuration,Spark - Which instance type is preferred for AWS EMR cluster?,<amazon-ec2><apache-spark><emr>,18,12183,2,7,2015-05-25 09:55,2018-11-07 14:30
+41689643,Other,IllegalAccessError in Spark caused by async-http-client,<apache-spark><dependencies><asynchttpclient>,6,1548,2,0,2017-01-17 05:29,2017-12-31 08:15
+32517976,Spark API Usage,How to get data from a specific partition in Spark RDD?,<apache-spark><rdd>,6,4359,1,1,2015-09-11 07:32,2015-09-11 10:23
+38406825,Configuration,How to set spark driver maxResultSize when in client mode in pyspark?,<python><apache-spark><driver><pyspark>,3,3954,1,0,2016-07-16 01:15,2016-07-16 03:42
+48551900,Data processing,Spark generate occurrence matrix,<apache-spark><apache-spark-sql><pyspark-sql>,1,132,1,1,2018-01-31 21:40,2019-01-30 03:24
+42980091,Spark API Usage,Spark MLlib - NaiveBayes weightcol parameter influence and format,<apache-spark><apache-spark-MLlib>,2,462,1,0,2017-03-23 15:15,2017-03-23 16:47
+37816072,Configuration,Submitting Spark application on standalone cluster,<java><amazon-web-services><apache-spark>,4,123,1,4,2016-06-14 15:19,2016-06-15 10:10
+44196299,Configuration,Pyspark: SparkContext definition in Spyder throws Java gateway error,<python><apache-spark><pyspark><spyder>,1,762,1,1,2017-05-26 07:46,2017-05-31 13:57
+29173117,Data Sources,Write PairDStram to cassandra using Datastax Spark Cassandra Connector,<java><cassandra><apache-spark><spark-streaming>,3,635,1,2,2015-03-20 18:09,2018-05-29 01:24
+34726740,Data processing,Chaining Dataframe function calls,<apache-spark><apache-spark-sql>,1,484,1,1,2016-01-11 16:42,2016-08-09 20:34
+55820869,Data processing,How to convert a type Any List to a type Double (Scala),<scala><apache-spark><mean><databricks>,1,65,2,0,2019-04-23 23:53,2019-04-26 05:06
+32745119,Data processing,How do I convert an RDD with a SparseVector Column to a DataFrame with a column as Vector,<apache-spark><pyspark><apache-spark-sql><apache-spark-MLlib><apache-spark-ml>,13,7981,3,0,2015-09-23 16:47,2019-01-11 12:27
+42655448,Data Sources,MongoSpark save duplicated key error E11000,<java><mongodb><apache-spark>,4,577,1,0,2017-03-07 18:17,2017-03-08 09:45
+48704893,Data Sources,Reading dataframe from multiple input paths and adding columns simultaneously,<python><apache-spark><pyspark>,2,771,2,1,2018-02-09 11:32,2018-03-16 07:25
+51868448,Data processing,Spark Dataframe : Set column values if an conditional row is encountered,<scala><apache-spark><apache-spark-sql>,1,796,1,0,2018-08-16 01:29,2018-08-16 02:15
+50100407,Data processing,Java SparkSession Hive SQL is not applying regexp_replace,<java><apache-spark><hive>,1,103,1,0,2018-04-30 12:20,2019-08-23 12:29
+35711652,Spark API Usage,"Spark MLlib: convert arbitrary, sparse features to a fixed length Vector",<apache-spark><machine-learning><regression><apache-spark-MLlib><vowpalwabbit>,3,169,1,5,2016-02-29 23:14,2019-01-28 01:38
+43665995,Data processing,"Spark sql ""Futures timed out after 300 seconds"" when filtering",<apache-spark-sql>,2,4496,1,3,2017-04-27 19:02,2017-05-08 12:41
+48466019,Spark API Usage,Number of input rows in spark structured streaming with custom sink,<apache-spark><apache-spark-sql><spark-streaming><spark-structured-streaming>,2,586,1,3,2018-01-26 16:59,2018-01-30 18:15
+41185599,Other,"spark default settings on dataproc, especially spark.yarn.am.memory",<apache-spark><yarn><google-cloud-dataproc>,2,716,1,0,2016-12-16 13:32,2016-12-16 19:18
+45000671,Spark API Usage,Spark-Streaming CustomReceiver Unknown Host Exception,<hadoop><apache-spark><spark-streaming><bigdata>,1,208,1,2,2017-07-09 20:21,2017-09-15 08:45
+45619376,Data Sources,Extracting entries from multiple primary keys in one query,<scala><apache-spark><spark-cassandra-connector><apache-spark-2.0>,2,146,1,2,2017-08-10 16:48,2017-08-12 01:25
+57200859,Performance and Logging,"A large dataset not partitioned joins another one large dataset, partitioned. Is the result dataset partitioned or not?",<apache-spark>,1,39,1,11,2019-07-25 11:26,2019-07-28 10:02
+33197858,Data processing,Spark-GraphX: create anRDD from an ArrayBuffer of String,<scala><apache-spark><rdd>,1,1166,1,1,2015-10-18 12:21,2015-10-18 12:30
+26557873,Data processing,"Spark: produce RDD[(X, X)] of all possible combinations from RDD[X]",<scala><apache-spark>,22,23156,4,1,2014-10-24 23:51,2017-03-10 11:37
+40113400,Data processing,Spark transform RDD,<scala><parsing><apache-spark><cassandra><rdd>,1,228,1,0,2016-10-18 16:23,2016-10-19 06:02
+35189312,Spark API Usage,Broadcast Annoy object in Spark (for nearest neighbors)?,<python><apache-spark><pyspark><nearest-neighbor><knn>,2,1638,2,0,2016-02-03 22:51,2018-01-03 18:47
+36942233,Data processing,Apply StringIndexer to several columns in a PySpark Dataframe,<python><apache-spark><pyspark>,33,16152,1,7,2016-04-29 15:28,2017-10-11 20:11
+32274540,Data Sources,Write data to Redis from PySpark,<python><apache-spark><pyspark>,4,3858,1,9,2015-08-28 15:23,2019-01-14 21:47
+49113732,Spark API Usage,How to extract JSON from a binary protobuf?,<scala><apache-spark><protocol-buffers><spark-structured-streaming>,1,729,1,1,2018-03-05 15:22,2018-03-05 18:38
+28807490,Configuration,What conditions should cluster deploy mode be used instead of client?,<apache-spark>,49,32668,3,0,2015-03-02 10:27,2017-03-08 18:39
+48719433,Configuration,"Cannot run ALS.train, error: java.lang.IllegalArgumentException",<apache-spark><pyspark><apache-spark-MLlib>,2,306,1,0,2018-02-10 09:53,2018-02-10 11:01
+36572280,Spark API Usage,running spark aggregate funtion on rdd passing max as first function,<scala><apache-spark>,2,204,1,0,2016-04-12 11:42,2016-04-12 12:24
+29143756,Other,"Scala/Spark App with ""No TypeTag available"" Error in ""def main"" style App",<scala><types><apache-spark><apache-spark-sql>,19,10722,1,0,2015-03-19 11:47,2017-01-17 00:55
+29831234,Configuration,How does partitions map to tasks in Spark?,<apache-spark><rdd>,5,1850,1,0,2015-04-23 18:10,2015-09-26 10:15
+52302759,Data Sources,Checking if files exist in nested uneven directories?,<java><scala><apache-spark>,1,37,2,0,2018-09-12 20:12,2019-02-13 18:08
+48648798,Spark API Usage,Spark version 2.0 Streaming : how to dynamically infer the schema of a JSON String rdd and convert it to a DF,<json><scala><apache-spark><spark-dataframe><rdd>,1,346,1,0,2018-02-06 17:34,2018-02-07 09:43
+44387136,Configuration,Janusgraph spark guava version,<hadoop><apache-spark><graph><guava><janusgraph>,1,615,2,0,2017-06-06 10:08,2017-08-22 06:36
+32054546,Configuration,What is the proper way of running a Spark application on YARN using Oozie (with Hue)?,<apache-spark><cloudera><yarn><oozie><hue>,5,1799,1,0,2015-08-17 15:47,2017-08-14 08:10
+35885702,Spark API Usage,SQLContext implicits,<scala><apache-spark>,5,5148,1,0,2016-03-09 07:41,2016-03-09 09:08
+42862505,Data processing,How do I flattern a pySpark dataframe ?,<python><apache-spark><pyspark><spark-dataframe><rdd>,1,1259,2,1,2017-03-17 16:21,2017-03-17 19:24
+40728667,Data processing,Implement a directed Graph as an undirected graph using GraphX,<scala><apache-spark><graph><spark-graphx>,9,1542,1,0,2016-11-21 20:22,2016-11-21 21:06
+45149578,Other,"""Unable to find encoder for type stored in a Dataset"" and ""not enough arguments for method map""?",<scala><apache-spark>,1,4124,1,6,2017-07-17 16:46,2017-07-17 17:15
+41908418,Spark API Usage,How to get best params after tuning by pyspark.ml.tuning.TrainValidationSplit?,<apache-spark><pyspark><apache-spark-ml>,1,2023,1,0,2017-01-28 09:50,2017-08-09 11:48
+57949126,Data Sources,How to create dataframe from JSON in another dataframe?,<apache-spark><pyspark>,1,56,1,0,2019-09-16 00:21,2019-09-16 08:28
+39727742,Data processing,how to filter out a null value from spark dataframe,<scala><apache-spark><apache-spark-sql><spark-dataframe>,45,108706,9,3,2016-09-27 14:46,2019-04-10 22:15
+56456446,Other,"Why is the ""topics"" argument of KafkaUtils.createStream() a Map rather then array?",<java><apache-spark><apache-kafka><spark-streaming>,4,51,3,0,2019-06-05 08:05,2019-06-05 08:22
+44395974,Data processing,PySpark - UnpicklingError: NEWOBJ class argument has NULL tp_new,<python><apache-spark><pyspark>,3,556,1,0,2017-06-06 17:12,2017-06-06 21:13
+31396228,Data processing,How do I filter rows based on whether a column value is in a Set of Strings in a Spark DataFrame,<scala><apache-spark><apache-spark-sql>,13,19895,1,3,2015-07-14 01:37,2015-09-23 16:32
+33898040,Data Sources,Reading TSV into Spark Dataframe with Scala API,<scala><apache-spark>,20,33676,2,0,2015-11-24 15:48,2018-10-25 09:02
+39065413,Data processing,Timestamp parsing in Java/Scala for Spark-csv,<java><apache-spark><timestamp>,1,252,1,1,2016-08-21 14:41,2016-08-21 14:52
+51499460,Data processing,pyspark; check if an element is in collect_list,<apache-spark><pyspark><apache-spark-sql>,5,2290,1,2,2018-07-24 13:08,2018-07-25 07:04
+40468776,Data processing,How to use Column.isin in Java?,<java><apache-spark><apache-spark-sql>,5,5870,2,0,2016-11-07 15:26,2019-10-02 00:39
+35666967,Spark API Usage,Spark SQL DataFrame - distinct() vs dropDuplicates(),<scala><apache-spark><pyspark><apache-spark-sql>,14,17434,3,0,2016-02-27 07:22,2020-10-19 16:41
+40395932,Spark API Usage,Spark fillNa not replacing the null value,<hadoop><apache-spark><pyspark>,13,26060,2,2,2016-11-03 07:25,2016-11-04 10:51
+48909921,Other,Struggling with colon ':' in file names,<scala><hadoop><apache-spark>,2,982,1,1,2018-02-21 15:43,2018-02-21 19:25
+44957197,Data processing,How can I add a column with a value to a new Dataset in Spark Java?,<java><apache-spark><dataset><apache-spark-dataset><bigdata>,5,8659,1,0,2017-07-06 19:18,2018-09-27 22:50
+31397845,Data Sources,How to create Data frame from csv in Spark(using scala) when the first line is the schema?,<scala><csv><apache-spark><hdfs><dataframe>,3,3127,1,2,2015-07-14 04:46,2016-06-20 16:09
+43668339,Data processing,Update dataset in spark-shell by breaking one element into multiple parts and inserting a row for each part,<scala><apache-spark><spark-dataframe><amazon-emr><apache-spark-dataset>,1,128,1,1,2017-04-27 21:37,2017-04-28 08:41
+42764388,Data processing,Geo distance calculation using SparkR,<r><apache-spark><distance><geo>,1,303,1,0,2017-03-13 13:03,2017-03-14 02:23
+44137787,Data processing,Split and filter the column of data frame in Spark,<scala><apache-spark>,1,1185,2,2,2017-05-23 14:35,2017-05-24 08:31
+44835026,Configuration,How to enable spark-history server for standalone cluster non hdfs mode,<apache-spark><pyspark>,2,1887,2,0,2017-06-29 21:08,2017-06-30 13:27
+36578936,Spark API Usage,Spark ML StringIndexer Different Labels Training/Testing,<apache-spark><spark-dataframe><apache-spark-ml>,2,2278,1,2,2016-04-12 16:22,2016-04-12 17:54
+42588077,Data processing,Creating indices for each group in Spark dataframe,<apache-spark><apache-spark-sql>,5,2617,1,0,2017-03-03 20:39,2017-03-06 19:52
+39191194,Data Sources,How to convert a table into a Spark Dataframe,<apache-spark><pyspark><apache-spark-sql><spark-dataframe>,4,7033,2,0,2016-08-28 12:18,2018-04-23 14:21
+57739643,Data processing,How to extract keys from nested JSON,<scala><apache-spark>,1,73,1,5,2019-08-31 16:08,2019-09-01 14:49
+29995938,Spark API Usage,"When specifying local[n1,n2,n3] for spark master, what are the three parameters?",<apache-spark>,6,4935,2,3,2015-05-01 22:15,2016-12-29 20:15
+58169776,Data processing,Alternative to deprecated java.sql.Date for Spark DataFrame,<scala><apache-spark>,1,24,1,0,2019-09-30 14:16,2019-10-02 20:34
+39414368,Spark API Usage,Spark broadcast a value that is known at compilation time,<scala><apache-spark>,1,52,1,0,2016-09-09 14:51,2016-09-09 15:20
+38203303,Spark API Usage,Code sharing between spark workers,<scala><apache-spark>,1,164,2,0,2016-07-05 12:19,2016-07-06 13:37
+42863804,Data Sources,pyspark: Use JavaObject StructType,<apache-spark><pyspark><spark-dataframe>,2,583,1,0,2017-03-17 17:30,2017-03-17 17:55
+52286867,Spark API Usage,How I can deal with Tuple in Spark Streaming?,<scala><apache-spark><apache-kafka><spark-streaming>,1,216,2,3,2018-09-12 02:59,2018-09-12 12:52
+41021362,Performance and Logging,Executor OutOfMemoryExceptions on small data size vs available memory,<scala><apache-spark><out-of-memory><rdd>,4,303,1,0,2016-12-07 15:30,2016-12-07 18:58
+51732843,Data processing,Sum of variable number of columns in PySpark,<python><apache-spark><pyspark><apache-spark-sql>,2,582,1,1,2018-08-07 18:00,2018-08-08 10:52
+39642371,Spark API Usage,Does Kryo Automatically Register Classes Used in Fields?,<apache-spark><kryo><kryonet>,1,94,1,0,2016-09-22 14:52,2016-09-22 17:46
+39239214,Spark API Usage,how to access to my browser in local machine from remote machine,<ubuntu><browser><apache-spark><remote-access>,1,1165,2,0,2016-08-31 01:01,2016-08-31 12:00
+45668076,Data Sources,Spark write result of Array[Array[Any]] to file,<scala><apache-spark><hadoop2>,1,537,1,0,2017-08-14 05:44,2017-08-14 06:22
+44021624,Configuration,Spark how many JVMs are run on worker with multiple applications,<java><scala><apache-spark>,2,1850,1,0,2017-05-17 10:00,2017-05-17 11:41
+56833774,Data processing,using python class methods on RDD,<python><class><apache-spark><pyspark><rdd>,2,56,1,0,2019-07-01 10:09,2019-07-02 14:33
+48160627,Performance and Logging,Partition data for efficient joining for Spark dataframe/dataset,<apache-spark><apache-spark-sql><spark-dataframe><partitioning><apache-spark-dataset>,4,9595,2,0,2018-01-09 02:22,2018-01-15 05:22
+39123314,Other,How to add custom description to Spark Job for displaying in Spark Web UI,<apache-spark>,16,4283,2,0,2016-08-24 12:27,2019-01-26 19:43
+36092574,Data processing,Spark creating 100s of empty avro files,<apache-spark>,1,470,1,0,2016-03-18 19:15,2016-03-19 11:01
+48153759,Spark API Usage,"Spark ""error: type mismatch"" with scala 2.11 and not with 2.12",<java><scala><maven><apache-spark>,1,388,1,0,2018-01-08 15:55,2018-01-09 09:49
+40563777,Data Sources,How to troubleshoot java.lang.NumberFormatException: null,<scala><apache-spark><apache-spark-sql>,2,1450,2,3,2016-11-12 14:22,2016-11-12 15:09
+33438736,Data Sources,How to create a connection pool at executor level in Spark?,<apache-spark>,2,1139,1,2,2015-10-30 14:48,2015-10-31 21:08
+35523065,Spark API Usage,How to access individual predictions in Spark RandomForest?,<python><apache-spark><pyspark><apache-spark-MLlib><random-forest>,5,1714,1,0,2016-02-20 12:11,2018-04-09 20:48
+37569298,Other,Spring XD - Could not find module with name 'ftphdfs' and type 'source',<http><apache-spark><hdfs><spring-integration><spring-xd>,1,75,1,0,2016-06-01 12:54,2016-06-01 15:44
+41688756,Configuration,How to specify memory and cpu's for a Jupyter spark/pyspark notebook from command line?,<apache-spark><pyspark><jupyter-notebook>,2,939,1,0,2017-01-17 03:46,2017-01-17 07:18
+45777798,Data Sources,Spark function for loading parquet file on memory,<apache-spark><pyspark><hdfs><rdd>,1,1443,1,1,2017-08-20 01:55,2017-08-21 07:10
+31795777,Performance and Logging,Efficiently Aggregate Many CSVs in Spark,<csv><amazon-s3><apache-spark><sparkr>,5,851,2,1,2015-08-03 20:01,2015-11-21 16:27
+56557771,Data processing,Use Map to replace column values in Spark,<scala><apache-spark><apache-spark-sql>,1,157,2,0,2019-06-12 08:29,2019-06-12 09:15
+38101857,Configuration,Boosting spark.yarn.executor.memoryOverhead,<amazon-web-services><apache-spark><pyspark><emr><amazon-emr>,10,14818,2,6,2016-06-29 13:58,2017-03-08 21:00
+54743574,Data processing,Creating multiple pyspark dataframes from a single dataframe,<python><pandas><apache-spark><pyspark>,1,297,1,2,2019-02-18 08:58,2019-02-18 09:45
+33744868,Data processing,Apply SQL functions from within a DataFrame,<sql><scala><apache-spark><dataframe><apache-spark-sql>,1,3783,1,0,2015-11-16 21:21,2019-01-07 16:24
+54403226,Data processing,Unit Testing spark dataframes transformation chaining,<scala><unit-testing><apache-spark><apache-spark-sql><parquet>,2,2275,2,9,2019-01-28 13:38,2019-02-12 14:45
+28482476,Spark API Usage,spark MLlib predict error with map,<scala><apache-spark><apache-spark-MLlib>,1,463,1,4,2015-02-12 16:20,2016-04-25 12:52
+48110448,Data processing,How to get column names with all values null?,<scala><apache-spark><apache-spark-sql>,2,849,2,0,2018-01-05 09:16,2018-01-08 03:28
+31467998,Other,How to get default property values in Spark,<scala><apache-spark><apache-spark-sql>,5,7277,2,0,2015-07-17 03:34,2017-02-22 23:45
+57277371,Data processing,How to apply customizable Aggregator on Spark Dataset?,<scala><apache-spark><apache-spark-dataset>,1,40,1,0,2019-07-30 17:49,2019-07-30 23:07
+55462006,Data processing,Avro write java.sql.Timestamp conversion error,<apache-spark><apache-kafka><spark-avro>,1,256,1,0,2019-04-01 19:12,2019-04-01 19:51
+48326387,Other,import of implicits in Spark not working,<scala><maven><apache-spark><apache-spark-sql><implicit>,1,1215,1,2,2018-01-18 16:48,2019-01-07 17:16
+24652518,Spark API Usage,scala.MatchError: null on spark RDDs,<scala><apache-spark><rdd><apache-spark-MLlib><collaborative-filtering>,3,3865,1,5,2014-07-09 11:29,2016-04-25 11:52
+39677883,Data processing,How to fill missing values with values from other dataframes,<scala><apache-spark><join><apache-spark-sql>,1,469,1,0,2016-09-24 15:13,2019-01-11 16:10
+57079343,Data processing,Spark: create a nested schema,<apache-spark><dataframe><apache-spark-sql><schema>,1,42,1,0,2019-07-17 15:24,2019-07-17 15:31
+52041342,Data processing,How to parse url in spark sql(Scala),<scala><apache-spark>,2,1557,3,1,2018-08-27 14:17,2018-08-27 20:18
+32656734,Configuration,Spark SQL 1.5 build failure,<maven><build><apache-spark><apache-spark-sql>,7,3071,5,4,2015-09-18 16:21,2016-08-01 17:23
+35823213,Data Sources,Spark SQL: Nested classes to parquet error,<java><apache-spark><apache-spark-sql><parquet>,3,2057,1,1,2016-03-06 04:44,2017-10-19 15:02
+36244268,Configuration,How to convince Scala IDE to recognize org.apache.spark.graphx._ package?,<scala><apache-spark><spark-graphx>,1,411,2,0,2016-03-27 05:46,2016-03-28 16:47
+47241882,Spark API Usage,Spark Object (singleton) serialization on executors,<scala><apache-spark><serialization><singleton>,2,1002,1,0,2017-11-11 19:19,2017-11-11 20:45
+39633874,Spark API Usage,What is the difference between Spark Client and Spark Driver?,<apache-spark>,3,1204,2,0,2016-09-22 08:24,2017-12-17 10:20
+40575972,Data Sources,Presto failing to query hive table,<hadoop><apache-spark><hive><emr><presto>,3,2680,1,0,2016-11-13 16:14,2016-11-15 10:48
+56657794,Data processing,Use two lists of variables to add scala columns,<scala><apache-spark><apache-spark-sql>,1,65,1,0,2019-06-18 22:22,2019-06-19 01:04
+39961263,Spark API Usage,Why do I get kafka.cluster.BrokerEndPoint cannot be cast to kafka.cluster.Broker?,<apache-spark><apache-kafka><kafka-consumer-api>,1,1839,2,2,2016-10-10 15:03,2016-10-27 13:15
+55823841,Spark API Usage,Show full results for Spark streaming batch using console output format,<apache-spark><spark-structured-streaming>,1,78,1,0,2019-04-24 06:42,2019-04-24 06:53
+47618206,Data Sources,Prevent delimiter collision while reading csv in Spark,<scala><apache-spark><spark-dataframe><rdd><spark-csv>,1,210,1,4,2017-12-03 12:09,2017-12-03 14:17
+44494656,Performance and Logging,Coalesce reduces parallelism of entire stage (spark),<scala><apache-spark>,5,1872,1,4,2017-06-12 08:24,2019-09-17 10:40
+40159372,Configuration,Spark maven dependency breaks down sprint-boot application,<maven><apache-spark><spring-boot><apache-spark-2.0>,2,2091,1,0,2016-10-20 16:05,2016-10-22 05:08
+34867585,Data processing,how to sort data in each partition in spark?,<apache-spark>,2,6980,2,0,2016-01-19 02:32,2018-07-26 08:45
+50348236,Data processing,Convert row values into columns with its value from another column in spark scala,<scala><apache-spark><apache-spark-sql>,2,1634,1,1,2018-05-15 10:44,2018-05-15 10:54
+43835283,Spark API Usage,java.lang.NumberFormatException in Scala for MLlib,<scala><apache-spark><k-means><apache-spark-MLlib>,1,747,2,3,2017-05-07 18:43,2017-05-08 09:00
+41652374,Data Sources,Repairing hive table using hiveContext in java,<hadoop><apache-spark><hive><apache-spark-sql><hivecontext>,3,897,1,1,2017-01-14 16:39,2017-01-14 20:48
+52238803,Data processing,How to convert list of dictionaries into Pyspark DataFrame,<python><pyspark><apache-spark-sql>,5,6147,2,0,2018-09-08 19:41,2019-07-30 10:26
+57408398,Performance and Logging,"Is it better to partition by time stamp or year,month,day, hour",<apache-spark><apache-spark-sql><parquet>,1,70,1,3,2019-08-08 08:34,2019-09-24 14:33
+45282559,Configuration,How to start a standalone cluster using pyspark?,<python><apache-spark><pyspark>,2,877,3,2,2017-07-24 13:57,2019-08-15 20:21
+53011256,Other,How to solve this error org.apache.spark.sql.catalyst.errors.package$TreeNodeException,<apache-spark><datastax-enterprise><cassandra-3.0><databricks>,4,8097,2,3,2018-10-26 14:48,2018-10-30 13:44
+40611178,Configuration,Unable to deploy Spark jobs using Oozie,<hadoop><apache-spark><oozie>,1,408,2,0,2016-11-15 13:34,2016-11-15 13:48
+32150922,Performance and Logging,Spark giving logging error even after finding two libraries,<java><apache-spark>,1,2603,1,10,2015-08-22 00:01,2015-08-24 22:29
+31178740,Data processing,"How to use map() to convert (key,values) pair to values only in Pyspark",<python-2.7><mapreduce><apache-spark><pyspark>,2,21510,4,0,2015-07-02 07:59,2015-07-13 06:33
+51438504,Spark API Usage,Custom state store provider for Apache Spark on Mesos,<apache-spark><mesos><spark-structured-streaming>,5,311,1,0,2018-07-20 08:41,2018-10-27 16:18
+42391368,Data processing,How to split single row in to multiple rows in Java Spark,<java><apache-spark><rows><transpose>,2,2132,2,1,2017-02-22 12:21,2017-03-11 10:33
+51951989,Data Sources,Write PySpark Dataframe to SQL DB as batch,<apache-spark><pyspark><apache-spark-sql><pyspark-sql><databricks>,4,1581,1,3,2018-08-21 15:23,2018-09-04 15:43
+51898859,Performance and Logging,How to use multiple regex patterns using rlike in pyspark,<apache-spark><pyspark><pyspark-sql>,1,2081,1,0,2018-08-17 15:43,2018-08-17 16:27
+51963668,Other,"Some YARN worker node not join cluster , while I create spark cluster on Dataproc",<apache-spark><yarn><google-cloud-dataproc>,1,196,1,9,2018-08-22 09:25,2019-03-17 02:43
+41686477,Other,Scala: compilation error: not found type,<scala><apache-spark><compiler-errors><spark-graphx>,1,2022,1,0,2017-01-16 23:06,2017-01-17 09:33
+49433834,Data Sources,How to find keys within a text file and compare them to another using Spark & JSON,<java><scala><file><dictionary><apache-spark>,1,307,2,0,2018-03-22 16:30,2018-03-22 19:49
+56270629,Performance and Logging,Efficiently calculate top-k elements in spark,<apache-spark><apache-spark-sql><window-functions><rank><approximation>,3,155,2,1,2019-05-23 08:02,2019-07-24 08:35
+45312982,Data processing,Check column datatype and execute SQL only on Integer and Decimal in Spark SQL,<scala><apache-spark><apache-spark-sql><spark-streaming>,3,5179,2,0,2017-07-25 20:31,2019-01-13 17:05
+46181746,Data processing,Find Most Common Value and Corresponding Count Using Spark Groupby Aggregates,<scala><apache-spark><group-by><apache-spark-sql><aggregation>,2,913,1,0,2017-09-12 16:45,2019-01-07 17:34
+52780898,Data Sources,Apache spark: Write JSON DataFrame partitionBy nested columns,<json><apache-spark><dataframe><partition-by>,1,914,2,3,2018-10-12 13:46,2018-10-15 06:07
+33956720,Spark API Usage,SPARK: How to create categoricalFeaturesInfo for decision trees from LabeledPoint?,<scala><apache-spark><random-forest><decision-tree><apache-spark-MLlib>,2,1415,1,1,2015-11-27 11:47,2015-11-28 13:35
+36347875,Spark API Usage,how to obtain the trained best model from a crossvalidator,<scala><apache-spark><machine-learning><decision-tree><cross-validation>,6,1621,2,0,2016-04-01 04:09,2016-07-04 09:34
+40193801,Configuration,How to disable native zlib compression library in hadoop,<java><hadoop><apache-spark><zlib><gzip>,1,547,1,0,2016-10-22 15:24,2017-08-28 14:52
+36662297,Data processing,map on multiple values of one key pyspark,<python><apache-spark><pyspark>,2,2924,1,0,2016-04-16 09:13,2018-04-26 13:03
+40863808,Other,neo4j - Mazerunner job not responding,<apache-spark><graph><neo4j><neo4j-mazerunner><bigdata>,1,46,1,0,2016-11-29 10:42,2017-09-19 05:51
+41618474,Data processing,Filter stop words in Spark,<scala><apache-spark>,2,6869,2,1,2017-01-12 16:38,2019-09-08 18:55
+25682836,Configuration,Standalone spark cluster. Can't submit job programmatically -> java.io.InvalidClassException,<apache-spark>,12,8410,3,4,2014-09-05 09:36,2016-10-31 12:42
+54197788,Data processing,How to calculate rowwise median in a Spark DataFrame,<apache-spark><pyspark><apache-spark-sql>,2,495,4,0,2019-01-15 11:17,2019-01-17 15:39
+32822948,Performance and Logging,"""sparkContext was shut down"" while running spark on a large dataset",<scala><apache-spark><yarn><apache-spark-sql>,9,14565,3,2,2015-09-28 12:25,2016-08-25 19:40
+43271837,Data processing,Spark partitions - using DISTRIBUTE BY option,<apache-spark><hive><hadoop-partitioning>,4,2753,1,0,2017-04-07 07:11,2017-04-07 08:39
+31070702,Configuration,Spark JPMML import Issue,<apache-spark><pmml>,1,2088,1,1,2015-06-26 10:19,2015-06-27 13:30
+46351215,Data processing,Providing a Sequence as a parameter to a method accepting varargs,<scala><apache-spark>,1,84,1,0,2017-09-21 18:50,2017-09-21 20:24
+31454792,Data Sources,Spark SQL queries on Partitioned Data,<apache-spark>,1,2007,1,0,2015-07-16 12:55,2015-07-17 06:55
+48009318,Data processing,How to join datasets with same columns and select one?,<scala><apache-spark><join><apache-spark-sql>,1,3306,3,1,2017-12-28 14:31,2017-12-29 12:37
+48817169,Performance and Logging,How can I increase parallelism with loading large XML file with spark-xml?,<scala><performance><apache-spark><bz2>,1,397,1,0,2018-02-15 22:14,2018-02-16 06:56
+31279206,Other,How does Apache-Spark work with methods inside a class,<python><class><methods><apache-spark>,2,2387,1,5,2015-07-07 21:02,2015-07-08 06:04
+21171576,Other,Why does spark-ec2 fail with ERROR: Could not find any existing cluster?,<amazon-web-services><amazon-ec2><apache-spark>,4,3115,2,5,2014-01-16 19:56,2015-01-20 12:50
+36176620,Configuration,Apache-Zeppelin / Spark : Why can't I access a remote DB with this code sample,<java><scala><apache-spark><scalar><apache-zeppelin>,2,2507,2,6,2016-03-23 11:13,2016-06-02 13:42
+45550672,Data processing,Pyspark - Join timestamp window against timestamp values,<apache-spark><pyspark>,3,508,2,0,2017-08-07 15:32,2017-08-08 03:28
+55778246,Data processing,How do I convert multiple `string` columns in my dataframe to datetime columns?,<apache-spark><pyspark><apache-spark-sql>,1,84,1,0,2019-04-20 22:19,2019-04-21 00:33
+26947344,Data Sources,Why does spark-shell throw ArrayIndexOutOfBoundsException when reading a large file from HDFS?,<apache-spark>,8,15868,3,0,2014-11-15 15:21,2016-07-08 03:12
+33471388,Configuration,Why does running Spark job fail to find classes inside uberjar on EMR while it works locally fine?,<scala><amazon-web-services><apache-spark><emr>,2,552,2,5,2015-11-02 05:39,2015-11-03 21:35
+35476440,Spark API Usage,whether spark loads base RDD in Memory,<scala><apache-spark>,2,497,1,1,2016-02-18 08:36,2016-02-18 16:41
+40653248,Configuration,Starting thrift server in spark,<apache-spark><apache-spark-sql><spark-thriftserver>,2,3695,2,7,2016-11-17 11:05,2018-05-21 13:46
+42329551,Data processing,Fitting pipeline and processing the data,<scala><apache-spark><pipeline>,1,597,1,0,2017-02-19 16:09,2017-02-20 18:22
+51090044,Data processing,How to use custom type-safe aggregator in Spark SQL,<apache-spark><apache-spark-sql><apache-spark-dataset><apache-spark-2.0>,1,299,1,0,2018-06-28 19:27,2018-06-29 09:11
+49714067,Data processing,Spark scala data frame udf returning rows,<scala><apache-spark><user-defined-functions>,6,1923,1,2,2018-04-08 03:19,2018-04-09 11:22
+48900127,Other,How to do a self join in Spark 2.3.0? What is the correct syntax?,<scala><apache-spark><apache-spark-sql><spark-dataframe>,4,1594,2,0,2018-02-21 07:18,2018-02-21 08:45
+45480208,Data processing,Java & Spark : add unique incremental id to dataset,<java><apache-spark>,6,4690,4,6,2017-08-03 09:30,2018-07-19 11:24
+30047760,Configuration,Running Spark jobs on a YARN cluster with additional files,<apache-spark><hdfs><yarn>,9,9594,2,1,2015-05-05 08:24,2016-08-17 13:13
+48828067,Data processing,How to convert nested avro GenericRecord to Row,<java><apache-spark><avro><spark-avro>,5,2058,1,1,2018-02-16 13:40,2019-04-26 19:39
+49977114,Data Sources,overwrite hive partitions using spark,<scala><amazon-web-services><apache-spark><hadoop><hive>,8,4106,2,0,2018-04-23 09:02,2018-09-12 14:54
+46228331,Data processing,Spark dataframe: Pivot and Group based on columns,<scala><hadoop><apache-spark><spark-dataframe>,4,1242,2,0,2017-09-14 21:14,2017-09-15 05:29
+48038221,Data Sources,"Why does Zeppelin fail with ""mismatched input ';' expecting <EOF>"" in %spark.sql paragraph?",<apache-spark><apache-spark-sql><parquet><apache-zeppelin>,3,5425,1,0,2017-12-30 21:57,2018-01-01 14:46
+22734849,Configuration,apache-spark memory consumption for cache() / persist(),<java><garbage-collection><apache-spark>,3,6628,2,5,2014-03-29 18:11,2016-11-11 17:28
+44348241,Data processing,Pyspark map from RDD of strings to RDD of list of doubles,<apache-spark><pyspark>,1,921,1,0,2017-06-03 20:22,2017-06-03 20:35
+46521235,Data Sources,'HiveContext' object has no attribute 'jsonRDD' Spark 2.1.1,<python><apache-spark><pyspark><apache-spark-sql><spark-dataframe>,2,1469,1,0,2017-10-02 07:35,2017-10-02 09:58
+41919295,Configuration,Does spark standalone cluster supports deploye mode = cluster for python applications?,<apache-spark>,1,702,1,1,2017-01-29 09:16,2017-01-29 19:38
+24050300,Data processing,Spark's RDD.map() will not execute unless the item inside RDD is visited,<scala><apache-spark>,2,2039,1,5,2014-06-05 01:42,2014-06-05 09:20
+55974244,Data Sources,How to parse json having a nested schema?,<json><scala><apache-spark><databricks><jsonparser>,2,142,2,0,2019-05-03 16:58,2019-05-04 13:49
+57045469,Configuration,Can't connect from Spark to S3 - AmazonS3Exception Status Code: 400,<scala><amazon-web-services><apache-spark><hadoop><amazon-s3>,2,132,3,1,2019-07-15 18:40,2019-07-23 09:45
+31210377,Other,Spark workflow with jar,<apache-spark>,3,184,3,2,2015-07-03 15:41,2016-08-17 02:21
+36349585,Data processing,datatype for handling big numbers in pyspark,<python><apache-spark><pyspark><apache-spark-sql>,2,7724,1,0,2016-04-01 06:37,2017-12-07 17:30
+37032689,Data Sources,"Scala - First quartile, third quartile, and IQR from spark SQLContext dataframe without Hive",<scala><apache-spark-sql>,2,5708,1,0,2016-05-04 15:56,2016-05-04 15:56
+33728994,Data processing,Using Apache-Spark to analyze time series,<python><apache-spark><time-series><pyspark>,4,901,2,1,2015-11-16 05:23,2015-11-17 11:00
+35937398,Spark API Usage,"Scala - Operation in case (x,y)=> x++y",<scala><apache-spark>,4,2027,2,0,2016-03-11 10:13,2016-03-11 10:41
+35968321,Spark API Usage,Spark(scala): Count all distinct values of a whole column on RDD,<scala><apache-spark>,1,2386,1,0,2016-03-13 08:49,2016-03-13 11:39
+46382167,Data processing,Use a generated string in the select expr of dataframe,<scala><apache-spark>,1,1046,2,0,2017-09-23 17:08,2017-09-23 17:22
+49265613,Configuration,Submit a Spark job on a Yarn cluster from a remote client,<hadoop><apache-spark><cluster-computing><yarn>,2,2625,1,0,2018-03-13 20:48,2018-03-14 00:11
+57107792,Other,How to make sure that write csv is complete?,<java><apache-spark><spark-structured-streaming>,2,108,2,0,2019-07-19 07:43,2019-07-20 13:59
+34885981,Data processing,SparkR window function,<r><apache-spark><apache-spark-sql><window-functions><sparkr>,1,944,1,0,2016-01-19 20:06,2017-12-26 18:53
+38926715,Performance and Logging,Effective Way to Validate Field Values Spark,<python><hadoop><apache-spark><pyspark><bigdata>,2,436,1,0,2016-08-12 21:30,2017-09-20 06:23
+37754704,Data processing,How to implement LEAD and LAG in Spark-scala,<scala><apache-spark>,4,7787,1,0,2016-06-10 18:09,2016-06-10 20:29
+46552161,Data Sources,Write DataFrame to mysql table using pySpark,<python><mysql><apache-spark><pyspark><apache-spark-sql>,10,8307,1,0,2017-10-03 19:39,2018-12-20 06:12
+54583338,Data processing,Problem using 'window' function to group by day in PySpark,<python><apache-spark><pyspark><pyspark-sql>,1,155,1,0,2019-02-07 22:33,2019-02-08 07:29
+37171911,Spark API Usage,Training Sparks word2vec with a RDD[String],<scala><apache-spark><apache-spark-MLlib><spark-dataframe>,1,746,3,0,2016-05-11 19:42,2017-06-16 07:50
+41328352,Other,PySpark When item in list,<apache-spark><pyspark><pyspark-sql>,1,2312,1,0,2016-12-26 08:17,2019-01-22 16:00
+38606651,Configuration,Cannot set configuration when submitting Spark Streaming jobs to YARN with Client within Java code,<java><hadoop><apache-spark><spark-streaming><yarn>,1,133,1,0,2016-07-27 07:35,2016-07-27 08:57
+43004716,Data processing,How do I get certain columns from a dataset in Apache Spark (pyspark)?,<python><apache-spark><pyspark>,2,2629,2,0,2017-03-24 16:34,2017-03-26 14:38
+43710287,Data Sources,Cleaning and preparind data for Spark,<scala><apache-spark><apache-spark-MLlib><kaggle>,1,1683,1,0,2017-04-30 19:09,2018-03-20 18:10
+54419102,Configuration,No start-history-server.sh when pyspark installed through conda,<apache-spark><pyspark><conda><miniconda><spark-ui>,1,51,1,4,2019-01-29 10:36,2019-02-27 14:55
+42279665,Other,how to list spark-packages added to the spark context?,<apache-spark><sparkr>,3,2042,1,0,2017-02-16 16:33,2017-02-19 18:39
+29563115,Configuration,Spark with Yarn: Point in providing spark-resource related parameters?,<apache-spark><yarn>,2,121,1,0,2015-04-10 13:46,2015-04-10 14:15
+29910708,Spark API Usage,"Pyspark py4j PickleException: ""expected zero arguments for construction of ClassDict""",<python><apache-spark><pyspark><py4j>,8,8687,3,1,2015-04-28 05:04,2018-02-09 08:45
+36020699,Data processing,Getting an apache spark dataframe in the right format,<scala><apache-spark><dataframe><apache-spark-sql><rdd>,1,331,2,0,2016-03-15 19:44,2019-01-06 20:03
+46529404,Data processing,"How to force inferSchema for CSV to consider integers as dates (with ""dateFormat"" option)?",<apache-spark><dataframe><apache-spark-sql><spark-csv>,5,3879,2,3,2017-10-02 16:08,2019-01-11 21:34
+48707871,Data processing,How to put Array[Row] into JSON string,<arrays><json><scala><apache-spark>,1,53,1,2,2018-02-09 14:17,2018-02-09 15:15
+34535833,Data processing,Spark SQL dataframe: best way to compute across rowpairs,<apache-spark><dataframe><apache-spark-sql>,3,170,1,0,2015-12-30 19:22,2019-01-14 00:53
+51427175,Configuration,Error while running PySpark DataProc Job due to python version,<python-3.x><apache-spark><google-cloud-dataproc>,6,2887,3,3,2018-07-19 15:58,2019-09-18 02:54
+49098202,Data Sources,Script result in sqlContext on registered temp table in Scala has minor difference than using Reduce in RDD,<scala><apache-spark>,1,31,1,0,2018-03-04 17:28,2018-03-04 22:55
+26899595,Data Sources,JPype and JayDeBeAPI returns jpype._jclass.java.lang.Long,<python><jdbc><apache-spark><jpype><jaydebeapi>,3,4219,3,0,2014-11-13 01:00,2017-02-12 11:31
+49683897,Data processing,Passing Array to Python Spark Lit Function,<python><apache-spark><pyspark><literals><pyspark-sql>,14,5074,1,2,2018-04-06 01:28,2018-04-06 16:24
+39961850,Spark API Usage,How to write streaming data to S3?,<scala><amazon-web-services><apache-spark><amazon-s3><spark-streaming>,3,4544,2,0,2016-10-10 15:38,2016-10-12 18:40
+42534788,Data processing,Mapping a value into a specific column based on annother column,<scala><apache-spark><dataframe><apache-spark-sql>,2,503,1,0,2017-03-01 14:48,2017-03-01 17:17
+30114854,Data Sources,Cassandra storage internal,<cassandra><apache-spark><time-series><cql>,5,2429,1,5,2015-05-08 02:32,2015-05-08 14:24
+56381913,Data processing,How to insert concatenated values from a data-frame into another data-frame in Pyspark?,<python><apache-spark><hive><pyspark><apache-spark-sql>,1,42,1,2,2019-05-30 16:13,2019-05-30 17:58
+50923336,Data Sources,OrientDB: java.lang.IllegalArgumentException Property value can not be null,<scala><apache-spark><apache-spark-sql><orientdb>,1,110,1,3,2018-06-19 07:57,2018-06-19 08:32
+33369972,Data Sources,Write to a specified Parquet filename in Spark,<apache-spark><sparkr>,2,952,1,0,2015-10-27 13:57,2015-10-27 14:12
+34067124,Other,"the ""java.lang.IllegalArgumentException: requirement failed: Overflowed precision"" error on fetch oracle data in Python with PySpark and JDBC Driver",<oracle><apache-spark><pyspark><ojdbc>,1,1663,1,0,2015-12-03 13:19,2015-12-08 10:43
+42082900,Configuration,Compatibility issue with Scala and Spark for compiled jars,<scala><apache-spark><jar><compatibility>,2,2601,2,0,2017-02-07 06:10,2017-05-09 23:39
+42886401,Performance and Logging,Spark/Hadoop job not running in parralel,<hadoop><apache-spark><parallel-processing><mapreduce>,2,388,2,0,2017-03-19 12:11,2017-03-20 12:24
+38490714,Spark API Usage,Who loads partitions into RAM in Spache Spark?,<apache-spark><apache-spark-standalone>,1,49,1,0,2016-07-20 20:57,2016-07-21 16:57
+35938787,Data Sources,Fetch lines based on regex match along with the filenames from a directory using apache spark,<scala><apache-spark><mapreduce>,1,585,1,0,2016-03-11 11:13,2016-03-11 12:18
+47111607,Data processing,Why does this Spark code make NullPointerException?,<scala><apache-spark>,9,4760,2,0,2017-11-04 14:08,2017-11-22 00:34
+32495891,Spark API Usage,Spark: broadcasting jackson ObjectMapper,<scala><apache-spark><jackson>,2,1809,2,1,2015-09-10 07:38,2015-09-10 10:59
+47149293,Data Sources,Calling Dataset static method does not work in Spark Shell,<scala><apache-spark><dataset><apache-spark-sql>,1,314,1,2,2017-11-07 03:01,2019-02-12 01:19
+36873600,Data processing,Find distinct values for each column in an RDD in PySpark,<apache-spark><pyspark>,1,2261,1,0,2016-04-26 19:02,2017-03-09 03:05
+46396506,Configuration,Connect to Vertica 7.0.1 from Spark 1.5.2/1.6.2,<scala><apache-spark><vertica>,1,299,1,0,2017-09-25 01:42,2017-09-25 08:19
+42964531,Spark API Usage,SortedMap non Serialization error in Spark Dataset,<scala><apache-spark><apache-spark-dataset>,1,155,1,0,2017-03-22 23:26,2017-03-22 23:36
+48394765,Data processing,How to extract text from a RDD?,<scala><apache-spark>,1,198,2,0,2018-01-23 05:24,2018-01-23 05:38
+36237508,Performance and Logging,Spark SQL: Cache Memory footprint improves with 'order by',<sql><performance><scala><apache-spark><apache-spark-sql>,2,555,1,0,2016-03-26 16:05,2016-03-26 17:52
+35857224,Data Sources,How to return non-empty rows for a given ID - Hive,<hadoop><hive><apache-spark-sql>,1,55,1,2,2016-03-08 01:17,2016-03-08 11:38
+45080620,Data processing,How to use isin function with values from text file?,<apache-spark><apache-spark-sql>,1,241,1,0,2017-07-13 12:27,2018-05-18 13:21
+49116437,Performance and Logging,Using partitionBy() and persist() in pyspark,<python><apache-spark><pyspark>,1,810,1,0,2018-03-05 17:43,2018-03-06 06:04
+49034126,Configuration,AWS Glue executor memory limit,<amazon-web-services><apache-spark><aws-glue>,9,6172,5,7,2018-02-28 16:21,2019-08-28 15:39
+42030653,Performance and Logging,Spark write only to one hbase region server,<apache-spark><hbase><rdd>,3,1043,2,0,2017-02-03 18:23,2017-06-16 18:46
+44970829,Data processing,Passing two columns to a udf in scala?,<scala><apache-spark><user-defined-functions>,4,11870,1,3,2017-07-07 12:30,2017-07-11 06:15
+52792762,Data processing,Is there a way to slice dataframe based on index in pyspark?,<apache-spark><pyspark><apache-spark-sql>,1,1609,1,1,2018-10-13 12:06,2018-10-15 16:13
+34922320,Data Sources,Sparkr write DF as file csv/txt,<r><apache-spark><sparkr>,2,4786,1,0,2016-01-21 11:16,2017-01-24 14:42
+49303113,Configuration,Spark collect() network failure,<java><apache-spark><netty>,3,1094,1,0,2018-03-15 15:15,2018-06-05 04:10
+34937394,Spark API Usage,"How to process a subset of input records in a batch, i.e. the first second in 3-sec batch time?",<apache-spark><spark-streaming>,1,202,1,1,2016-01-22 01:16,2016-01-31 10:46
+39544796,Data processing,How to select last row and also how to access PySpark dataframe by index?,<python><apache-spark><pyspark><apache-spark-sql><pyspark-sql>,9,25130,4,0,2016-09-17 08:48,2019-07-24 15:42
+42829629,Other,How to control each spark worker node to do some special job?,<python><apache-spark><pyspark>,1,335,1,2,2017-03-16 09:11,2017-03-17 12:24
+47387439,Data processing,"How to add ""where"" clause to calculating maximum value in Spark?",<scala><apache-spark><apache-spark-sql>,1,220,1,4,2017-11-20 08:04,2019-01-13 21:41
+54748545,Data Sources,Null type schema in spark-salesforce connector,<apache-spark><apache-spark-sql><salesforce>,1,73,1,2,2019-02-18 13:36,2019-02-18 16:41
+39275779,Spark API Usage,How to use Spark Structured Streaming with Kafka Direct Stream?,<scala><apache-spark><apache-kafka><spark-structured-streaming>,11,3921,2,0,2016-09-01 15:39,2018-11-29 05:38
+51792377,Data processing,Get last element of list in Spark Dataframe column,<scala><list><apache-spark><apache-spark-sql>,1,1038,1,0,2018-08-10 18:42,2018-08-10 19:41
+41288622,Data processing,pyspark: Create MapType Column from existing columns,<python><apache-spark><pyspark>,10,8691,1,0,2016-12-22 17:20,2019-08-08 21:54
+39988908,Configuration,"Java, Spark and Cassandra java.lang.ClassCastException: com.datastax.driver.core.DefaultResultSetFuture cannot be cast to shade",<java><apache-spark><cassandra>,7,3068,1,1,2016-10-12 00:53,2016-10-12 05:50
+49483987,Other,Mocking SparkSession for unit testing,<scala><unit-testing><apache-spark><mocking><scalamock>,3,2040,1,6,2018-03-26 04:27,2018-03-26 07:32
+35998935,Spark API Usage,How to classify new training example after model training in apache spark?,<scala><apache-spark>,2,1018,1,0,2016-03-14 22:01,2016-03-14 23:28
+55245568,Data processing,"Flatten a Seq of Maps to Map using Type polymorphism in Scala, Spark UDF",<scala><apache-spark><generics>,1,105,2,0,2019-03-19 16:17,2019-03-19 17:35
+46659616,Spark API Usage,Retrieve SparkContext from SparkSession,<scala><apache-spark>,11,9048,2,4,2017-10-10 06:04,2019-02-11 19:56
+34676374,Data Sources,Reading files via SFTP in Spark,<apache-spark><apache-spark-sql>,1,3166,2,1,2016-01-08 11:46,2016-03-31 08:52
+49671354,Data processing,How to sort array of struct type in Spark DataFrame by particular column?,<scala><apache-spark><apache-spark-sql>,4,5341,2,4,2018-04-05 11:34,2019-01-14 16:03
+33162705,Data processing,How to sortby more than one value in pyspark,<python-2.7><lambda><apache-spark><pyspark>,1,1248,1,1,2015-10-16 04:43,2015-10-16 06:58
+55946124,Data processing,How correctly to join 2 dataframe in Apache Spark?,<scala><apache-spark><apache-spark-sql>,1,70,2,1,2019-05-02 05:27,2019-05-02 06:07
+43342772,Spark API Usage,find count of messages foreachRDD in JavaDStream,<apache-spark><apache-kafka><spark-streaming>,2,707,1,0,2017-04-11 10:02,2017-07-03 13:05
+44086892,Spark API Usage,How does Spark resolve system properties in strings (without string interpolation)?,<scala><apache-spark><apache-spark-sql>,1,363,1,0,2017-05-20 14:12,2017-05-20 20:07
+42295001,Other,How to interpret results of Spark OneHotEncoder,<python><apache-spark><pyspark><one-hot-encoding>,7,3470,1,0,2017-02-17 10:05,2018-11-06 09:48
+42578804,Data processing,drop all columns with a special condition on a column spark,<scala><apache-spark><apache-spark-sql>,2,2350,2,5,2017-03-03 12:22,2017-03-04 00:29
+56514856,Data processing,Categories column on the basis of distinct value in Spark Dataframe,<python><scala><apache-spark><apache-spark-sql>,1,31,1,1,2019-06-09 13:10,2019-06-09 20:51
+33180856,Data processing,Parse FHIR Bundle JSON Apache Spark,<python><json><apache-spark><pyspark><dstu2-fhir>,5,374,1,0,2015-10-16 23:09,2019-03-06 19:26
+42249888,Data Sources,Query data in subdirectories in Hive Partitions using Spark SQL,<apache-spark><hive><apache-spark-sql><parquet>,2,503,2,2,2017-02-15 12:48,2019-08-20 14:56
+26892389,Configuration,org.apache.spark.SparkException: Job aborted due to stage failure: Task from application,<apache-spark>,12,56612,2,4,2014-11-12 17:00,2015-04-19 00:38
+40613228,Data processing,How to automate StructType creation for passing RDD to DataFrame,<scala><apache-spark><spark-dataframe><rdd>,6,528,1,0,2016-11-15 15:06,2016-11-15 16:35
+55226928,Other,Spark Dataset - NumberFormatException: Zero length BigInteger,<java><apache-spark><apache-spark-sql>,1,327,1,3,2019-03-18 17:27,2019-03-20 08:40
+51171328,Data processing,Merge per group to fill time series,<python><apache-spark><pyspark>,3,83,1,0,2018-07-04 10:19,2018-07-04 14:10
+47784718,Spark API Usage,LDA model prediction nonconsistance,<apache-spark><pyspark><apache-spark-MLlib><lda><apache-spark-ml>,1,276,1,0,2017-12-13 02:41,2017-12-14 01:49
+32598820,Data processing,Get all the nodes connected to a node in Apache Data processingX,<scala><graph><apache-spark><spark-graphx>,6,2307,1,6,2015-09-16 02:36,2015-09-16 06:58
+36009436,Spark API Usage,Spark High Availability,<apache-spark>,1,609,1,1,2016-03-15 11:04,2016-03-15 13:28
+37603989,Data processing,Distributed dask matrix from flat text file,<python><apache-spark><dataframe><pyspark><dask>,1,246,1,0,2016-06-03 00:03,2016-06-03 06:38
+50880303,Spark API Usage,Python - Pickle Spacy for PySpark,<python><apache-spark><pyspark><user-defined-functions>,5,902,2,4,2018-06-15 17:33,2018-08-23 15:41
+38186427,Data processing,How to write a transformation function to transform RDD with reference to a Graphframe object?,<apache-spark><pyspark><rdd><graphframes>,1,83,1,0,2016-07-04 13:53,2016-07-04 14:28
+45636753,Spark API Usage,Meaning of the Symbol of single apostrophe(') in Scala using Anonymous function under withColumn function?,<scala><apache-spark><user-defined-functions><anonymous-function>,2,1002,1,2,2017-08-11 13:43,2017-08-11 14:37
+48469281,Spark API Usage,How to merge multiple DStreams in spark using scala?,<scala><apache-spark><apache-kafka><spark-streaming><dstream>,1,472,1,1,2018-01-26 20:46:15,2018-01-27 12:10:15
+30591421,Spark API Usage,My RDD change his values himself,<scala><apache-spark><rdd>,1,43,2,0,2015-06-02 08:49:38,2015-06-02 09:02:37
+37778532,Spark API Usage,How to get Precision/Recall using CrossValidator for training NaiveBayes Model using Spark,<apache-spark><apache-spark-mllib><apache-spark-ml><apache-spark-1.5>,2,734,1,0,2016-06-12 19:59:31,2016-06-13 16:58:13
+39537505,Data processing,PySpark: append/merge PythonRDD to a PySpark dataframe,<python><apache-spark><pyspark><apache-spark-sql><apache-spark-mllib>,2,659,1,5,2016-09-16 17:55:48,2019-01-06 19:58:38
+48926087,Data processing,Fit a json string to a DataFrame using a schema,<json><apache-spark><dataframe><rdd>,2,244,1,0,2018-02-22 11:16:40,2018-02-22 12:09:53
+29785548,Configuration,Apache Spark on EC2 massive slowdown on iterations,<amazon-ec2><apache-spark>,1,87,2,0,2015-04-22 00:26:00,2015-10-15 12:06:13
+35899392,Spark API Usage,Create a Python transformer on sparsevector data type column in Pyspark ML,<python><pyspark><apache-spark-mllib>,3,1487,1,1,2016-03-09 18:13:15,2016-03-10 20:58:18
+47687194,Data Sources,Load CSV data in to Dataframe and convert to Array using Apache Spark (Java),<java><csv><apache-spark><dataframe><apache-spark-dataset>,2,2008,2,2,2017-12-07 03:35:23,2019-01-03 12:54:33
+53976064,Data processing,How to pass variables to spark.sql query in pyspark?,<python><pyspark><apache-spark-sql>,2,1894,1,1,2018-12-30 08:00:23,2018-12-31 14:06:08
+48176849,Spark API Usage,How to get explained variance per PCA component in pyspark,<pyspark><pca><apache-spark-ml>,3,1170,1,0,2018-01-09 21:22:44,2018-08-19 08:58:30
+46896971,Data processing,How do you display Dataframe column names sorted?,<apache-spark><pyspark><spark-dataframe>,4,4614,1,0,2017-10-23 19:20:21,2017-10-28 15:49:46
+31184828,Configuration,Query Hive table created with built-in Serde from Spark app,<apache-spark><hive><hortonworks-data-platform>,2,2704,3,0,2015-07-02 12:35:07,2015-07-02 15:41:03
+37270176,Data processing,How to println from foreach in Jupyter?,<scala><apache-spark><jupyter>,1,661,1,0,2016-05-17 07:49:26,2016-08-02 12:54:04
+30985789,Configuration,Election of new zookeeper leader shuts down the Spark Master,<apache-spark><apache-zookeeper>,11,1113,1,1,2015-06-22 17:03:43,2016-07-26 09:20:44
+30369380,Configuration,Hadoop “Unable to load native-hadoop library for your platform” error on docker-spark?,<hadoop><apache-spark><docker>,15,27827,1,0,2015-05-21 09:12:47,2018-08-08 00:15:48
+49472422,Data processing,RDD filter with other function,<scala><apache-spark>,1,52,1,0,2018-03-25 04:01:00,2018-03-25 04:05:20
+57358701,Data Sources,"Find alternative to sparksession,read,json(JavaRDD) deprecated method",<java><apache-spark>,1,69,1,2,2019-08-05 12:32:38,2019-08-05 16:39:28
+45109247,Data processing,Spark Scala Dataframe convert a column of Array of Struct to a column of Map,<scala><apache-spark><apache-spark-sql>,1,2404,1,0,2017-07-14 18:06:51,2017-07-14 20:20:03
+37112986,Data Sources,Spark SQL: How to consume json data from a REST service as DataFrame,<apache-spark-sql><spark-dataframe><hdinsight>,10,10880,2,5,2016-05-09 10:06:52,2016-05-11 04:44:52
+34649761,Data processing,Break tuple in RDD to two tuples,<scala><apache-spark><rdd><iterable>,2,603,1,0,2016-01-07 07:41:46,2016-01-07 07:55:30
+40073299,Data Sources,Spark Java Map function is getting executed twice,<java><apache-spark><apache-spark-sql><rdd>,4,701,1,2,2016-10-16 17:35:59,2019-01-09 19:57:06
+46103365,Performance and Logging,S3 SlowDown error in Spark on EMR,<scala><apache-spark><amazon-s3><amazon-emr><apache-spark-dataset>,17,2998,1,2,2017-09-07 18:59:07,2017-09-15 00:41:28
+37741841,Data processing,fetch more than 20 rows and display full value of column in spark-shell,<scala><apache-spark><pyspark><apache-spark-sql>,24,33453,2,0,2016-06-10 06:59:08,2019-08-07 06:41:51
+46365822,Data processing,Apache Spark subtract days from timestamp column,<apache-spark><dataframe><apache-spark-sql><timestamp>,2,3410,1,2,2017-09-22 13:21:09,2019-01-10 15:10:21
+27412780,Spark API Usage,SparkUI URL becomes inactive after spark standalone application mode finishes,<python><apache-spark>,2,491,1,4,2014-12-10 23:27:13,2014-12-12 06:19:48
+37706420,Spark API Usage,How to create a custom Encoder in Spark 2.X Datasets?,<scala><apache-spark><apache-spark-dataset><apache-spark-encoders>,18,16880,3,1,2016-06-08 15:10:22,2019-01-04 13:10:42
+41029502,Spark API Usage,Optimizing GC on EMR cluster,<apache-spark><garbage-collection><jvm><emr><amazon-emr>,11,5884,1,1,2016-12-07 23:56:30,2016-12-08 12:40:28
+38747713,Configuration,Running Spark on Linux : $JAVA_HOME not set error,<linux><apache-spark><java-home><ubuntu-16.04>,4,3195,1,11,2016-08-03 15:23:13,2018-12-16 05:52:30
+38244766,Data processing,Getting Null pointer exception while accessing BroadCasted Dataframe,<apache-spark><apache-spark-sql>,1,1090,1,0,2016-07-07 11:51:23,2016-07-07 13:51:19
+29013595,Data processing,Spark: Hive Query,<hive><apache-spark><hiveql><apache-spark-sql><parquet>,3,636,1,0,2015-03-12 15:17:31,2016-05-17 14:16:19
+47746477,Data processing,"In Spark data frame, add value to new column if value in another column is in broadcast variable array",<scala><apache-spark><merge><apache-spark-sql>,1,1059,2,0,2017-12-11 04:33:26,2019-09-23 22:18:06
+33222045,Configuration,ClassNotFoundException anonfun when deploy scala code to Spark,<scala><intellij-idea><apache-spark><sbt><classnotfoundexception>,7,3829,2,9,2015-10-19 19:09:31,2017-04-08 16:51:04
+34534088,Data processing,"How do I use ""not rlike"" in spark-sql?",<scala><apache-spark><apache-spark-sql>,2,9908,3,2,2015-12-30 17:19:54,2019-05-05 18:24:28
+57407077,Data processing,String matching in URL using Hive / Spark SQL,<regex><string><hive><apache-spark-sql><pyspark-sql>,1,37,1,2,2019-08-08 07:11:34,2019-08-08 08:42:57
+43104140,Configuration,How to distribute Beam Tasks evenly on Spark?,<apache-spark><apache-beam>,1,127,1,1,2017-03-29 21:04:03,2017-03-30 13:51:34
+52042632,Data Sources,Spark fails to write and then read JSON formatted data with nullable column,<scala><apache-spark>,2,180,1,0,2018-08-27 15:34:32,2018-08-27 16:03:06
+54662701,Spark API Usage,How to split columns into label and features in pyspark?,<python><csv><apache-spark><pyspark><apache-spark-ml>,1,197,1,1,2019-02-13 04:48:58,2019-02-13 05:08:25
+49754318,Other,Nice output of RDD lineage/Spark operator graph,<python><apache-spark><pyspark>,1,323,1,1,2018-04-10 12:56:33,2018-04-10 13:06:50
+53162827,Data processing,Generic method which works with RDD and Seq,<scala><apache-spark><scala-cats>,1,58,1,0,2018-11-05 21:58:42,2018-11-06 01:46:16
+49825081,Configuration,"sbt assembly, including my jar",<scala><apache-spark><sbt>,2,876,1,0,2018-04-13 21:01:54,2018-04-17 12:49:48
+39739072,Data processing,Spark sql how to explode without losing null values,<java><apache-spark><null><apache-spark-sql>,28,13120,3,0,2016-09-28 05:57:40,2019-10-02 07:25:10
+52227439,Data processing,How to check if key exists in spark sql map type,<apache-spark><apache-spark-sql>,2,1158,3,2,2018-09-07 17:51:43,2019-06-28 10:06:00
+37689878,Data processing,Select array element from Spark Dataframes split method in same call?,<python><apache-spark><pyspark><apache-spark-sql>,8,6584,3,0,2016-06-07 21:42:20,2019-08-08 20:48:22
+30264373,Data processing,Is there better way to display entire Spark SQL DataFrame?,<scala><apache-spark><apache-spark-sql>,35,68161,7,2,2015-05-15 16:25:29,2019-06-27 06:53:29
+41080083,Data processing,PySpark DataFrame not parsing time correctly,<python><apache-spark><datetime><pyspark><apache-spark-sql>,1,407,1,0,2016-12-10 20:38:04,2019-01-11 16:04:04
+45707479,Other,XGBoost doesn't generate as many tree as specified in the num_round parameter,<apache-spark><xgboost>,2,328,1,0,2017-08-16 07:27:27,2019-04-21 11:55:25
+48509099,Spark API Usage,Apache spark java conditional replacement of column,<java><apache-spark><spark-dataframe>,1,412,1,0,2018-01-29 20:02:17,2018-01-29 20:55:44
+39190829,Configuration,spark-submit gives error as The system cannot find the path specified,<apache-spark>,2,1740,1,0,2016-08-28 11:35:04,2016-08-31 17:59:21
+52049152,Data processing,Grouped percentile using SparkR,<r><apache-spark><sparkr>,1,114,1,0,2018-08-28 02:12:40,2018-08-28 21:58:41
+35074278,Data processing,spark sql dataframe join with renaming in a loop,<sql><scala><join><apache-spark><dataframe>,2,1412,1,1,2016-01-28 23:39:49,2016-01-29 10:07:13
+36122559,Spark API Usage,How to map variable names to features after pipeline,<scala><apache-spark><apache-spark-mllib><apache-spark-ml>,7,2237,1,1,2016-03-21 03:12:35,2019-05-20 09:05:02
+51206730,Data processing,Create new dataFrame based on reformatted columns from old dataFrame,<python><apache-spark><pyspark>,2,574,2,5,2018-07-06 09:03:22,2018-07-13 13:24:39
+38117360,Data processing,Aggregate array type in Spark Dataframe,<apache-spark-sql>,3,1635,1,0,2016-06-30 08:07:27,2016-06-30 08:25:41
+50232040,Configuration,"Error running spark in a Scala REPL - access denied org.apache.derby.security.SystemPermission( ""engine"", ""usederbyinternals"" )",<scala><apache-spark><sbt>,2,932,2,0,2018-05-08 11:02:48,2018-09-18 17:43:04
+28804647,Data processing,Why does foreach not bring anything to the driver program?,<apache-spark>,12,12027,2,0,2015-03-02 07:32:20,2016-09-28 18:34:13
+43265852,Data processing,PySpark: Get top k column for each row in dataframe,<python><apache-spark><dataframe><pyspark><apache-spark-sql>,4,478,1,0,2017-04-06 21:11:56,2019-01-06 05:25:08
+55398372,Data processing,create a Spark DataFrame from a nested array of struct element?,<scala><apache-spark><apache-spark-sql>,2,726,1,2,2019-03-28 13:04:04,2019-03-29 14:06:59
+30091371,Spark API Usage,"""java.io.NotSerializationException: org.apache.spark.streaming.StreamingContext"" When execute spark streaming",<apache-spark><spark-streaming>,4,3156,1,1,2015-05-07 03:24:15,2015-05-07 07:45:09
+40050801,Performance and Logging,Spark Job Speed Relational To SQL Server Size,<apache-spark><apache-spark-sql><spark-dataframe><hdinsight>,2,74,1,0,2016-10-14 19:36:33,2016-10-14 21:54:09
+31543836,Data Sources,Spark DataFrame zipWithIndex,<scala><apache-spark><apache-spark-sql>,1,3007,1,0,2015-07-21 15:48:18,2018-01-15 18:35:57
+48625902,Data processing,Removing duplicate rows based on Java DataFrame,<java><scala><apache-spark><dataframe><apache-spark-sql>,1,562,2,1,2018-02-05 15:28:01,2018-02-06 02:21:35
+28833926,Data processing,Spark: value reduceByKey is not a member,<vector><apache-spark><reduce><apache-spark-mllib>,2,4629,1,2,2015-03-03 14:10:50,2016-04-25 12:32:05
+41134924,Data Sources,How can I write to S3 through spark as chunks?,<apache-spark><dataframe><amazon-s3>,1,379,1,1,2016-12-14 04:35:00,2016-12-15 09:07:39
+37998228,Configuration,Scala - Spark-corenlp - java.lang.NoClassDefFoundError,<scala><apache-spark><stanford-nlp>,1,1128,1,0,2016-06-23 17:30:51,2017-04-07 10:29:22
+28723643,Data processing,cant perform 2 succesive groupBy in spark,<python><csv><apache-spark>,1,519,1,1,2015-02-25 15:59:14,2015-02-26 15:23:01
+55148432,Other,Does spark optimize identical but independent DAGs in pyspark?,<apache-spark><pyspark>,9,130,1,1,2019-03-13 17:57:53,2019-04-08 20:12:41
+37732766,Data Sources,Read range of files in pySpark,<python><apache-spark><pyspark><pyspark-sql>,2,2127,2,0,2016-06-09 17:38:20,2016-06-13 17:18:54
+57310508,Data processing,"ClassCastException when converting json to ""scala.collection.immutable.HashMap"" when entries are less",<scala><apache-spark><json4s>,1,62,1,3,2019-08-01 13:45:39,2019-08-02 08:59:10
+48666655,Data processing,reduceByKey on RDD consisting of lists of key-value pairs?,<apache-spark><pyspark>,1,500,1,0,2018-02-07 14:48:56,2018-02-07 14:52:31
+43428297,Spark API Usage,Run ML algorithm inside map function in Spark,<apache-spark><machine-learning><pyspark><apache-spark-mllib><apache-spark-ml>,1,1246,1,0,2017-04-15 16:13:45,2018-11-13 23:13:57
+29180248,Data processing,Parallelize a collection with Spark,<java><apache-spark><machine-learning><artificial-intelligence><apache-spark-mllib>,3,7529,1,0,2015-03-21 07:18:55,2016-04-25 12:29:51
+36672606,Data processing,Scalaz Type Classes for Apache Spark RDDs,<scala><apache-spark><functional-programming><rdd><scalaz>,6,563,1,0,2016-04-17 04:15:35,2016-04-17 04:56:56
+54503014,Data processing,How to get the schema definition from a dataframe in PySpark?,<apache-spark><dataframe><pyspark><schema><azure-databricks>,8,4645,2,0,2019-02-03 12:49:03,2019-02-03 15:08:50
+45531581,Data processing,Spark fill DataFrame with Vector for null,<scala><apache-spark><dataframe><vector><null>,1,499,1,0,2017-08-06 11:32:19,2017-08-06 16:16:14
+38467763,Data processing,Spark SQL - Select all AND computed columns?,<java><apache-spark><apache-spark-sql>,5,14897,2,0,2016-07-19 20:19:04,2017-12-27 15:39:50
+36140725,Data Sources,SaveMode is not working in Spark SQL,<scala><apache-spark><apache-spark-sql>,1,6300,1,0,2016-03-21 20:16:05,2016-03-21 20:40:30
+41135506,Configuration,How to use two versions of spark shell?,<hadoop><apache-spark><version>,11,13026,4,1,2016-12-14 05:32:39,2018-12-06 12:56:45
+55965978,Data processing,How to set jdbc/partitionColumn type to Date in spark 2.4.1,<apache-spark><apache-spark-sql><databricks>,2,618,4,1,2019-05-03 08:27:26,2019-07-27 00:51:17
+42051444,Data processing,Spark: computationally efficient way to compare dates?,<performance><scala><apache-spark><apache-spark-sql><spark-dataframe>,1,332,1,1,2017-02-05 11:20:22,2017-02-05 12:50:29
+36646866,Spark API Usage,Spark : anti-join two DStreams,<scala><apache-spark><apache-spark-sql><spark-streaming>,1,623,1,7,2016-04-15 12:14:04,2016-04-15 14:08:06
+45429535,Spark API Usage,foreachRDD not accepting JavaRDD<String> as return type,<apache-spark><spark-streaming><apache-spark-mllib>,1,404,1,0,2017-08-01 05:23:48,2017-08-01 06:52:25
+45229581,Data Sources,Convert data from gzip to sequenceFile format using Hive on spark,<hadoop><apache-spark><hive><pyspark><sequencefile>,2,536,1,0,2017-07-21 05:24:06,2018-10-22 13:24:31
+33168970,Data processing,"How can we JOIN two Spark SQL dataframes using a SQL-esque ""LIKE"" criterion?",<python><apache-spark><apache-spark-sql><pyspark>,5,4861,1,1,2015-10-16 11:06:03,2017-09-06 20:38:49
+28454080,Performance and Logging,How to log using log4j to local file system inside a Spark application that runs on YARN?,<logging><log4j><apache-spark><yarn>,31,57431,5,2,2015-02-11 12:12:32,2018-10-10 12:23:25
+44658970,Configuration,Spark with Pureconfig - proper maven shade plugin configuration,<scala><maven><apache-spark><sbt><maven-shade-plugin>,1,393,1,0,2017-06-20 16:54:36,2017-06-21 08:35:46
+32126007,Other,FPGrowth Algorithm in Spark,<algorithm><scala><apache-spark>,3,2352,3,1,2015-08-20 18:45:23,2017-01-25 11:27:13
+37058529,Data processing,RDD lookup inside a transformation,<scala><apache-spark><rdd>,1,455,1,3,2016-05-05 19:13:56,2016-05-06 10:17:02
+40526054,Data processing,Get elements of type structure of row by name in SPARK SCALA,<scala><apache-spark><apache-spark-sql>,2,6162,1,5,2016-11-10 11:05:42,2019-09-19 18:27:45
+46302241,Data processing,how to get dataframe values in variables,<java><apache-spark><apache-spark-sql>,2,1404,1,0,2017-09-19 13:49:19,2017-09-19 15:45:58
+33393815,Data processing,Count instances of combination of columns in spark dataframe using scala,<scala><apache-spark><dataframe>,5,11837,2,0,2015-10-28 14:30:35,2016-11-29 00:33:23
+38964007,Other,Active tasks is a negative number in Spark UI,<python><hadoop><apache-spark><distributed-computing><bigdata>,21,2236,2,0,2016-08-15 22:31:41,2017-09-20 06:21:52
+42432345,Data Sources,Spark- Load data frame contents in table in a loop,<scala><apache-spark><hive>,1,680,1,9,2017-02-24 06:40:38,2017-03-06 14:58:33
+45331177,Configuration,Configuring master node in spark cluster,<apache-spark>,1,576,1,2,2017-07-26 15:20:21,2017-07-26 21:14:45
+40498188,Spark API Usage,Pyspark mllib LDA error: Object cannot be cast to java.util.List,<apache-spark><pyspark><apache-spark-mllib>,1,215,1,0,2016-11-08 23:31:32,2016-11-09 00:21:19
+33871569,Data processing,Read Array in sub queries spark sql using scala,<scala><apache-spark><apache-spark-sql>,1,980,1,2,2015-11-23 12:52:50,2015-11-23 13:10:13
+49108386,Spark API Usage,What is the purpose of global temporary views?,<apache-spark><apache-spark-sql><pyspark-sql>,2,4503,2,7,2018-03-05 10:32:46,2018-04-11 05:45:19
+48991745,Spark API Usage,How to convert spark streaming output into dataframe or storing in table,<scala><apache-spark><apache-spark-sql><spark-streaming>,1,2339,1,0,2018-02-26 15:23:31,2019-07-18 18:42:18
+33996879,Spark API Usage,What do WARN messages mean when starting spark-shell?,<scala><apache-spark>,7,7439,2,0,2015-11-30 10:51:23,2015-12-01 14:37:12
+40193649,Spark API Usage,"""spark.memory.fraction"" seems to have no effect",<java><scala><apache-spark>,6,2916,1,3,2016-10-22 15:09:40,2016-10-23 16:50:47
+57379115,Spark API Usage,How is new object instantiation handled in case of Datasets?,<scala><dataframe><apache-spark>,1,44,1,1,2019-08-06 15:12:33,2019-08-07 13:34:11
+51994323,Data Sources,spark read contents of zip file in HDFS,<scala><apache-spark><spark-submit><spark-shell>,1,834,1,3,2018-08-23 21:10:35,2018-08-24 04:37:41
+43263639,Data processing,scala dataframe filter array of strings,<scala><apache-spark><scala-2.10><apache-spark-1.6>,3,3033,1,0,2017-04-06 18:57:13,2017-04-06 19:39:40
+39136544,Data processing,Spark aggregateByKey on Dataset,<scala><apache-spark><apache-spark-sql><spark-streaming><spark-dataframe>,2,1297,1,0,2016-08-25 04:05:52,2016-08-25 15:07:04
+36366436,Performance and Logging,What is the fastest way to transform a very large JSON file with Spark?,<scala><apache-spark>,3,2470,3,4,2016-04-01 21:53:43,2016-04-02 20:55:28
+45618489,Spark API Usage,Executing separate streaming queries in spark structured streaming,<apache-spark><spark-structured-streaming>,11,2815,1,1,2017-08-10 16:01:24,2018-10-27 13:04:54
+35066231,Data processing,Stack Overflow while processing several columns with a UDF,<python><apache-spark><pyspark><apache-spark-sql><user-defined-functions>,4,2080,1,7,2016-01-28 16:02:14,2019-01-14 00:38:17
+41438055,Performance and Logging,reducebykey and aggregatebykey in spark Dataframe,<apache-spark><apache-spark-sql><apache-spark-2.0>,2,3197,1,0,2017-01-03 06:58:01,2017-01-03 11:07:16
+48086889,Spark API Usage,Is sparkSession.stop() asynchronous?,<scala><apache-spark>,1,2357,2,0,2018-01-04 00:01:03,2019-03-27 16:18:24
+24837561,Data processing,How to convert scala.collection.Set to java.util.Set with Serialization within an RDD,<java><serialization><apache-spark><scala-2.9><rdd>,6,2356,1,0,2014-07-19 06:44:29,2014-07-19 12:42:38
+28412969,Spark API Usage,TaskSchedulerImpl: Initial job has not accepted any resources. (Error in Spark),<scala><apache-spark>,2,1839,1,2,2015-02-09 15:13:59,2015-02-10 18:17:02
+47171659,Data processing,Dataframe to RDD[Row] replacing space with nulls,<scala><apache-spark><spark-dataframe><rdd>,1,718,3,0,2017-11-08 04:35:05,2017-11-08 13:03:06
+38557061,Data processing,Spark UDF returns a length of field instead of length of value,<json><scala><apache-spark><apache-spark-sql>,1,180,1,0,2016-07-24 21:36:47,2016-07-24 23:29:12
+50260067,Data processing,Create new pyspark DataFrame column by concatenating values of another column based on a conditional,<apache-spark><pyspark><spark-dataframe>,2,722,2,2,2018-05-09 18:38:54,2018-05-10 14:43:12
+46541998,Spark API Usage,Queries with streaming sources must be executed with writeStream.start();;,<apache-spark><spark-streaming><apache-spark-mllib><apache-spark-ml><spark-structured-streaming>,2,1356,2,0,2017-10-03 10:02:51,2018-10-27 14:43:26
+29137562,Spark API Usage,Spark Streaming - Issue with Passing parameters,<scala><apache-spark><spark-streaming>,1,709,1,2,2015-03-19 05:08:01,2015-03-19 23:35:56
+57960672,Data processing,spark-submit 'Unable to coerce 'startDate' to a formatted date (long)',<scala><apache-spark><datastax><spark-submit>,1,25,1,0,2019-09-16 16:07:07,2019-09-17 05:11:59
+41206255,Data processing,Convert pyspark.sql.dataframe.DataFrame type Dataframe to Dictionary,<python><dictionary><apache-spark><pyspark>,5,21278,4,0,2016-12-18 07:15:01,2019-07-08 16:45:01
+48365558,Configuration,Get HDP version through Spark,<hadoop><apache-spark><hortonworks-data-platform>,1,1105,1,0,2018-01-21 09:50:12,2018-01-21 15:58:35
+25904809,Configuration,Spark Kafka Streaming Issue,<java><maven><apache-spark><apache-kafka>,4,6128,2,3,2014-09-18 05:30:24,2017-04-03 11:56:16
+32341709,Configuration,"""Bad substitution"" when submitting spark job to yarn-cluster",<apache-spark><yarn>,12,7156,6,3,2015-09-01 22:14:48,2019-02-27 00:34:40
+30391075,Data processing,SPARK : How to implement CASE ELSE part and WHERE LIKE and BETWEEN,<apache-spark>,1,3660,2,3,2015-05-22 07:44:36,2015-05-22 13:50:38
+37034454,Data processing,pyspark: combine rows of DataFrame into DenseVector,<apache-spark><pyspark><spark-dataframe><pyspark-sql>,4,2748,2,0,2016-05-04 17:36:31,2017-02-13 10:28:32
+49377717,Data Sources,Elastic search could not write all entries: May be es was overloaded,<apache-spark><elasticsearch><apache-spark-sql><elasticsearch-spark>,3,1448,2,1,2018-03-20 06:36:58,2019-07-10 18:01:11
+36437856,Data Sources,Does the S3 reader in read_csv() download files to disk first or does it use streaming?,<python><pandas><apache-spark><pyspark>,3,85,1,1,2016-04-05 22:01:56,2016-04-05 22:34:32
+45355192,Spark API Usage,How to apply several Indexers and Encoders without creating countless intermediate DataFrames?,<scala><apache-spark><apache-spark-mllib>,1,45,2,0,2017-07-27 15:33:50,2017-07-27 18:07:59
+54002766,Data Sources,Optimal way to save spark sql dataframe to S3 using information stored in them,<scala><apache-spark><amazon-s3><apache-spark-sql>,1,356,1,0,2019-01-02 07:35:53,2019-01-02 10:59:56
+35546576,Data processing,How can I pass extra parameters to UDFs in Spark SQL?,<scala><apache-spark><apache-spark-sql><user-defined-functions>,16,21985,2,0,2016-02-22 05:47:53,2019-01-11 12:28:52
+52545438,Data processing,Convert a Dense Vector to a Dataframe using Pyspark,<python><pandas><apache-spark><dataframe>,1,1254,1,6,2018-09-27 21:32:23,2018-09-28 15:00:41
+36816293,Data processing,how can concatenate two string columns in one column in spark python,<python><apache-spark><dataframe>,2,6926,1,0,2016-04-23 20:53:44,2016-04-23 21:09:00
+58125949,Configuration,Permission error when using sparklyr with Hadoop,<apache-spark><hadoop><sparklyr>,1,21,1,0,2019-09-26 23:32:05,2019-09-28 10:19:54
+29168265,Spark API Usage,Serializing Cassandra Tables with Kryo and Spark,<serialization><cassandra><apache-spark><kryo>,2,470,1,0,2015-03-20 13:58:15,2016-07-08 08:14:03
+34491579,Data Sources,Saving RDD as sequence file in pyspark,<python><apache-spark><pyspark><sequencefile>,1,7437,2,0,2015-12-28 10:15:57,2019-07-08 15:46:31
+27323426,Data Sources,Spark- Saving JavaRDD to Cassandra,<cassandra><apache-spark><rdd>,5,4421,2,0,2014-12-05 19:40:10,2015-04-29 12:03:29
+41491972,Spark API Usage,How can I tear down a SparkSession and create a new one within one application?,<python><apache-spark><pyspark>,12,15152,4,0,2017-01-05 18:18:17,2018-08-16 15:43:30
+37984472,Data Sources,Saving intermediate result in Spark,<hadoop><apache-spark><spark-dataframe>,1,905,1,3,2016-06-23 07:05:41,2016-06-29 08:28:13
+37082645,Performance and Logging,How to generate lots of data in Spark?,<apache-spark>,1,754,2,0,2016-05-06 23:09:18,2017-12-21 19:36:25
+37986963,Configuration,Set driver's memory size programmatically in PySpark,<python><apache-spark><pyspark>,6,5188,3,0,2016-06-23 09:04:05,2016-09-22 21:24:30
+44282077,Data processing,How to find longest sequence of consecutive dates?,<apache-spark><apache-spark-sql>,2,1042,3,0,2017-05-31 10:19:38,2018-11-22 06:22:37
+39457876,Spark API Usage,Scala: Xtream complains object not Serialization,<scala><apache-spark><xml-deserialization>,2,98,1,2,2016-09-12 19:57:42,2016-09-13 13:33:05
+41920959,Spark API Usage,How to get the coefficients of the best logistic regression in a spark-ml CrossValidatorModel?,<scala><apache-spark><logistic-regression><cross-validation><apache-spark-ml>,4,2067,1,0,2017-01-29 12:36:46,2018-05-03 04:17:05
+46307671,Data processing,Pyspark column generation on lookup of previous rows and compute,<python><hadoop><apache-spark><pyspark>,1,719,1,1,2017-09-19 18:41:53,2018-01-09 19:59:11
+36648128,Spark API Usage,How to store custom objects in Dataset?,<scala><apache-spark><apache-spark-dataset><apache-spark-encoders>,132,56531,8,0,2016-04-15 13:11:07,2019-05-27 16:21:44
+47437665,Spark API Usage,"mongoDB & Spark: ""com.mongodb.MongoSocketReadException: Prematurely reached end of stream""",<java><mongodb><apache-spark><apache-kafka>,2,372,1,0,2017-11-22 14:53:07,2017-11-22 15:52:25
+38961814,Spark API Usage,Serial consumption of Kafka topics from Spark,<scala><apache-spark><apache-kafka><spark-streaming>,1,592,1,1,2016-08-15 19:35:25,2016-08-28 13:10:14
+40027222,Spark API Usage,Error: type mismatch flatMap,<scala><apache-spark>,4,7143,4,0,2016-10-13 17:18:08,2019-03-04 06:21:37
+35347838,Data Sources,How to keep Spark from splitting text files,<scala><apache-spark>,1,138,1,1,2016-02-11 19:02:54,2016-02-12 20:47:47
+40654323,Configuration,How to connect Tableau Desktop to Spark SQL 2.0 through Spark Thrift Server?,<apache-spark><apache-spark-sql><tableau>,3,439,1,0,2016-11-17 11:59:18,2016-11-23 21:24:45
+45015512,Other,"In Apache Spark cogroup, how to make sure 1 RDD of >2 operands is not moved?",<scala><apache-spark><join><shuffle>,1,327,1,0,2017-07-10 15:03:45,2017-10-23 11:39:53
+42354372,Data processing,Spark: Explode a dataframe array of structs and append id,<scala><apache-spark><spark-dataframe>,8,10862,1,2,2017-02-20 21:17:16,2017-02-20 23:51:26
+50938253,Data processing,Spark unable to parse timestamp fileds,<apache-spark><type-conversion><apache-spark-sql><timestamp-with-timezone>,1,296,1,0,2018-06-19 23:32:48,2018-06-19 23:39:42
+34888419,Data processing,Round Down Double in Spark,<scala><apache-spark><cassandra>,6,14572,2,6,2016-01-19 22:46:51,2016-11-07 22:51:03
+34011259,Spark API Usage,Atomic Writes to Cassandra with Spark Streaming,<apache-spark><cassandra><datastax-enterprise><atomicity><spark-cassandra-connector>,2,517,1,0,2015-12-01 01:48:48,2015-12-01 20:44:14
+34365692,Data Sources,"Spark SQL - load data with JDBC using SQL statement, not table name",<apache-spark><apache-spark-sql>,2,2573,2,0,2015-12-18 23:54:40,2018-02-01 22:45:28
+35515120,Other,"Why does SparkContext randomly close, and how do you restart it from Zeppelin?",<apache-spark><pyspark><apache-spark-sql><apache-zeppelin>,16,13049,4,1,2016-02-19 21:12:10,2017-08-11 15:07:06
+31312108,Data processing,java.util.Date is not supported,<java><apache-spark>,16,10800,1,4,2015-07-09 08:29:08,2018-04-03 11:48:56
+37660664,Spark API Usage,Spark program structure: broadcast variables vs final static vs external static attributes in classes,<java><apache-spark><architecture><spark-streaming>,1,3169,1,0,2016-06-06 14:59:07,2017-01-23 14:24:50
+38397688,Spark API Usage,Spark mapWithState API explanation,<scala><apache-spark><spark-streaming>,8,4970,1,0,2016-07-15 13:45:19,2019-04-03 08:01:27
+37693958,Spark API Usage,Generic parser class `Task not Serialization`,<scala><apache-spark>,1,172,1,7,2016-06-08 05:32:44,2016-06-08 07:19:10
+24113460,Other,"Apache spark job failed immediately without retry, setting maxFailures doesn't work",<apache-spark><failover><self-healing>,2,3476,3,3,2014-06-09 03:54:33,2019-01-28 09:52:53
+50260218,Data processing,Apache Spark: Broadcast join not workling for cached dataframe,<apache-spark><spark-dataframe>,1,195,1,0,2018-05-09 18:51:02,2018-05-09 20:23:38
+41344968,Configuration,About a java.lang.NoClassDefFoundError: Could not initialize class org.xerial.snappy.Snappy,<scala><apache-spark><snappy>,5,3051,1,0,2016-12-27 12:11:35,2017-02-07 11:02:57
+35619097,Data processing,Spark 1.4: Spark SQL ANY and ALL functions,<apache-spark><apache-spark-sql>,2,619,1,0,2016-02-25 05:28:49,2016-02-26 00:45:31
+50369115,Configuration,Kafka-spark Streaming processing jobs synchronically,<scala><apache-spark><apache-kafka><spark-streaming><confluent-kafka>,1,187,1,1,2018-05-16 10:59:57,2018-05-16 12:51:15
+26255738,Configuration,Apache Spark streaming simple application not working,<apache-spark><spark-streaming>,3,4592,2,0,2014-10-08 11:24:57,2016-02-26 11:01:38
+37586181,Spark API Usage,OneHotEncoder in Spark Dataframe in Pipeline,<scala><apache-spark><apache-spark-sql><apache-spark-mllib><apache-spark-ml>,5,2938,1,0,2016-06-02 08:11:41,2019-01-12 16:10:54
+31026191,Performance and Logging,Is there a better way for reduce operation on RDD[Array[Double]],<scala><apache-spark><reduce><rdd>,2,611,2,3,2015-06-24 12:11:01,2015-06-24 13:06:19
+32544307,Data processing,How to partition RDD by key in Spark?,<scala><apache-spark><rdd>,9,30510,2,0,2015-09-12 22:18:49,2019-03-26 02:02:49
+30760792,Configuration,How to find spark master URL on Amazon EMR,<apache-spark><spark-streaming><amazon-emr>,10,9591,1,1,2015-06-10 15:28:42,2017-02-06 23:11:45
+35234847,Other,Spark UDF exception when accessing broadcast variable,<apache-spark><broadcast><udf><notSerializationexception>,3,2132,2,2,2016-02-05 22:47:15,2017-09-12 07:29:27
+31736063,Spark API Usage,How to convert Mahout VectorWritable to Vector in Spark,<scala><apache-spark><mahout><apache-spark-mllib>,1,195,1,0,2015-07-31 00:05:58,2016-04-25 10:27:23
+48713416,Data Sources,Java read from json file using Apache Spark specifying the Schema,<java><apache-spark>,1,406,1,0,2018-02-09 20:12:28,2018-02-09 20:17:45
+57210968,Data processing,Spark Dataset Join and Aggregate columns,<scala><apache-spark>,1,46,1,0,2019-07-25 22:36:38,2019-07-26 04:43:37
+37335902,Data Sources,Is there a way to read from Parquet files in hdfs into SqlContext from Mobius?,<c#><apache-spark><parquet><mobius>,2,1786,2,0,2016-05-19 23:56:38,2017-11-27 23:22:40
+35603789,Spark API Usage,How to improve my recommendation result? I am using spark ALS implicit,<apache-spark><recommendation-engine><apache-spark-mllib>,6,1356,1,1,2016-02-24 13:39:25,2017-06-27 16:17:37
+43039254,Data Sources,Read all Parquet files saved in a folder via Spark,<scala><apache-spark><apache-spark-sql>,8,12827,2,0,2017-03-27 06:26:08,2018-05-21 19:32:09
+40048508,Data Sources,How to read and write a custom class from parquet file,<java><apache-spark><apache-spark-sql><spark-dataframe><parquet>,1,878,1,2,2016-10-14 17:07:05,2016-12-06 08:47:35
+46107245,Data Sources,Spark: Parquet DataFrame operations fail when forcing schema on read,<scala><apache-spark><dataframe><schema><parquet>,2,1662,2,0,2017-09-08 01:19:42,2017-09-09 21:22:20
+44590284,Spark API Usage,Number of Executors in Spark Local Mode,<scala><apache-spark>,8,3501,1,0,2017-06-16 13:18:55,2017-06-16 14:56:18
+35180527,Data processing,How to create a custom Transformer from a UDF?,<scala><apache-spark><apache-spark-sql><user-defined-functions><apache-spark-ml>,9,4149,3,0,2016-02-03 15:03:48,2017-12-26 07:02:52
+50758302,Data Sources,Add column in hive not allowed from scala/spark code,<scala><apache-spark><hive>,1,423,1,0,2018-06-08 10:11:14,2018-06-08 10:46:39
+35446881,Configuration,Spark + Docker-Compose: Illegal executor location format,<apache-spark><docker-compose>,1,273,1,0,2016-02-17 02:39:20,2016-02-17 02:39:20
+38490941,Data Sources,Spark: Read an inputStream instead of File,<java><apache-spark><apache-spark-sql><spark-dataframe><databricks>,10,5362,1,0,2016-07-20 21:13:20,2017-03-26 16:13:55
+39994005,Data processing,Cast Stringtype to ArrayType,<scala><apache-spark>,1,3154,1,4,2016-10-12 08:32:40,2016-10-12 09:06:50
+40773830,Spark API Usage,Spark mapPartitions vs transient lazy val,<dictionary><apache-spark><partition><transient>,5,724,1,0,2016-11-23 20:42:53,2017-04-26 21:46:58
+47836204,Configuration,Accessing hdfs from docker-hadoop-spark--workbench via zeppelin,<hadoop><apache-spark><docker><hdfs><apache-zeppelin>,6,356,1,0,2017-12-15 16:20:07,2017-12-26 05:14:09
+31807377,Data processing,Stackoverflow error when run iterative program (Java) in Spark,<java><apache-spark><cluster-analysis>,3,1161,1,3,2015-08-04 10:54:09,2015-08-05 03:49:48
+45418454,Data processing,How to Transform Spark Dataframe column for HH:MM:SS:Ms to value in seconds?,<scala><apache-spark><dataframe><apache-spark-sql>,2,1269,3,2,2017-07-31 14:20:46,2019-01-06 19:33:55
+41324733,Data processing,Sum of elements in text file using pyspark,<python><apache-spark><pyspark>,1,384,1,6,2016-12-25 21:44:52,2016-12-25 22:46:44
+49436770,Spark API Usage,Importing spark.implicits._ inside a Jupyter notebook,<scala><apache-spark><jupyter-notebook>,1,336,1,0,2018-03-22 19:18:10,2018-03-22 20:25:55
+42780886,Spark API Usage,Spark submit in java(SparkLauncher),<java><hadoop><apache-spark>,2,725,1,0,2017-03-14 08:18:49,2017-03-14 08:33:31
+36055774,Spark API Usage,value toDF is not a member of org.apache.spark.rdd.RDD,<scala><apache-spark><apache-spark-sql>,4,5586,3,9,2016-03-17 09:00:22,2019-03-07 08:06:33
+47726552,Spark API Usage,Python - Send Integer or String to Spark-Streaming,<python><sockets><apache-spark><pyspark><spark-streaming>,1,494,1,0,2017-12-09 07:57:12,2017-12-10 01:41:01
+37055038,Data processing,"Why are ""sc.addFile"" and ""spark-submit --files"" not distributing a local file to all workers?",<file><apache-spark><cluster-computing><distribute>,6,7395,1,2,2016-05-05 15:57:43,2018-09-01 18:04:15
+52040384,Configuration,Spark unable to download kafka library,<apache-spark><apache-kafka>,4,1167,2,0,2018-08-27 13:20:56,2019-08-06 11:53:53
+46051881,Data processing,Passing nullable columns as parameter to Spark SQL UDF,<apache-spark><apache-spark-sql>,6,1243,2,1,2017-09-05 09:45:52,2019-01-14 18:57:47
+42453194,Performance and Logging,How to send a collection to spark nodes only once?,<scala><apache-spark>,3,85,2,5,2017-02-25 07:20:40,2017-03-01 01:35:41
+38745679,Data processing,Extract row based on a particular value in spark,<scala><hadoop><apache-spark>,1,625,3,4,2016-08-03 13:55:30,2016-08-09 05:09:08
+45055389,Configuration,oozie workflow spark launch job on a particular queue,<apache-spark><oozie><oozie-workflow>,1,1036,1,1,2017-07-12 10:40:08,2017-07-12 10:50:19
+57463921,Data processing,How to truncate a date to Friday based on week of month?,<dataframe><apache-spark><datetime><pyspark>,2,74,2,0,2019-08-12 15:17:28,2019-08-12 18:25:54
+40767920,Data processing,subtractByKey modifes values in the source RDD,<scala><apache-spark>,2,160,1,2,2016-11-23 15:07:11,2018-03-11 02:11:46
+39943600,Data processing,AggregateByKey fails to compile when it is in an abstract class,<scala><apache-spark><compiler-errors><abstract-class>,4,186,1,0,2016-10-09 12:25:18,2016-10-09 13:20:53
+39530775,Spark API Usage,Apache Spark MLlib - getting LabeledPoint from data (Java),<java><apache-spark>,1,2067,3,3,2016-09-16 11:49:45,2016-09-26 05:35:20
+43843470,Performance and Logging,How to know which count query is the fastest?,<performance><apache-spark><query-optimization><apache-spark-sql>,5,3184,2,14,2017-05-08 08:53:02,2017-05-09 16:23:11
+37934932,Configuration,Specifying runtime dependency in Apache Spark,<java><apache-spark><apache-tika>,2,495,2,0,2016-06-21 03:09:10,2016-06-21 10:26:42
+38254405,Configuration,Spark file system watcher not working on Windows,<windows><ubuntu><apache-spark><filesystemwatcher>,1,127,1,0,2016-07-07 20:09:24,2016-07-13 14:08:37
+42930146,Data processing,delete constant columns spark having issue with timestamp column,<scala><apache-spark><apache-spark-sql><apache-spark-mllib>,1,256,1,0,2017-03-21 14:35:52,2017-03-21 15:23:17
+48987566,Data processing,Get WrappedArray row valule and convert it into string in Scala,<scala><apache-spark><apache-spark-sql>,3,2031,1,0,2018-02-26 11:33:48,2019-01-13 20:45:12
+36556559,Data processing,How to write a set of fields to JSON?,<json><scala><apache-spark><apache-spark-sql>,1,90,2,1,2016-04-11 18:35:44,2016-04-11 22:51:38
+31739364,Data processing,how to create permanent table in spark sql,<java><apache-spark><apache-spark-sql>,3,4739,2,0,2015-07-31 06:23:19,2016-05-23 14:51:30
+41624540,Configuration,Launch spark master windows7,<java><apache-spark><windows-7-x64>,1,320,1,0,2017-01-12 22:56:42,2017-01-13 13:27:44
+48579446,Performance and Logging,Performance implications of Spark Pipelines,<apache-spark><pyspark><apache-spark-sql>,1,95,1,1,2018-02-02 09:21:38,2018-02-02 09:33:46
+41058998,Spark API Usage,Spark: How RDD.map/mapToPair work with Java,<java><apache-spark><tuples><rdd><keyvaluepair>,2,11830,3,0,2016-12-09 11:05:36,2018-05-31 10:14:58
+38097736,Data Sources,Writing file to HDFS using Java,<java><hadoop><apache-spark>,5,3663,1,9,2016-06-29 11:03:48,2016-06-30 06:35:12
+45703026,Data processing,PySpark adding values to one DataFrame based on columns of 2nd DataFrame,<apache-spark><pyspark><apache-spark-sql>,1,625,2,0,2017-08-15 23:34:34,2019-01-10 00:15:58
+43920344,Data processing,Calculate maximum number of observations per group,<scala><apache-spark><apache-spark-1.6>,1,735,3,2,2017-05-11 15:54:11,2017-05-12 07:02:36
+31145737,Data Sources,saveAsTextFile() to write the final RDD as single text file - Apache Spark,<java><apache-spark>,1,1511,3,0,2015-06-30 18:28:07,2018-04-26 05:15:22
+34510206,Data Sources,How to format an output of saveAsTextFile?,<scala><hadoop><apache-spark>,1,1234,1,0,2015-12-29 11:37:42,2015-12-29 12:52:06
+35800795,Performance and Logging,Number of partitions in RDD and performance in Spark,<performance><apache-spark><pyspark><rdd>,30,24847,3,1,2016-03-04 16:13:34,2019-08-07 01:11:38
+57702508,Data Sources,How in Scala/Spark create excel file with multiple sheets from multiple DataFrame?,<excel><scala><dataframe><apache-spark>,2,81,1,0,2019-08-29 03:13:48,2019-09-01 06:06:36
+31655929,Spark API Usage,"Does spark dataframe have a ""row name"" for each row like pandas?",<python><pandas><apache-spark><pyspark><apache-spark-sql>,2,1467,1,0,2015-07-27 14:30:57,2019-01-07 16:19:31
+48929522,Data processing,Convert Long to Timestamp in Hive,<hadoop><apache-spark><hive><apache-spark-sql>,2,1068,1,0,2018-02-22 14:11:16,2018-02-22 14:44:38
+56106864,Data processing,pyspark withcolumn insert list in each row,<python><pyspark><apache-spark-sql><pyspark-sql>,1,327,1,0,2019-05-13 06:34:06,2019-05-13 07:09:43
+44273080,Data processing,How to change column metadata in pyspark?,<apache-spark><pyspark><metadata><apache-spark-ml>,4,2815,1,0,2017-05-30 22:47:48,2017-10-10 15:50:57
+45825616,Data processing,Spark SQL - Hivecontext - Datacopy from one table to another table in Hive,<apache-spark><hive><apache-spark-sql>,1,402,1,0,2017-08-22 19:33:09,2017-08-23 01:02:57
+32942420,Spark API Usage,Add custom field to Spark ML LabeldPoint,<java><machine-learning><apache-spark>,4,715,1,3,2015-10-05 06:23:35,2015-10-13 06:02:19
+36660625,Data processing,Spark sql top n per group,<apache-spark><group-by><apache-spark-sql><top-n>,7,6650,1,0,2016-04-16 05:48:06,2018-02-05 14:19:13
+45160912,Data processing,How to transform the dataframe into label feature vector?,<scala><apache-spark><machine-learning>,2,718,1,0,2017-07-18 08:05:43,2017-07-18 08:48:58
+48556872,Data processing,How to hide/exclude data-frame columns with respect to another table,<python><apache-spark><dataframe><pyspark>,1,733,1,0,2018-02-01 06:48:22,2018-02-01 07:39:10
+29260588,Performance and Logging,Apache Spark flatMap time complexity,<scala><apache-spark><data-mining><apriori>,3,1775,1,4,2015-03-25 15:58:30,2016-11-04 16:46:50
+44684547,Data processing,pyspark: AnalysisException when joining two data frame,<pyspark><apache-spark-sql><spark-dataframe>,1,1733,2,0,2017-06-21 19:18:04,2017-06-22 13:14:11
+52290069,Data processing,Spark Strucutured Streaming Window on non-timestamp column,<scala><apache-spark><spark-streaming><aggregate-functions><spark-structured-streaming>,7,293,2,0,2018-09-12 07:49:20,2018-09-21 13:35:01
+49452561,Data processing,how can I get statistique by dataframe in scala?,<scala><apache-spark><spark-dataframe>,1,89,1,0,2018-03-23 14:55:22,2018-03-23 18:46:09
+54851205,Other,Why does Some(null) throw NullPointerException in Spark 2.4 (but worked in 2.2)?,<scala><apache-spark>,1,433,1,7,2019-02-24 11:02:07,2019-02-25 10:57:26
+42036753,Configuration,Cassandra Spark Connector - NoSuchMethodError: scala.runtime.ObjectRef.zero()Lscala/runtime/ObjectRef,<java><scala><apache-spark><spark-cassandra-connector>,1,585,3,5,2017-02-04 05:16:39,2017-02-08 08:04:06
+44769696,Configuration,Spark application override yarn-site.xml config parameters,<apache-spark><yarn><spark-submit>,1,632,1,0,2017-06-26 22:42:11,2019-07-27 10:57:52
+47208891,Data processing,PySpark replace less frequent items with most frequent items,<apache-spark><pyspark><apache-spark-sql><spark-dataframe><apache-spark-mllib>,3,97,1,0,2017-11-09 18:15:20,2017-11-09 20:00:36
+49440819,Data processing,Change Data Types for Dataframe by Schema in Scala Spark,<scala><apache-spark><apache-spark-sql>,3,3141,4,1,2018-03-23 01:00:54,2018-06-22 02:27:53
+40068011,Data Sources,Spark :How to generate file path to read from s3 with scala,<json><scala><apache-spark><amazon-s3><filesystems>,1,2087,2,2,2016-10-16 07:35:30,2016-10-16 19:35:14
+41148981,Data Sources,Demultiplexing RDD onto multiple ORC tables,<apache-spark><apache-spark-sql>,6,303,2,0,2016-12-14 17:49:10,2017-01-09 18:06:47
+45404644,Data processing,Applying Mapping Function on DataFrame,<python><apache-spark><pyspark><databricks>,13,33164,1,0,2017-07-30 20:57:47,2017-11-16 08:21:20
+31804723,Configuration,Apache Spark Sql issue in multi node hadoop cluster,<java><hadoop><apache-spark><apache-spark-sql>,1,961,1,0,2015-08-04 08:50:12,2015-08-05 06:17:03
+22814960,Data Sources,Compressing sequence file in Spark?,<apache-spark>,2,3631,1,0,2014-04-02 14:41:46,2018-10-22 10:11:39
+48196113,Performance and Logging,"Spark in AWS: ""S3AbortableInputStream: Not all bytes were read from the S3ObjectInputStream""",<hadoop><apache-spark><pyspark><hdfs>,7,5108,2,0,2018-01-10 21:08:52,2019-03-29 19:26:55
+42960920,Spark API Usage,Spark Dataframe Random UUID changes after every transformation/action,<scala><apache-spark><dataframe><uuid>,8,4506,1,0,2017-03-22 19:26:19,2017-09-01 12:22:36
+32933143,Spark API Usage,How does Sparks RDD.randomSplit actually split the RDD,<apache-spark><rdd>,17,9757,1,0,2015-10-04 11:51:12,2017-02-18 21:39:41
+40027207,Configuration,python subprocess module hangs for spark-submit command when writing STDOUT,<python><linux><python-2.7><apache-spark><subprocess>,2,1712,2,1,2016-10-13 17:17:09,2017-03-01 10:07:01
+31937958,Data Sources,How to export data from Spark SQL to CSV,<hadoop><apache-spark><export-to-csv><hiveql><apache-spark-sql>,42,116315,7,1,2015-08-11 09:24:15,2019-09-28 00:32:46
+48746585,Data processing,calculate quantile by group in Sparklyr,<r><apache-spark><group-by><quantile><sparklyr>,3,864,1,0,2018-02-12 12:32:12,2018-02-13 15:26:32
+48260412,Configuration,environment variables PYSPARK_PYTHON and PYSPARK_DRIVER_PYTHON,<python><python-3.x><apache-spark><pyspark>,6,9103,5,1,2018-01-15 09:48:30,2019-08-08 02:21:53
+31983708,Configuration,spark submit java.lang.ClassNotFoundException,<macos><scala><intellij-idea><apache-spark><sbt>,3,10695,3,0,2015-08-13 08:56:02,2017-08-04 12:52:37
+48702474,Performance and Logging,Spark - failed: Set() explanation,<apache-spark>,2,1149,1,0,2018-02-09 09:20:52,2019-02-11 01:50:07
+47090432,Data processing,list' object has no attribute 'map' in pyspark,<python><apache-spark><pyspark><bigdata>,2,9016,1,6,2017-11-03 07:21:16,2018-09-04 03:31:15
+38331502,Configuration,Spark on YARN resource manager: Relation between YARN Containers and Spark Executors,<apache-spark><containers><yarn><hortonworks-data-platform><executor>,13,4785,1,0,2016-07-12 14:19:30,2016-07-13 09:49:37
+50055448,Performance and Logging,SELECT DISTINCT Cassandra in Spark,<apache-spark><cassandra><distinct>,1,534,3,0,2018-04-27 04:51:34,2019-05-23 06:43:45
+54332858,Data processing,Is there a way to fill in missing dates with 0s using dplyr?,<r><apache-spark><dplyr><sparklyr>,4,112,2,1,2019-01-23 17:43:10,2019-01-23 18:46:12
+36888746,Data processing,Transform RDD in PySpark,<apache-spark><pyspark><rdd>,1,254,1,0,2016-04-27 11:41:32,2017-01-18 13:09:49
+41098953,Spark API Usage,CodeGen grows beyond 64 KB error when normalizing large PySpark dataframe,<apache-spark><pyspark><apache-spark-sql><pyspark-sql><window-functions>,5,1712,2,0,2016-12-12 10:40:24,2019-03-17 17:11:12
+41108232,Data processing,How to aggregate string counts in spark(java) with datasets,<java><apache-spark><dataset>,2,980,2,2,2016-12-12 19:35:27,2016-12-12 21:20:29
+41379200,Spark API Usage,DAG scheduler repeating the processing stages while using unionALL,<scala><apache-spark><apache-spark-sql><spark-dataframe>,1,150,1,4,2016-12-29 11:54:18,2016-12-29 15:50:59
+41421675,Data processing,select multiple elements with group by in spark.sql,<scala><apache-spark><apache-spark-sql><bigdata>,1,8561,2,0,2017-01-02 05:17:50,2019-03-15 15:46:21
+33527321,Other,Spark does not load ARPACK or BLAS from netlib,<apache-spark><apache-spark-mllib><apache-spark-ml>,4,2082,1,0,2015-11-04 16:43:50,2015-12-31 12:12:15
+36247289,Spark API Usage,Does Spark SQL do predicate pushdown on filtered equi-joins?,<python><apache-spark><dataframe><pyspark><apache-spark-sql>,5,790,1,0,2016-03-27 12:24:38,2019-01-13 20:21:36
+48206682,Data processing,scala-breeze/spark replace a row of a densematrix with another densevector,<scala><apache-spark><breeze><apache-spark-ml><scala-breeze>,1,335,1,0,2018-01-11 12:06:38,2018-01-11 23:21:43
+54102101,Data processing,Spark SQL Insert Select with a column list?,<apache-spark>,1,626,1,0,2019-01-09 01:30:50,2019-01-09 01:35:18
+36629916,Data processing,Why Mutable map becomes immutable automatically in UserDefinedAggregateFunction(UDAF) in Spark,<scala><apache-spark><mutable><user-defined-aggregate>,6,1523,1,0,2016-04-14 17:23:20,2016-09-09 08:22:47
+38257630,Data processing,How to iterate scala wrappedArray? (Spark),<scala><apache-spark><apache-spark-sql>,9,13777,1,0,2016-07-08 01:23:02,2018-07-18 05:00:06
+46192348,Data processing,case statement in Spark SQL,<sql><apache-spark-sql><case><case-statement>,1,2637,2,4,2017-09-13 08:15:11,2017-09-13 09:43:06
+52431917,Data processing,PySpark - How to set the default value for pyspark.sql.functions.lag to a value within the current row?,<apache-spark><pyspark><apache-spark-sql>,1,427,1,0,2018-09-20 19:21:40,2018-09-20 19:44:29
+43582989,Spark API Usage,What's the difference between explode function and operator?,<apache-spark><apache-spark-sql>,11,22847,1,0,2017-04-24 08:15:04,2017-04-24 08:28:41
+38753898,Data processing,How to flatten a struct in a Spark dataframe?,<java><apache-spark><apache-spark-sql>,21,28437,5,2,2016-08-03 21:24:39,2019-07-31 05:11:45
+29945330,Data processing,"How to remove parentheses around records when saveAsTextFile on RDD[(String, Int)]?",<scala><apache-spark>,10,7048,6,0,2015-04-29 13:32:23,2018-02-14 07:35:37
+29020757,Configuration,how to download dse.jar,<java><maven><apache-spark><datastax-enterprise>,1,1990,2,7,2015-03-12 21:41:26,2018-08-15 19:21:40
+43961708,Data Sources,Why does reading from CSV fail with NumberFormatException?,<scala><csv><apache-spark><apache-spark-sql><apache-spark-1.6>,1,897,2,2,2017-05-14 08:05:05,2017-05-14 17:34:22
+40384592,Spark API Usage,How do I run a local Spark 2.x Session?,<scala><apache-spark><intellij-idea>,4,3835,1,0,2016-11-02 16:09:02,2016-11-02 16:16:22
+40619178,Data processing,Explode Spark Daraframe Avro Map into flat format,<scala><apache-spark><spark-dataframe><avro><spark-avro>,2,644,1,0,2016-11-15 20:33:16,2016-11-15 21:41:55
+52953058,Data processing,Map within filter in Spark,<scala><apache-spark>,1,37,2,1,2018-10-23 15:45:23,2018-10-23 15:52:45
+54268845,Data processing,How to check the number of partitions of a Spark DataFrame without incurring the cost of .rdd,<scala><apache-spark><partition>,4,2264,2,0,2019-01-19 15:56:52,2019-01-22 18:51:57
+32405768,Configuration,Error starting Spark in EMR 4.0,<amazon-web-services><apache-spark><pyspark><amazon-emr>,3,846,2,0,2015-09-04 20:03:06,2015-09-05 05:12:59
+43801889,Data processing,RDD[Vector] to dataframe,<scala><apache-spark>,1,1155,1,0,2017-05-05 09:54:00,2017-05-05 12:46:21
+50797649,Data Sources,Spark SQL error AnalysisException: cannot resolve column_name,<apache-spark><apache-spark-sql>,1,3218,2,2,2018-06-11 12:21:50,2018-06-20 12:35:25
+32568854,Data processing,SparkSQL - Lag function?,<sql><apache-spark><pyspark><apache-spark-sql><window-functions>,4,7340,1,0,2015-09-14 15:47:39,2017-12-26 01:06:15
+36038188,Configuration,ERROR SparkContext: Error initializing SparkContext,<scala><apache-spark>,7,19178,2,0,2016-03-16 14:12:47,2018-09-26 09:46:49
+40717153,Data processing,Spark UserDefinedAggregateFunction: scala.MatchError 0.0 (of class java.lang.Double),<scala><apache-spark><apache-spark-sql><user-defined-functions>,3,1940,1,0,2016-11-21 09:47:41,2019-01-11 13:26:22
+40763796,Data processing,Convert date from String to Date format in Dataframes,<apache-spark><apache-spark-sql>,31,108901,8,3,2016-11-23 11:52:07,2019-09-23 14:22:49
+51105320,Configuration,Can't access to SparkUI though YARN,<apache-spark><docker><hadoop><yarn><spark-ui>,2,344,1,0,2018-06-29 15:44:07,2019-03-18 11:15:39
+48474225,Configuration,"pyspark.sql.utils.IllegalArgumentException: u""Error while instantiating 'org.apache.spark.sql.hive.HiveSession StateBuilder':""",<hadoop><apache-spark><pyspark>,1,362,1,2,2018-01-27 09:00:20,2018-03-28 10:51:30
+53434176,Data processing,how to split geojson data in columns with spark sql scala,<scala><apache-spark-sql>,1,125,1,1,2018-11-22 15:31:59,2018-11-25 19:51:59
+30670337,Data processing,Skipping some lines based on their length in Scala and Spark,<scala><apache-spark>,4,758,2,2,2015-06-05 15:27:06,2015-06-05 16:55:12
+44473072,Data processing,How to apply functions in Scala case class for transforming dataframes,<scala><function><apache-spark><dataframe><case-class>,1,741,2,4,2017-06-10 11:59:34,2017-06-10 13:19:31
+34635404,Configuration,How to include Streaming test jar in sbt build?,<scala><apache-spark><sbt>,1,99,1,2,2016-01-06 14:21:35,2016-01-07 18:16:52
+55016299,Spark API Usage,Steps to reduce time delay due to GC allocation failure in azure databricks,<python><apache-spark><garbage-collection><jvm><azure-databricks>,1,887,1,1,2019-03-06 05:41:53,2019-03-06 06:17:18
+39234360,Data processing,Filter spark/scala dataframe if column is present in set,<scala><apache-spark><filter><spark-dataframe>,4,5770,2,0,2016-08-30 18:10:08,2018-05-23 21:15:38
+43608183,Data processing,Apache Spark Dataset API - Does not accept schema StructType,<java><csv><apache-spark><spark-dataframe><databricks>,1,485,2,0,2017-04-25 10:29:52,2017-04-25 12:22:49
+46925343,Data processing,Spark - Apply UDF on few columns of a Dataset and form new columns,<apache-spark><rdd><apache-spark-dataset>,1,535,2,5,2017-10-25 06:27:24,2017-10-25 18:02:12
+52427806,Performance and Logging,Spark application logger,<java><apache-spark><log4j>,1,157,1,4,2018-09-20 14:45:07,2018-09-20 16:06:19
+36995214,Spark API Usage,"pyspark, logistic regression, how to get coefficient of respective features",<python><apache-spark><pyspark><apache-spark-mllib>,2,3405,1,0,2016-05-03 03:42:37,2016-05-03 20:37:45
+32265478,Configuration,How to run sparkR in 64-bit mode,<r><apache-spark><sparkr><rhadoop>,2,713,2,2,2015-08-28 07:23:36,2015-09-08 12:12:37
+35598035,Performance and Logging,Scala - why Double consume less memory than Floats in this case?,<scala><memory><apache-spark><scala-collections>,11,482,1,2,2016-02-24 09:23:27,2016-02-24 10:01:57
+34619315,Data processing,Type mismatch on vertex RDD,<apache-spark><spark-graphx>,1,1480,2,4,2016-01-05 19:00:19,2018-11-15 10:25:15
+26194358,Configuration,"What are AssemblyKeys used for, and how to import them?",<scala><sbt><apache-spark>,9,2760,3,1,2014-10-04 15:39:11,2016-02-28 01:23:30
+56565986,Data processing,How to remove unwanted rows in dataframe based on a list of items or descriptions,<scala><list><apache-spark><dataframe><filter>,1,40,2,0,2019-06-12 15:44:12,2019-06-12 17:07:14
+53273017,Configuration,No module named 'resource' installing Apache Spark on Windows,<python><windows><apache-spark>,11,6376,3,2,2018-11-13 02:42:38,2019-03-22 18:40:16
+55188938,Configuration,sbt assembly failing to build when we try to use the cloudera upstream versions in the sbt file,<apache-spark><sbt><cloudera><sbt-assembly><sbt-plugin>,1,67,1,0,2019-03-15 18:43:52,2019-03-16 08:40:49
+40522665,Data processing,"xgboost4j - spark evaluate requires RDD[(Double, Double)]",<scala><apache-spark><prediction><xgboost>,1,432,1,0,2016-11-10 08:08:12,2016-11-10 18:50:32
+35770486,Performance and Logging,Spark: Streaming json to parquet,<json><apache-spark><parquet>,1,1558,1,6,2016-03-03 11:07:12,2016-03-05 09:17:49
+30872657,Data processing,"How to un-nest a spark rdd that has the following type ((String, scala.collection.immutable.Map[String,scala.collection.immutable.Map[String,Int]]))",<scala><cassandra><apache-spark>,1,343,2,2,2015-06-16 15:59:57,2015-06-16 20:39:59
+32727279,Data processing,Dropping a nested column from Spark DataFrame,<scala><apache-spark><dataframe><apache-spark-sql><apache-spark-ml>,20,10092,4,3,2015-09-22 21:30:04,2019-01-05 16:50:26
+29150202,Spark API Usage,pyspark fold method output,<apache-spark><pyspark>,2,4987,2,0,2015-03-19 16:38:14,2018-10-07 10:38:32
+42380482,Spark API Usage,Using spark context outside main,<scala><apache-spark>,1,637,1,0,2017-02-22 00:21:38,2017-02-22 01:54:47
+40656001,Data processing,How to convert Timestamp to Date format in DataFrame?,<apache-spark><apache-spark-sql>,21,37042,4,0,2016-11-17 13:18:59,2019-08-15 14:00:35
+50241178,Data processing,How do I groupby and concat a list in a Dataframe Spark Scala,<scala><apache-spark><dataframe><apache-spark-sql>,3,1526,3,1,2018-05-08 19:41:34,2019-01-07 16:29:19
+52574178,Data processing,"How to get earliest date From RDD[String, List[java.sql.date]], Scala",<scala><apache-spark><rdd>,1,81,1,0,2018-09-30 02:41:56,2018-09-30 06:06:39
+42303907,Data processing,Apache Spark. UDF Column based on another column without passing it's name as argument.,<scala><apache-spark><spark-dataframe><udf>,3,197,1,0,2017-02-17 17:22:53,2017-02-17 18:24:01
+57994948,Data processing,Databricks : Equivalent code for SQL query,<sql><apache-spark-sql><databricks><azure-databricks>,1,59,1,6,2019-09-18 14:18:14,2019-09-19 11:08:21
+25938567,Spark API Usage,How to uncache RDD?,<scala><apache-spark>,27,22367,4,0,2014-09-19 16:35:18,2019-01-02 06:26:37
+58029377,Data processing,PySpark - Spark SQL: how to convert timestamp with UTC offset to epoch/unixtime?,<pyspark><apache-spark-sql><pyspark-sql>,1,41,1,0,2019-09-20 13:30:57,2019-09-21 15:19:57
+39018905,Data processing,How to merge Arrays in RDD,<scala><apache-spark><rdd><sparkcore><bigdata>,1,977,1,2,2016-08-18 12:58:23,2017-09-20 06:13:17
+35224457,Configuration,Not able to connect MysqlDB through python spark,<python><mysql><apache-spark><pyspark><pyspark-sql>,2,881,2,1,2016-02-05 12:37:11,2016-02-11 13:14:26
+35957497,Spark API Usage,"Spark Streaming Direct Kafka API, OffsetRanges : How to handle first run",<scala><apache-spark><apache-kafka><spark-streaming><kafka-consumer-api>,2,752,1,1,2016-03-12 12:13:31,2017-04-07 14:58:19
+39743028,Data processing,Factorize Spark column,<scala><apache-spark><spark-dataframe>,2,306,2,0,2016-09-28 09:17:22,2016-09-28 10:18:23
+37104131,Spark API Usage,spark data partitioning for decision tree,<apache-spark><apache-spark-mllib>,2,351,1,0,2016-05-08 19:49:05,2016-05-09 02:47:00
+39997224,Configuration,How to connect to remote hive server from spark,<apache-spark><hive><apache-spark-sql><spark-thriftserver>,14,33053,2,1,2016-10-12 11:16:20,2019-06-03 13:34:31
+46739289,Configuration,"Spark job fails when cluster size is large, succeeds when small",<apache-spark><emr><amazon-emr>,1,499,2,1,2017-10-13 23:32:01,2017-10-17 21:59:24
+31482798,Data Sources,"save Spark dataframe to Hive: table not readable because ""parquet not a SequenceFile""",<apache-spark><hive><apache-spark-sql><pyspark>,9,15852,4,0,2015-07-17 18:53:50,2019-03-12 09:34:00
+36910014,Spark API Usage,Spark pyspark vs spark-submit,<apache-spark><pyspark>,3,4479,4,1,2016-04-28 09:04:45,2017-08-04 12:56:43
+37409857,Data processing,Passing a data frame column and external list to udf under withColumn,<python><apache-spark><pyspark><apache-spark-sql><user-defined-functions>,15,18205,2,0,2016-05-24 09:42:34,2019-01-14 12:29:39
+50518824,Data processing,Replace the value of one column from another column in spark dataframe,<scala><apache-spark><apache-spark-sql>,1,1507,1,0,2018-05-24 22:04:12,2018-05-25 07:14:52
+28974318,Spark API Usage,Spark Streaming RDD with a list of previous values,<scala><apache-spark><real-time><spark-streaming>,2,1139,1,1,2015-03-10 21:21:28,2015-03-11 21:14:39
+43094977,Data processing,Get IDs for duplicate rows (considering all other columns) in Apache Spark,<apache-spark><pyspark><apache-spark-sql><pyspark-sql>,8,7824,1,0,2017-03-29 13:30:09,2019-01-15 21:30:47
+46896407,Data Sources,Load tables into SQL Server from SparklyR,<sql-server><r><apache-spark><dplyr><sparklyr>,3,403,1,0,2017-10-23 18:46:42,2017-10-27 01:19:19
+51150764,Data processing,"Spark DataFrame, how to to aggregate sequence of columns?",<scala><apache-spark><dataframe><apache-spark-sql>,1,607,1,4,2018-07-03 09:13:46,2018-07-03 09:37:29
+44163964,Data Sources,Attach a file from HDFS to javax.mail email,<java><scala><email><apache-spark><hdfs>,1,305,1,1,2017-05-24 16:31:13,2017-05-25 10:29:54
+43005744,Data processing,convert columns of pyspark data frame to lowercase,<python><apache-spark><pyspark><spark-dataframe>,10,10324,1,0,2017-03-24 17:32:17,2017-03-24 19:31:36
+45072793,Data processing,How to rename elements of an array of structs in Spark DataFrame API,<scala><apache-spark><apache-spark-sql>,1,1087,1,1,2017-07-13 06:19:12,2019-05-31 18:43:32
+55823283,Data processing,Why does a PySpark UDF that operates on a column generated by rand() fail?,<python><apache-spark><pyspark>,6,364,1,1,2019-04-24 05:59:56,2019-05-11 23:56:43
+54846334,Performance and Logging,Spark SQL explain plan calls the temporary table calculation many times,<apache-spark><apache-spark-sql>,1,59,1,0,2019-02-23 21:22:36,2019-02-24 21:01:43
+29066333,Data processing,Spark RDD equivalent to Scala collections partition,<scala><apache-spark><scala-collections>,12,715,1,0,2015-03-15 21:22:46,2015-03-16 21:15:31
+39517541,Performance and Logging,"Spark coalesce vs collect, which one is faster?",<python><apache-spark><pyspark>,3,8670,2,0,2016-09-15 18:01:34,2018-07-02 21:06:50
+45517158,Data processing,Spark Dataset: Filter if value is contained in other dataset,<java><apache-spark><spark-dataframe><apache-spark-dataset>,3,5474,1,0,2017-08-05 00:38:46,2019-01-16 20:35:12
+40652171,Data processing,PySpark Dataframes: how to filter on multiple conditions with compact code?,<python><apache-spark><pyspark><apache-spark-sql><pyspark-sql>,1,3144,1,0,2016-11-17 10:17:37,2019-01-10 00:46:42
+38994132,Data processing,Inspecting GraphX Graph Object,<apache-spark><spark-graphx>,4,827,1,2,2016-08-17 10:30:55,2016-08-20 20:06:35
+32788387,Data processing,PipelinedRDD' object has no attribute 'toDF' in PySpark,<python><apache-spark><pyspark><apache-spark-sql><rdd>,43,41007,1,0,2015-09-25 18:21:06,2017-08-17 10:55:45
+24148441,Data processing,sortByKey in Spark,<scala><apache-spark>,4,8168,1,1,2014-06-10 18:33:36,2014-06-10 19:26:12
+33830676,Spark API Usage,Why does mapPartitions print nothing to stdout?,<scala><apache-spark>,2,751,2,0,2015-11-20 15:45:39,2015-11-22 18:02:18
+43063704,Spark API Usage,Count & Filter in spark,<apache-spark><pyspark>,1,482,1,0,2017-03-28 07:53:21,2017-03-28 08:38:48
+38813106,Spark API Usage,Sorting a DStream and taking topN,<scala><apache-spark><spark-streaming><top-n><dstream>,3,642,1,2,2016-08-07 10:15:32,2016-08-08 11:44:24
+50421494,Data processing,Spark Scala: How to Replace a Field in Deeply Nested DataFrame,<scala><apache-spark><apache-spark-sql><apache-spark-dataset>,2,1857,1,1,2018-05-19 03:31:34,2018-05-19 06:12:34
+35588509,Spark API Usage,Error when creating a StreamingContext,<apache-spark><spark-streaming>,6,2353,1,0,2016-02-23 21:26:40,2017-09-08 21:37:48
+48100909,Data processing,Dynamically convert date to Timestamp [without mentioning date format] in spark scala/python,<datetime><apache-spark><pyspark><apache-spark-sql><spark-dataframe>,2,588,1,3,2018-01-04 17:52:12,2018-01-08 11:20:12
+37785091,Data processing,How to build a Spark (Scala) function to search documents for terms,<scala><apache-spark><dataframe><apache-spark-sql>,1,516,1,0,2016-06-13 08:33:32,2019-01-11 21:16:47
+49458273,Spark API Usage,Spark - How to use QuantileDiscretizer with RandomForestClassifier,<scala><apache-spark><apache-spark-ml>,1,466,1,2,2018-03-23 21:03:21,2018-05-30 19:45:50
+45741035,Data processing,Is there any way to get the output of Spark's Dataset.show() method as a string?,<apache-spark><apache-spark-sql>,6,1539,1,0,2017-08-17 16:56:47,2018-01-31 20:36:42
+54350261,Data processing,Spark count & percentage for every column values Exception handling and loading to Hive DB,<scala><apache-spark><hadoop><hive><apache-spark-sql>,3,334,2,0,2019-01-24 15:37:07,2019-01-29 17:01:17
+35364045,Other,Predict new Value in R /SparkR and accuracy,<r><apache-spark><glm><predict><sparkr>,1,242,1,0,2016-02-12 13:38:13,2016-02-18 22:13:29
+32757402,Configuration,Google Cloud Dataproc - Submit Spark Jobs Via Spark,<scala><apache-spark><google-cloud-platform><google-cloud-dataproc>,2,488,1,2,2015-09-24 09:04:34,2015-09-28 15:54:44
+34038904,Data processing,Pattern matching - spark scala RDD,<regex><scala><apache-spark><pattern-matching><rdd>,2,17652,2,2,2015-12-02 09:18:24,2016-10-29 04:58:11
+46817136,Data Sources,get latest schema for partitionned parquet dataframe,<apache-spark><dataframe><apache-spark-2.0>,2,2296,1,0,2017-10-18 18:44:40,2019-06-25 15:02:13
+57963605,Data processing,Select spark dataframe column with special character in it using selectExpr,<pyspark><apache-spark-sql><special-characters><azure-databricks>,1,36,1,0,2019-09-16 19:55:53,2019-09-16 20:42:00
+36924873,Data processing,pyspark Column is not iterable,<apache-spark><pyspark>,7,15565,2,0,2016-04-28 20:28:20,2019-02-06 18:03:13
+44015380,Spark API Usage,Spark Job Submission: AWS EMR step or command line spark-submit,<amazon-web-services><apache-spark><yarn><amazon-emr>,3,1393,1,0,2017-05-17 04:09:58,2017-05-17 04:53:24
+49071917,Configuration,Failed to load class name properties in Apache Ignite,<java><apache-spark><sbt><ignite>,1,185,1,2,2018-03-02 15:10:32,2018-03-05 18:43:53
+36626299,Data processing,Scala +Spark+Dataframe Exception When i try to dynamically cast a column and assign sorting order,<scala><sorting><apache-spark><casting><comparator>,1,3872,1,0,2016-04-14 14:32:41,2016-04-15 13:48:04
+44332417,Spark API Usage,How does spark ML decision tree handle continuous features for regression problems,<java><apache-spark><machine-learning><regression><decision-tree>,1,872,1,0,2017-06-02 15:24:47,2017-07-04 15:34:19
+46458354,Data processing,How do I send multiple columns to a udf from a When Clause in Spark dataframe?,<scala><apache-spark><null><apache-spark-sql><user-defined-functions>,1,722,1,0,2017-09-27 22:47:57,2019-02-15 06:07:37
+36061899,Spark API Usage,Advantage of setting name to RDD,<scala><apache-spark>,5,2115,2,0,2016-03-17 13:25:12,2016-03-17 13:52:39
+46845292,Configuration,Can spark-submit with named argument?,<scala><apache-spark><distributed-computing>,5,1358,2,0,2017-10-20 08:36:48,2017-10-20 08:50:24
+43465683,Data processing,Scala/ Spark- Multiply an Integer with each value in a Dataframe Column,<scala><apache-spark>,2,7146,3,0,2017-04-18 07:02:46,2019-05-02 11:06:42
+56114557,Data processing,PySpark: Populating a column based on the last occurance of one of the values in a different column,<python><apache-spark><pyspark>,1,56,2,1,2019-05-13 14:34:19,2019-05-13 18:21:40
+47181625,Spark API Usage,Are two transformations on the same RDD executed in parallel in Apache Spark?,<scala><apache-spark><rdd>,2,467,2,0,2017-11-08 13:58:42,2017-11-08 14:24:53
+48062171,Data processing,Extracting values from a Spark column containing nested values,<apache-spark><pyspark><spark-dataframe>,2,1773,1,1,2018-01-02 13:47:25,2018-01-02 14:48:31
+57734272,Data processing,"Array manipulation in Spark, Scala",<scala><dataframe><apache-spark>,3,151,2,2,2019-08-31 00:04:20,2019-09-02 15:48:40
+50356088,Performance and Logging,Spark dataset encoders: kryo() vs bean(),<apache-spark><apache-spark-dataset><encoder>,2,1019,1,0,2018-05-15 17:26:46,2018-05-16 04:33:34
+28044321,Data processing,Scala Ordinal Method Call Aliasing,<scala><functional-programming><apache-spark><implicit>,2,108,2,0,2015-01-20 11:32:13,2015-01-20 20:26:18
+44413132,Data processing,Count the number of missing values in a dataframe Spark,<apache-spark><dataframe><apache-spark-sql>,6,10561,1,1,2017-06-07 12:48:55,2019-01-14 16:15:38
+49681116,Configuration,What causes R to crash while working with large data sets?,<r><apache-spark><h2o>,3,464,1,0,2018-04-05 20:37:55,2018-04-12 12:22:55
+30263646,Spark API Usage,SparkSQL error Table Not Found,<sql><scala><apache-spark><cassandra>,12,19140,5,3,2015-05-15 15:45:47,2017-07-10 20:32:05
+45164586,Configuration,ChangeFileModeByMask error (5): Access is denied,<java><scala><apache-spark><etl>,1,776,1,2,2017-07-18 10:46:49,2017-08-02 09:12:52
+57030933,Spark API Usage,Spark Streaming failing due to error on a different Kafka topic than the one being read,<apache-spark><apache-kafka><spark-structured-streaming>,1,108,1,0,2019-07-14 20:29:36,2019-07-15 22:47:25
+34443475,Data processing,Spark __getnewargs__ error,<python><apache-spark><pyspark>,10,7419,1,0,2015-12-23 20:47:43,2015-12-23 21:00:07
+23414238,Data processing,Apache Spark: Hashmap accumulators give type mismatch error,<scala><apache-spark>,2,5432,2,1,2014-05-01 18:39:48,2014-05-02 12:50:40
+52683800,Spark API Usage,Not able to view kafka consumer output while executing in ECLIPSE: PySpark,<apache-spark><pyspark><apache-kafka><spark-streaming>,1,122,1,0,2018-10-06 22:16:10,2018-10-07 13:05:02
+43600992,Performance and Logging,Suppress OutputRedirector text from Apache Spark log,<apache-spark><logging>,3,643,1,2,2017-04-25 03:17:23,2018-11-23 15:35:20
+46087420,Data processing,Scala add new column to dataframe by expression,<scala><apache-spark><dataframe>,13,19299,3,0,2017-09-07 03:39:23,2018-02-22 06:50:32
+40378510,Data processing,Spark scala Dataframe isin,<scala><apache-spark><dataframe>,1,3300,2,2,2016-11-02 11:11:49,2018-06-21 05:27:32
+55577043,Data processing,Split one column based the value of another column in pyspark,<apache-spark><pyspark><pyspark-sql>,1,156,2,0,2019-04-08 15:37:21,2019-04-09 09:27:33
+35019400,Configuration,Spark Maven Vaadin Jetty ( ExceptionInInitializerError),<maven><apache-spark><jetty><vaadin>,1,354,1,0,2016-01-26 16:56:20,2016-01-26 18:06:14
+45895642,Data processing,How to correctly handle Option in Spark/Scala?,<scala><apache-spark><scala-option>,2,536,1,0,2017-08-26 13:00:31,2017-08-26 14:22:08
+29521877,Data processing,Convert StringBuilder to RDD[String],<scala><apache-spark>,1,2953,1,0,2015-04-08 17:53:17,2015-04-08 18:31:01
+49352766,Data processing,How to extract a tuple in list in scala,<scala><list><apache-spark><tuples>,2,119,1,0,2018-03-18 21:01:25,2018-03-19 03:36:06
+37316729,Spark API Usage,Mapping field names of the output from Spark-Streaming to Elastic Search,<apache-spark><spark-streaming><elasticsearch-hadoop>,1,362,1,0,2016-05-19 07:33:21,2016-05-21 11:01:56
+38475706,Data processing,Spark Hive - UDFArgumentTypeException with window function?,<java><apache-spark><hive><apache-spark-sql><window-functions>,1,142,1,0,2016-07-20 08:05:32,2016-07-20 09:53:30
+34764505,Configuration,No suitable driver found for jdbc in Spark,<mysql><jdbc><apache-spark><apache-spark-sql>,7,8380,2,0,2016-01-13 10:41:25,2018-06-28 01:24:57
+46465608,Data processing,Spark dataframe : how to use as after a groupBy + sum,<scala><apache-spark><dataframe>,2,714,2,1,2017-09-28 09:27:20,2018-11-19 08:33:22
+46471399,Spark API Usage,Apache Spark - Two-sample Kolmogorov-Smirnov Test,<scala><apache-spark><pyspark>,3,1138,1,2,2017-09-28 14:15:17,2017-10-09 09:32:28
+23625896,Configuration,Writing to HBase in a Spark job: a conundrum with existential types,<scala><hadoop><hbase><apache-spark><existential-type>,4,5825,2,0,2014-05-13 08:09:38,2016-01-15 10:32:56
+39248090,Data Sources,Spark SQL to insert data into Cassandra,<scala><apache-spark><cassandra><apache-spark-sql>,1,2992,1,1,2016-08-31 11:13:31,2016-08-31 15:25:45
+54682256,Spark API Usage,Joining large data in spark streaming,<sql><apache-spark><join><apache-spark-sql>,1,46,1,1,2019-02-14 02:11:45,2019-02-14 16:16:12
+47508083,Spark API Usage,How to execute stream processing only when there are at least N rows?,<apache-spark><apache-kafka><apache-spark-sql><spark-structured-streaming>,1,134,2,0,2017-11-27 09:54:34,2018-10-27 15:12:40
+44765180,Data processing,How to flatten nested struct in array?,<java><apache-spark><apache-spark-sql>,1,460,2,3,2017-06-26 17:21:01,2017-06-27 17:28:22
+28806792,Data processing,Spark Combinebykey JAVA lambda expression,<java><lambda><apache-spark>,5,2873,2,2,2015-03-02 09:52:49,2018-05-18 12:44:43
+32505426,Data processing,How to process RDDs using a Python class?,<python><apache-spark><pyspark>,12,3388,1,0,2015-09-10 15:02:38,2015-09-11 15:24:51
+49692821,Performance and Logging,Is there a way to optimize grouping of joined RDDs in Scala?,<scala><apache-spark><rdd>,2,61,1,1,2018-04-06 12:27:16,2018-04-07 05:18:11
+55142020,Data Sources,How can I avoid OOM issue while writing huge dataframes in orc format using PySpark?,<python><python-3.x><apache-spark><dataframe><pyspark>,1,65,1,7,2019-03-13 12:31:59,2019-03-14 06:24:46
+36739466,Data processing,Hive partitions by date?,<sql><apache-spark><hive><hiveql><bigdata>,1,1596,3,0,2016-04-20 09:29:08,2017-09-21 03:14:22
+53922777,Spark API Usage,Google Cloud Storage requires storage.objects.create permission when reading from pyspark,<pyspark><google-cloud-platform><apache-spark-sql><google-cloud-storage><airflow>,1,240,2,2,2018-12-25 13:23:42,2019-03-27 05:23:21
+35281538,Spark API Usage,Spark HBase Join Error: object not Serialization class: org.apache.hadoop.hbase.client.Result,<apache-spark><hbase>,2,1166,1,0,2016-02-08 23:53:04,2019-05-01 20:59:26
+57388963,Data processing,"Spark window function, create a rank column depending on values in dataset",<python><apache-spark><pyspark><apache-spark-sql><pyspark-sql>,1,63,1,0,2019-08-07 07:21:22,2019-08-07 08:40:28
+40316417,Other,Count calls of UDF in Spark,<scala><apache-spark><apache-spark-sql>,5,688,1,3,2016-10-29 05:45:39,2016-10-29 08:45:34
+31721247,Spark API Usage,How to partition data by multiple fields?,<apache-spark>,2,977,2,0,2015-07-30 10:25:58,2015-09-25 22:27:30
+32058148,Data processing,How to flatten tuple created using zip transformation in PySpark,<python><apache-spark><ipython><pyspark><rdd>,1,1112,1,3,2015-08-17 19:24:47,2015-08-17 22:38:30
+44382822,Data processing,Pyspark: Add the average as a new column to DataFrame,<python><sql><apache-spark><pyspark>,1,2780,2,3,2017-06-06 06:30:29,2017-06-23 09:05:34
+43392568,Data processing,Find column index by searching column header of a Dataset in Apache Spark Java,<java><apache-spark><apache-spark-sql><apache-spark-dataset>,4,2892,2,1,2017-04-13 12:38:55,2019-01-07 09:16:13
+57346978,Data processing,Spark: Split is not a member of org.apache.spark.sql.Row,<scala><apache-spark><rdd><df>,2,82,1,0,2019-08-04 13:32:43,2019-08-04 14:07:00
+40235566,Data processing,Transforming Spark SQL AST with extraOptimizations,<apache-spark><apache-spark-sql><apache-spark-2.0>,1,742,2,0,2016-10-25 08:55:00,2016-10-28 06:02:40
+40781754,Configuration,sbt assembly switch between provided dependencies,<java><apache-spark><sbt><sbt-assembly>,2,385,1,2,2016-11-24 08:55:50,2016-11-24 09:43:39
+50171431,Configuration,Structured Streaming error py4j.protocol.Py4JNetworkError: Answer from Java side is empty,<apache-spark><pyspark><apache-kafka><spark-structured-streaming>,1,884,1,0,2018-05-04 09:18:19,2018-10-27 17:27:07
+54082435,Other,Writing many files to parquet from Spark - Missing some parquet files,<apache-spark><amazon-s3><parquet>,2,198,1,0,2019-01-07 21:56:18,2019-01-11 11:24:34
+58010723,Data processing,Finding the maximum sequence in a given range - Spark/Scala,<sql><scala><apache-spark><apache-spark-sql>,2,58,1,0,2019-09-19 12:10:46,2019-09-19 22:01:22
+32123418,Data processing,formatting a nested map in a map in Spark rdd,<scala><apache-spark>,2,953,1,0,2015-08-20 16:21:24,2015-08-21 14:26:06
+49266424,Data processing,Creating a Random Feature Array in Spark DataFrames,<arrays><scala><apache-spark><dataframe><vector>,1,394,2,0,2018-03-13 21:51:41,2018-03-14 03:28:04
+54355495,Data processing,How to remove duplicates in a Spark DataFrame,<apache-spark><apache-spark-sql>,1,480,2,0,2019-01-24 21:22:49,2019-01-25 03:26:01
+41854707,Spark API Usage,"using sparklyr in RStudio, can I upload a LOCAL csv file to a spark cluster",<r><apache-spark><rstudio><sparkr>,1,816,2,2,2017-01-25 14:56:38,2017-03-22 06:35:48
+45586458,Data processing,"How to add sparse vectors after group by, using Spark SQL?",<python><apache-spark><machine-learning><apache-spark-sql><pyspark-sql>,5,731,1,0,2017-08-09 09:17:20,2017-08-09 14:58:17
+47560142,Data processing,Spark Regexp: Split column based on date,<regex><scala><apache-spark>,1,1850,2,4,2017-11-29 19:15:51,2017-11-30 00:45:16
+49728091,Configuration,Spark no such field METASTORE_CLIENT_FACTORY_CLASS,<apache-spark><hadoop><hive><amazon-emr>,1,416,1,0,2018-04-09 07:59:32,2018-04-09 13:59:19
+40230237,Configuration,Enabling SSL between Apache spark and Kafka broker,<apache-spark><ssl><apache-kafka><spark-streaming>,1,1314,1,0,2016-10-25 02:02:55,2018-10-27 12:05:34
+34876451,Spark API Usage,Is it necessary to submit spark application jar?,<java><apache-spark><cassandra><datastax>,9,1324,2,2,2016-01-19 12:09:07,2016-11-06 17:18:28
+38360692,Configuration,HiveContext createDataFrame not working on pySpark (jupyter),<java><python><apache-spark><pyspark><spark-hive>,3,1133,1,2,2016-07-13 20:00:46,2016-07-13 22:15:34
+41356749,Data processing,how to print a rdd correctly,<scala><apache-spark>,2,3318,2,1,2016-12-28 06:47:02,2016-12-28 07:32:31
+40729047,Spark API Usage,What is difference of SPARK Partitions and Worker Cores?,<java><hadoop><apache-spark>,1,2246,2,1,2016-11-21 20:45:53,2016-11-22 06:04:40
+32788534,Data processing,Finding lines that start with a digit in Scala using filter() method,<scala><syntax><apache-spark>,1,2544,2,2,2015-09-25 18:32:16,2015-09-25 20:09:31
+43622873,Performance and Logging,apache spark - which one encounters less memory bottlenecks - reduceByKey or reduceByKeyLocally?,<scala><apache-spark><rdd>,2,742,1,0,2017-04-26 00:07:24,2018-03-21 12:25:18
+44855848,Data processing,Persist dataframe ignores StorageLevel,<apache-spark><apache-spark-sql>,3,897,2,1,2017-06-30 23:09:22,2017-08-01 16:03:04
+33231536,Configuration,Getting Spark 1.5 to run on mac local,<python><apache-spark><ipython>,1,95,1,0,2015-10-20 08:21:39,2015-10-20 08:21:39
+57265118,Data processing,How to Reverse arrangement DataFrame in Apache Spark,<scala><apache-spark><apache-spark-sql>,1,62,2,1,2019-07-30 05:54:41,2019-07-30 19:10:00
+57920480,Data Sources,How to save nested or JSON object in spark Dataset with converting to RDD?,<java><apache-spark><apache-spark-dataset>,1,38,1,0,2019-09-13 09:03:18,2019-09-13 10:24:13
+36561435,Data processing,Date Arithmetic with Multiple Columns in PySpark,<python><apache-spark><pyspark><spark-dataframe>,4,1780,1,0,2016-04-12 00:11:39,2016-04-12 15:06:47
+50500407,Data processing,Spark SQL RANK() over ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING fails,<apache-spark-sql>,1,1466,1,0,2018-05-24 03:19:11,2018-05-24 05:54:56
+44316974,Data processing,Spark SQL's Scala API - TimestampType - No Encoder found for org.apache.spark.sql.types.TimestampType,<scala><apache-spark><timestamp><apache-spark-sql><apache-spark-dataset>,5,3265,2,0,2017-06-01 20:57:49,2018-02-23 13:06:09
+31097751,Other,Spark caching RDD without being asked to,<scala><apache-spark>,2,355,3,7,2015-06-28 08:49:14,2015-09-09 17:08:47
+45885044,Data processing,Getting labels from StringIndexer stages within pipeline in Spark (pyspark),<python><apache-spark><pyspark>,5,2352,1,0,2017-08-25 15:42:30,2017-08-25 19:50:00
+34293027,Configuration,Classpath issues running Tika on Spark,<scala><jar><apache-spark><classpath><apache-tika>,3,1238,3,0,2015-12-15 15:25:52,2019-09-04 15:45:59
+32265456,Configuration,How to pre-package external libraries when using Spark on a Mesos cluster,<scala><apache-spark><mesos><mesosphere>,9,1960,4,1,2015-08-28 07:22:23,2015-10-06 07:07:36
+49471192,Data Sources,Spark 2.3.0 Read Text File With Header Option Not Working,<python-2.7><apache-spark><header><spark-dataframe><text-files>,4,8174,1,0,2018-03-24 23:58:00,2018-03-25 04:10:28
+39253203,Spark API Usage,How to profile pyspark jobs,<apache-spark><pyspark><apache-spark-sql><profiler><spark-dataframe>,4,3139,1,0,2016-08-31 15:08:21,2016-08-31 16:00:28
+48177044,Other,How to create security filter for Spark UI in Spark on YARN,<hadoop><apache-spark><apache-zeppelin>,2,305,1,0,2018-01-09 21:39:48,2018-02-01 21:41:40
+47040698,Data processing,How do I pass parameters to selectExpr? SparkSQL-Scala,<apache-spark-sql><spark-dataframe>,2,6206,1,2,2017-10-31 16:59:12,2017-11-03 04:58:49
+45167709,Configuration,Unable to connect to remote Cassandra via Spark + Scala,<scala><maven><apache-spark><cassandra><spark-cassandra-connector>,2,447,1,7,2017-07-18 13:06:41,2017-07-18 13:27:03
+31955309,Data processing,Add column sum as new column in PySpark dataframe,<python><apache-spark><pyspark><spark-dataframe>,23,36165,4,2,2015-08-12 02:59:12,2019-02-08 19:05:58
+49281576,Data processing,Spark AnalysisException global table or view not found,<scala><apache-spark><apache-spark-sql><spark-dataframe>,1,3127,3,2,2018-03-14 15:22:29,2018-03-15 05:38:24
+53592313,Data processing,Heavy stateful UDF in pyspark,<python><apache-spark><pyspark><user-defined-functions>,1,151,1,0,2018-12-03 10:54:41,2018-12-03 11:14:45
+26872788,Data processing,Spark Scala scala.util.control.Exception catching and dropping None in map,<scala><exception-handling><apache-spark><rdd>,3,1162,1,0,2014-11-11 19:19:06,2015-02-04 22:17:55
+32900135,Performance and Logging,Apache Spark slow on reduceByKey step,<python><performance><apache-spark><pyspark>,1,1234,1,2,2015-10-02 03:29:22,2015-10-02 13:41:26
+39377451,Configuration,"args python parser, a whitespace and Spark",<python><linux><apache-spark><io><redhat>,2,84,1,11,2016-09-07 19:10:06,2016-09-07 21:19:09
+33311794,Configuration,"import Spark source code into intellj, build Error: not found: type SparkFlumeProtocol and EventBatch",<maven><intellij-idea><build><compiler-errors><apache-spark>,5,2932,1,0,2015-10-23 21:40:39,2016-07-20 02:36:23
+35892377,Spark API Usage,Spark Streaming: join back to original stream after UpdateStateByKey,<scala><apache-spark><spark-streaming>,1,173,1,0,2016-03-09 13:02:01,2016-03-09 13:48:27
+46481174,Data processing,SQL JSON array sort,<mysql><sql><arrays><json><apache-spark-sql>,1,1273,2,1,2017-09-29 03:02:05,2017-09-30 19:47:20
+39620703,Configuration,assertion failed: unsafe symbol DeveloperApi in runtime reflection universe,<java><scala><apache-spark>,6,1653,1,2,2016-09-21 15:25:56,2018-12-11 15:48:35
+50103830,Configuration,Maven package error,<java><scala><maven><apache-spark><geotools>,3,216,2,2,2018-04-30 15:40:24,2019-08-04 10:52:24
+56397906,Data processing,Pyspark aggregate a StructType column as an Array of its elements for each line,<python><pyspark><aggregate><apache-spark-2.3>,1,96,1,1,2019-05-31 15:30:06,2019-05-31 15:37:52
+37128737,Performance and Logging,efficiently implementing takeByKey for spark,<scala><hadoop><apache-spark><functional-programming><rdd>,4,64,2,0,2016-05-10 03:25:30,2016-05-25 06:20:44
+50477857,Data Sources,Spark fails to read CSV when last column name contains spaces,<scala><csv><apache-spark><apache-commons><spark-csv>,7,1312,2,5,2018-05-22 23:33:36,2018-12-11 06:19:39
+55430602,Data processing,PySpark find if pattern in one column is present in another column,<python><apache-spark><dataframe><pyspark>,1,159,1,1,2019-03-30 10:41:31,2019-03-30 21:59:57
+36038987,Data processing,find line number in an unstructured file in scala,<scala><apache-spark><spark-dataframe><line-numbers>,1,979,1,3,2016-03-16 14:45:45,2016-03-16 19:04:12
+41437946,Spark API Usage,How can I explain the Apache Spark RDD Lineage Graph?,<scala><apache-spark><rdd><directed-acyclic-graphs>,1,951,1,0,2017-01-03 06:51:22,2017-01-03 08:22:46
+33635071,Data Sources,How to allow spark to ignore missing input files?,<hadoop><apache-spark>,11,4835,1,0,2015-11-10 16:40:51,2015-11-17 06:36:40
+39583623,Spark API Usage,Spark Logistic Regression Error Dimension Mismatch,<python><apache-spark><pyspark><logistic-regression>,1,600,2,1,2016-09-19 23:38:51,2016-09-20 04:22:21
+46466353,Data processing,Pyspark dataframe get a list of columns where at least one row meets a condition,<python><apache-spark><dataframe><pyspark>,1,589,1,0,2017-09-28 10:01:49,2017-09-28 18:14:36
+32772974,Data processing,How to get a subset of a RDD?,<scala><apache-spark><rdd>,3,1300,1,0,2015-09-25 00:23:48,2015-09-25 01:03:38
+53404978,Data processing,Python dictionary key value into dataframe where clause in Pyspark,<python><apache-spark><pyspark><pyspark-sql>,4,113,1,0,2018-11-21 03:45:56,2018-12-14 14:51:23
+43797758,Other,calculate co-occurrence terms with spark using scala,<scala><apache-spark>,3,487,1,0,2017-05-05 06:15:28,2017-05-05 07:26:00
+51428195,Performance and Logging,Spark csv reading speed is very slow although I increased the number of nodes,<scala><csv><apache-spark><hadoop><google-compute-engine>,4,1806,2,4,2018-07-19 16:58:07,2019-08-15 19:14:35
+35029061,Spark API Usage,Spark Streaming: How to change the value of external variables in foreachRDD function?,<scala><apache-spark><spark-streaming>,1,793,2,0,2016-01-27 04:43:49,2016-03-23 15:44:07
+50007126,Spark API Usage,Pickling monkey-patched Keras model for use in PySpark,<apache-spark><pyspark><keras><pickle><monkeypatching>,3,482,1,1,2018-04-24 16:54:16,2018-05-07 21:11:43
+45565565,Data processing,How to perform count by value operation on spark's Dataset without grouping values?,<java><apache-spark>,2,588,2,0,2017-08-08 10:13:55,2017-08-08 10:38:43
+36228747,Data processing,changing data type in rdd,<python><apache-spark><pyspark>,2,4577,2,0,2016-03-25 22:00:54,2016-03-26 00:07:50
+36898511,Other,How to retrieve Metrics like Output Size and Records Written from Spark UI?,<apache-spark><apache-spark-sql><spark-dataframe><spark-cassandra-connector><codahale-metrics>,10,2003,1,4,2016-04-27 18:53:34,2018-01-03 08:46:54
+52246451,Data processing,How to save the returned values of UDF function into two columns?,<python><python-3.x><apache-spark><pyspark><apache-spark-sql>,1,179,3,2,2018-09-09 16:23:38,2018-09-10 06:47:40
+33934026,Data processing,Sum up rows in DataFrame,<scala><apache-spark-sql>,1,521,1,0,2015-11-26 08:45:35,2015-11-26 10:02:41
+36000959,Data processing,Merge multiple RDD generated in loop,<scala><apache-spark><rdd>,5,3536,2,0,2016-03-15 01:08:09,2016-03-15 06:10:08
+48359436,Configuration,PySpark install error,<python><hadoop><apache-spark><pyspark><jupyter-notebook>,2,667,1,5,2018-01-20 18:03:29,2018-01-20 22:01:25
+42957650,Data processing,Spark : Pivot with multiple columns,<scala><apache-spark><dataframe><apache-spark-sql><pivot>,2,2402,1,0,2017-03-22 16:34:44,2019-01-11 13:05:16
+32877326,Data processing,How to skip more then one lines of header in RDD in Spark,<python><apache-spark>,3,5272,3,6,2015-09-30 23:47:06,2019-03-07 17:05:01
+44145862,Data processing,Convert data frame to strong typed data set?,<scala><apache-spark>,2,455,1,10,2017-05-23 22:11:42,2017-05-24 15:12:50
+39655744,Data processing,Secondary sorting by using join in Spark?,<scala><sorting><apache-spark><rdd>,1,312,2,0,2016-09-23 08:04:57,2016-09-23 19:14:39
+48268969,Configuration,Spark is running queries into database multiple times,<java><apache-spark><batch-processing>,1,359,2,0,2018-01-15 18:43:49,2018-01-19 12:52:43
+51582475,Spark API Usage,Spark client mode - YARN allocates a container for driver?,<apache-spark><yarn>,2,559,2,0,2018-07-29 16:46:46,2018-07-30 06:57:35
+38839162,Other,Databricks spark-csv check for empty file,<java><csv><apache-spark><databricks>,1,529,1,0,2016-08-08 21:59:42,2016-08-08 22:18:48
+46740670,Data Sources,No FileSystem for scheme: s3 with pyspark,<python><python-2.7><apache-spark>,5,10388,1,4,2017-10-14 03:47:22,2018-06-04 16:47:37
+41960919,Data processing,Spark Results from two tables,<apache-spark><pyspark><apache-spark-sql><pyspark-sql>,1,625,3,2,2017-01-31 15:07:55,2019-03-12 14:33:58
+27427042,Configuration,spark unable to save in hadoop (permission denied for user),<scala><apache-spark><cloudera-cdh>,3,4487,2,0,2014-12-11 15:55:16,2014-12-12 00:40:11
+57390732,Data processing,How to encode the grouped data in spark.dataframe?,<pyspark><apache-spark-sql>,1,31,1,1,2019-08-07 09:05:10,2019-08-07 09:31:40
+52951429,Other,How can I use pmml model in PySpark script?,<python><apache-spark><pyspark><pmml>,1,217,2,0,2018-10-23 14:22:20,2019-07-26 10:58:28
+38078146,Spark API Usage,How to stream stdout in Scala?,<java><scala><apache-spark>,2,4216,1,2,2016-06-28 13:52:33,2016-06-28 15:19:04
+44829141,Spark API Usage,Error found when importing spark.implicits,<scala><apache-spark>,1,890,2,0,2017-06-29 15:19:23,2019-03-11 04:38:52
+34736587,Spark API Usage,Kryo serializer causing exception on underlying Scala class WrappedArray,<java><scala><serialization><apache-spark><kryo>,6,3666,2,3,2016-01-12 06:03:17,2016-05-24 16:36:31
+29543854,Configuration,How to control the memory heap size of Spark History Server?,<apache-spark><cloudera-cdh>,2,2540,2,0,2015-04-09 16:20:50,2016-09-28 13:46:45
+55461843,Data processing,filter only not empty arrays dataframe spark,<scala><apache-spark><apache-spark-sql>,3,365,2,1,2019-04-01 18:59:38,2019-04-01 19:32:57
+44450889,Spark API Usage,Why does spark-shell fail to load a file with class with RDD imported?,<scala><apache-spark>,3,2116,1,4,2017-06-09 06:36:38,2017-06-09 08:59:24
+41169254,Spark API Usage,Creating a broadcast variable with SparkSession ? Spark 2.0,<scala><apache-spark><apache-spark-sql><spark-dataframe>,3,3987,1,4,2016-12-15 16:44:38,2016-12-15 16:52:56
